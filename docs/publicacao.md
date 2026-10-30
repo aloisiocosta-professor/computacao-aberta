@@ -1,17 +1,17 @@
 # Publicação e continuidade
 
-Nome provisório: computacao-aberta. Destino pretendido: perfil aloisiocosta-professor, repositório público novo. A conexão GitHub consultada não expôs operação para criar repositórios; nenhum repositório remoto foi criado, nem credencial foi lida. Não houve push, merge, tag, release ou execução remota.
+Repositório público: [aloisiocosta-professor/computacao-aberta](https://github.com/aloisiocosta-professor/computacao-aberta). Criado pelo usuário e sincronizado em 30/10/2026, após a solicitação explícita de sincronização.
 
-O pacote contém os arquivos, histórico Git local e um git bundle. Para publicar, criar um repositório vazio com o nome escolhido e sem inicializar README/licença. Depois, no diretório do projeto, adicionar o remote confirmado e enviar main/develop. Não inserir tokens nos arquivos ou no histórico.
+Foram publicados os 150 arquivos do pacote inicial em `main` e criada `develop` a partir do mesmo commit. A identidade da árvore Git foi conferida: bf95baaf858ea3448e11e01aa4d1216434241a6d. O histórico original do pacote foi preservado localmente em `bootstrap-local`; a publicação possui um commit de inicialização e um de sincronização. Não houve merge, tag ou release.
 
-Exemplo de comandos após confirmar a URL do repositório vazio:
+Para obter uma cópia de trabalho:
 
 ```bash
-git remote add origin URL_CONFIRMADA_DO_REPOSITORIO
-git push -u origin main
-git push -u origin develop
+git clone https://github.com/aloisiocosta-professor/computacao-aberta.git
+cd computacao-aberta
+git switch develop
 ```
 
-Uma alternativa é usar o navegador com uma sessão GitHub já autenticada, mediante autorização para essa alternativa. A restrição é de capacidade da conexão atual, não de autorização para preparar este projeto.
+O envio inicial foi realizado pela conexão GitHub existente. Nenhum navegador, cadastro ou leitura de credencial foi necessário. A documentação foi atualizada para registrar a publicação e preservar as pendências científicas.
 
-CI: o workflow incluído valida estrutura local, sem instalar dependências nem baixar livros. A execução remota permanece pendente. Custos, quotas e políticas da conta devem ser conhecidos antes de habilitar serviços adicionais; nenhum serviço pago foi ativado.
+CI: a [execução 41068161809](https://github.com/aloisiocosta-professor/computacao-aberta/actions/runs/41068161809) foi concluída com sucesso para o commit def41c5bb4a3e473a2eced2ddfa61b0a3b285309. O workflow gera os documentos, valida a estrutura e verifica a ausência de diferenças nos arquivos gerados, sem instalar dependências Python externas ou baixar livros. Revisão científica e aprovação humana permanecem pendentes.

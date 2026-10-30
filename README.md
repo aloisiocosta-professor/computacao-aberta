@@ -46,6 +46,7 @@ Leia [CONTRIBUTING](CONTRIBUTING.md). Fluxo: branches `main`, `develop` e `featu
 - Validação automatizada estrutural: ver [relatório](docs/validacao.md).
 - Leitura integral das obras e auditoria de todas as aulas: pendentes.
 - Cobertura integral de competências SBC/CE2016/CS2023: não verificada.
-- Publicação no GitHub e execução remota do CI: pendentes.
+- Repositório publicado: [aloisiocosta-professor/computacao-aberta](https://github.com/aloisiocosta-professor/computacao-aberta), com branches `main` e `develop`.
+- Primeira validação remota: [GitHub Actions — execução aprovada](https://github.com/aloisiocosta-professor/computacao-aberta/actions/runs/41068161809).
 
 Código original: MIT. Documentação e organização editorial originais: CC BY 4.0. Obras externas conservam suas próprias condições. Ver [licenciamento](LICENSE).
