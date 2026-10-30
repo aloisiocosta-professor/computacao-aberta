@@ -18,7 +18,7 @@ jobs:
         run: python3 scripts/gerar.py
       - name: Validar estrutura
         run: python3 scripts/validar.py
-      - name: Testar rastreabilidade das relações
+      - name: Testar relações, habilidades, progresso e exemplos
         run: python3 -m unittest discover -s tests -v
       - name: Verificar arquivos gerados
         run: git diff --exit-code

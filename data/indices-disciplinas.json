@@ -1,0 +1,4062 @@
+[
+  {
+    "id": "IDX-FND01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FND01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FND01-01",
+        "numero_original": "1",
+        "titulo": "abstração",
+        "disciplina": "FND01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND01-02",
+        "numero_original": "2",
+        "titulo": "sistemas computacionais",
+        "disciplina": "FND01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND01-03",
+        "numero_original": "3",
+        "titulo": "hardware e software",
+        "disciplina": "FND01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FND02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FND02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FND02-01",
+        "numero_original": "1",
+        "titulo": "planejamento",
+        "disciplina": "FND02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND02-02",
+        "numero_original": "2",
+        "titulo": "autoavaliação",
+        "disciplina": "FND02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND02-03",
+        "numero_original": "3",
+        "titulo": "registro de dúvidas",
+        "disciplina": "FND02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FND03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FND03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FND03-01",
+        "numero_original": "1",
+        "titulo": "controle de versão",
+        "disciplina": "FND03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND03-02",
+        "numero_original": "2",
+        "titulo": "terminal",
+        "disciplina": "FND03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND03-03",
+        "numero_original": "3",
+        "titulo": "depuração",
+        "disciplina": "FND03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FND04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FND04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FND04-01",
+        "numero_original": "1",
+        "titulo": "argumentação",
+        "disciplina": "FND04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND04-02",
+        "numero_original": "2",
+        "titulo": "atribuição",
+        "disciplina": "FND04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND04-03",
+        "numero_original": "3",
+        "titulo": "busca bibliográfica",
+        "disciplina": "FND04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FND05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FND05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FND05-01",
+        "numero_original": "1",
+        "titulo": "leitura técnica",
+        "disciplina": "FND05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND05-02",
+        "numero_original": "2",
+        "titulo": "vocabulário",
+        "disciplina": "FND05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND05-03",
+        "numero_original": "3",
+        "titulo": "documentação",
+        "disciplina": "FND05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FND06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FND06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FND06-01",
+        "numero_original": "1",
+        "titulo": "pergunta",
+        "disciplina": "FND06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND06-02",
+        "numero_original": "2",
+        "titulo": "desenho de estudo",
+        "disciplina": "FND06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FND06-03",
+        "numero_original": "3",
+        "titulo": "reprodutibilidade",
+        "disciplina": "FND06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-MAT01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "MAT01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "MAT01-01",
+        "numero_original": "1",
+        "titulo": "álgebra",
+        "disciplina": "MAT01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT01-02",
+        "numero_original": "2",
+        "titulo": "funções",
+        "disciplina": "MAT01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT01-03",
+        "numero_original": "3",
+        "titulo": "trigonometria",
+        "disciplina": "MAT01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-MAT02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "MAT02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "MAT02-01",
+        "numero_original": "1",
+        "titulo": "proposições",
+        "disciplina": "MAT02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT02-02",
+        "numero_original": "2",
+        "titulo": "conjuntos",
+        "disciplina": "MAT02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT02-03",
+        "numero_original": "3",
+        "titulo": "relações",
+        "disciplina": "MAT02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT02-04",
+        "numero_original": "4",
+        "titulo": "indução",
+        "disciplina": "MAT02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-MAT03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "MAT03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "MAT03-01",
+        "numero_original": "1",
+        "titulo": "vetores",
+        "disciplina": "MAT03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT03-02",
+        "numero_original": "2",
+        "titulo": "retas",
+        "disciplina": "MAT03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT03-03",
+        "numero_original": "3",
+        "titulo": "planos",
+        "disciplina": "MAT03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-MAT04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "MAT04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "MAT04-01",
+        "numero_original": "1",
+        "titulo": "limites",
+        "disciplina": "MAT04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT04-02",
+        "numero_original": "2",
+        "titulo": "derivadas",
+        "disciplina": "MAT04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT04-03",
+        "numero_original": "3",
+        "titulo": "integrais de uma variável",
+        "disciplina": "MAT04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-MAT05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "MAT05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "MAT05-01",
+        "numero_original": "1",
+        "titulo": "técnicas de integração",
+        "disciplina": "MAT05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT05-02",
+        "numero_original": "2",
+        "titulo": "sequências",
+        "disciplina": "MAT05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT05-03",
+        "numero_original": "3",
+        "titulo": "séries",
+        "disciplina": "MAT05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-MAT06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "MAT06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "MAT06-01",
+        "numero_original": "1",
+        "titulo": "matrizes",
+        "disciplina": "MAT06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT06-02",
+        "numero_original": "2",
+        "titulo": "espaços vetoriais",
+        "disciplina": "MAT06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT06-03",
+        "numero_original": "3",
+        "titulo": "autovalores",
+        "disciplina": "MAT06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-MAT07",
+    "tipo": "disciplina_autoral",
+    "disciplina": "MAT07",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "MAT07-01",
+        "numero_original": "1",
+        "titulo": "distribuições",
+        "disciplina": "MAT07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT07-02",
+        "numero_original": "2",
+        "titulo": "estimação",
+        "disciplina": "MAT07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT07-03",
+        "numero_original": "3",
+        "titulo": "inferência",
+        "disciplina": "MAT07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-MAT08",
+    "tipo": "disciplina_autoral",
+    "disciplina": "MAT08",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "MAT08-01",
+        "numero_original": "1",
+        "titulo": "EDO",
+        "disciplina": "MAT08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT08-02",
+        "numero_original": "2",
+        "titulo": "derivadas parciais",
+        "disciplina": "MAT08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT08-03",
+        "numero_original": "3",
+        "titulo": "integração múltipla",
+        "disciplina": "MAT08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-MAT09",
+    "tipo": "disciplina_autoral",
+    "disciplina": "MAT09",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "MAT09-01",
+        "numero_original": "1",
+        "titulo": "erro numérico",
+        "disciplina": "MAT09",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT09-02",
+        "numero_original": "2",
+        "titulo": "raízes",
+        "disciplina": "MAT09",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "MAT09-03",
+        "numero_original": "3",
+        "titulo": "otimização",
+        "disciplina": "MAT09",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRG01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRG01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRG01-01",
+        "numero_original": "1",
+        "titulo": "variáveis",
+        "disciplina": "PRG01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG01-02",
+        "numero_original": "2",
+        "titulo": "decisões",
+        "disciplina": "PRG01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG01-03",
+        "numero_original": "3",
+        "titulo": "repetição",
+        "disciplina": "PRG01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG01-04",
+        "numero_original": "4",
+        "titulo": "decomposição",
+        "disciplina": "PRG01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRG02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRG02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRG02-01",
+        "numero_original": "1",
+        "titulo": "funções",
+        "disciplina": "PRG02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG02-02",
+        "numero_original": "2",
+        "titulo": "módulos",
+        "disciplina": "PRG02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG02-03",
+        "numero_original": "3",
+        "titulo": "recursão",
+        "disciplina": "PRG02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG02-04",
+        "numero_original": "4",
+        "titulo": "testes básicos",
+        "disciplina": "PRG02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRG03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRG03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRG03-01",
+        "numero_original": "1",
+        "titulo": "objetos",
+        "disciplina": "PRG03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG03-02",
+        "numero_original": "2",
+        "titulo": "encapsulamento",
+        "disciplina": "PRG03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG03-03",
+        "numero_original": "3",
+        "titulo": "composição",
+        "disciplina": "PRG03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG03-04",
+        "numero_original": "4",
+        "titulo": "polimorfismo",
+        "disciplina": "PRG03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRG04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRG04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRG04-01",
+        "numero_original": "1",
+        "titulo": "ponteiros",
+        "disciplina": "PRG04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG04-02",
+        "numero_original": "2",
+        "titulo": "memória",
+        "disciplina": "PRG04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG04-03",
+        "numero_original": "3",
+        "titulo": "compilação",
+        "disciplina": "PRG04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG04-04",
+        "numero_original": "4",
+        "titulo": "interfaces",
+        "disciplina": "PRG04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRG05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRG05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRG05-01",
+        "numero_original": "1",
+        "titulo": "funções de ordem superior",
+        "disciplina": "PRG05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG05-02",
+        "numero_original": "2",
+        "titulo": "imutabilidade",
+        "disciplina": "PRG05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG05-03",
+        "numero_original": "3",
+        "titulo": "tipos",
+        "disciplina": "PRG05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRG06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRG06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRG06-01",
+        "numero_original": "1",
+        "titulo": "unificação",
+        "disciplina": "PRG06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG06-02",
+        "numero_original": "2",
+        "titulo": "cláusulas",
+        "disciplina": "PRG06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG06-03",
+        "numero_original": "3",
+        "titulo": "busca",
+        "disciplina": "PRG06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRG07",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRG07",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRG07-01",
+        "numero_original": "1",
+        "titulo": "escopo",
+        "disciplina": "PRG07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG07-02",
+        "numero_original": "2",
+        "titulo": "tipos",
+        "disciplina": "PRG07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG07-03",
+        "numero_original": "3",
+        "titulo": "avaliação",
+        "disciplina": "PRG07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG07-04",
+        "numero_original": "4",
+        "titulo": "semântica",
+        "disciplina": "PRG07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRG08",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRG08",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRG08-01",
+        "numero_original": "1",
+        "titulo": "sincronização",
+        "disciplina": "PRG08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG08-02",
+        "numero_original": "2",
+        "titulo": "exclusão mútua",
+        "disciplina": "PRG08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRG08-03",
+        "numero_original": "3",
+        "titulo": "comunicação",
+        "disciplina": "PRG08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ALG01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ALG01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ALG01-01",
+        "numero_original": "1",
+        "titulo": "listas",
+        "disciplina": "ALG01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG01-02",
+        "numero_original": "2",
+        "titulo": "pilhas",
+        "disciplina": "ALG01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG01-03",
+        "numero_original": "3",
+        "titulo": "filas",
+        "disciplina": "ALG01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG01-04",
+        "numero_original": "4",
+        "titulo": "árvores",
+        "disciplina": "ALG01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ALG02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ALG02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ALG02-01",
+        "numero_original": "1",
+        "titulo": "hashing",
+        "disciplina": "ALG02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG02-02",
+        "numero_original": "2",
+        "titulo": "árvores balanceadas",
+        "disciplina": "ALG02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG02-03",
+        "numero_original": "3",
+        "titulo": "filas de prioridade",
+        "disciplina": "ALG02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ALG03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ALG03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ALG03-01",
+        "numero_original": "1",
+        "titulo": "complexidade",
+        "disciplina": "ALG03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG03-02",
+        "numero_original": "2",
+        "titulo": "recorrências",
+        "disciplina": "ALG03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG03-03",
+        "numero_original": "3",
+        "titulo": "guloso",
+        "disciplina": "ALG03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG03-04",
+        "numero_original": "4",
+        "titulo": "programação dinâmica",
+        "disciplina": "ALG03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ALG04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ALG04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ALG04-01",
+        "numero_original": "1",
+        "titulo": "conectividade",
+        "disciplina": "ALG04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG04-02",
+        "numero_original": "2",
+        "titulo": "percursos",
+        "disciplina": "ALG04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG04-03",
+        "numero_original": "3",
+        "titulo": "caminhos",
+        "disciplina": "ALG04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG04-04",
+        "numero_original": "4",
+        "titulo": "árvores",
+        "disciplina": "ALG04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ALG05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ALG05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ALG05-01",
+        "numero_original": "1",
+        "titulo": "aleatorização",
+        "disciplina": "ALG05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG05-02",
+        "numero_original": "2",
+        "titulo": "aproximação",
+        "disciplina": "ALG05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG05-03",
+        "numero_original": "3",
+        "titulo": "garantias",
+        "disciplina": "ALG05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ALG06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ALG06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ALG06-01",
+        "numero_original": "1",
+        "titulo": "programação linear",
+        "disciplina": "ALG06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG06-02",
+        "numero_original": "2",
+        "titulo": "modelos inteiros",
+        "disciplina": "ALG06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG06-03",
+        "numero_original": "3",
+        "titulo": "heurísticas",
+        "disciplina": "ALG06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ALG07",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ALG07",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ALG07-01",
+        "numero_original": "1",
+        "titulo": "simulação",
+        "disciplina": "ALG07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG07-02",
+        "numero_original": "2",
+        "titulo": "Monte Carlo",
+        "disciplina": "ALG07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ALG07-03",
+        "numero_original": "3",
+        "titulo": "validação",
+        "disciplina": "ALG07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-TEO01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "TEO01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "TEO01-01",
+        "numero_original": "1",
+        "titulo": "gramáticas",
+        "disciplina": "TEO01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "TEO01-02",
+        "numero_original": "2",
+        "titulo": "expressões regulares",
+        "disciplina": "TEO01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "TEO01-03",
+        "numero_original": "3",
+        "titulo": "autômatos",
+        "disciplina": "TEO01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-TEO02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "TEO02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "TEO02-01",
+        "numero_original": "1",
+        "titulo": "decidibilidade",
+        "disciplina": "TEO02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "TEO02-02",
+        "numero_original": "2",
+        "titulo": "reduções",
+        "disciplina": "TEO02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "TEO02-03",
+        "numero_original": "3",
+        "titulo": "classes de complexidade",
+        "disciplina": "TEO02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-TEO03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "TEO03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "TEO03-01",
+        "numero_original": "1",
+        "titulo": "análise léxica",
+        "disciplina": "TEO03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "TEO03-02",
+        "numero_original": "2",
+        "titulo": "parsing",
+        "disciplina": "TEO03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "TEO03-03",
+        "numero_original": "3",
+        "titulo": "representação intermediária",
+        "disciplina": "TEO03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-TEO04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "TEO04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "TEO04-01",
+        "numero_original": "1",
+        "titulo": "invariantes",
+        "disciplina": "TEO04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "TEO04-02",
+        "numero_original": "2",
+        "titulo": "lógica de Hoare",
+        "disciplina": "TEO04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "TEO04-03",
+        "numero_original": "3",
+        "titulo": "verificação de modelos",
+        "disciplina": "TEO04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-TEO05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "TEO05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "TEO05-01",
+        "numero_original": "1",
+        "titulo": "entropia",
+        "disciplina": "TEO05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "TEO05-02",
+        "numero_original": "2",
+        "titulo": "compressão",
+        "disciplina": "TEO05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "TEO05-03",
+        "numero_original": "3",
+        "titulo": "códigos",
+        "disciplina": "TEO05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HWD01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HWD01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HWD01-01",
+        "numero_original": "1",
+        "titulo": "portas",
+        "disciplina": "HWD01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD01-02",
+        "numero_original": "2",
+        "titulo": "simplificação",
+        "disciplina": "HWD01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD01-03",
+        "numero_original": "3",
+        "titulo": "circuitos combinacionais",
+        "disciplina": "HWD01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HWD02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HWD02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HWD02-01",
+        "numero_original": "1",
+        "titulo": "flip-flops",
+        "disciplina": "HWD02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD02-02",
+        "numero_original": "2",
+        "titulo": "registradores",
+        "disciplina": "HWD02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD02-03",
+        "numero_original": "3",
+        "titulo": "máquinas de estados",
+        "disciplina": "HWD02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HWD03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HWD03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HWD03-01",
+        "numero_original": "1",
+        "titulo": "ISA",
+        "disciplina": "HWD03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD03-02",
+        "numero_original": "2",
+        "titulo": "caminho de dados",
+        "disciplina": "HWD03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD03-03",
+        "numero_original": "3",
+        "titulo": "memória",
+        "disciplina": "HWD03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HWD04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HWD04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HWD04-01",
+        "numero_original": "1",
+        "titulo": "pipeline",
+        "disciplina": "HWD04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD04-02",
+        "numero_original": "2",
+        "titulo": "caches",
+        "disciplina": "HWD04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD04-03",
+        "numero_original": "3",
+        "titulo": "paralelismo",
+        "disciplina": "HWD04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HWD05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HWD05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HWD05-01",
+        "numero_original": "1",
+        "titulo": "HDL",
+        "disciplina": "HWD05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD05-02",
+        "numero_original": "2",
+        "titulo": "síntese",
+        "disciplina": "HWD05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD05-03",
+        "numero_original": "3",
+        "titulo": "temporização",
+        "disciplina": "HWD05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD05-04",
+        "numero_original": "4",
+        "titulo": "testbench",
+        "disciplina": "HWD05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HWD06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HWD06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HWD06-01",
+        "numero_original": "1",
+        "titulo": "interrupções",
+        "disciplina": "HWD06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD06-02",
+        "numero_original": "2",
+        "titulo": "temporizadores",
+        "disciplina": "HWD06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD06-03",
+        "numero_original": "3",
+        "titulo": "barramentos",
+        "disciplina": "HWD06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HWD07",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HWD07",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HWD07-01",
+        "numero_original": "1",
+        "titulo": "tarefas",
+        "disciplina": "HWD07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD07-02",
+        "numero_original": "2",
+        "titulo": "escalonamento",
+        "disciplina": "HWD07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD07-03",
+        "numero_original": "3",
+        "titulo": "restrições temporais",
+        "disciplina": "HWD07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HWD08",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HWD08",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HWD08-01",
+        "numero_original": "1",
+        "titulo": "CMOS",
+        "disciplina": "HWD08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD08-02",
+        "numero_original": "2",
+        "titulo": "integração",
+        "disciplina": "HWD08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HWD08-03",
+        "numero_original": "3",
+        "titulo": "particionamento",
+        "disciplina": "HWD08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FIS01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FIS01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FIS01-01",
+        "numero_original": "1",
+        "titulo": "cinemática",
+        "disciplina": "FIS01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS01-02",
+        "numero_original": "2",
+        "titulo": "dinâmica",
+        "disciplina": "FIS01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS01-03",
+        "numero_original": "3",
+        "titulo": "energia",
+        "disciplina": "FIS01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS01-04",
+        "numero_original": "4",
+        "titulo": "medição",
+        "disciplina": "FIS01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FIS02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FIS02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FIS02-01",
+        "numero_original": "1",
+        "titulo": "campos",
+        "disciplina": "FIS02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS02-02",
+        "numero_original": "2",
+        "titulo": "potencial",
+        "disciplina": "FIS02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS02-03",
+        "numero_original": "3",
+        "titulo": "indução",
+        "disciplina": "FIS02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FIS03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FIS03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FIS03-01",
+        "numero_original": "1",
+        "titulo": "oscilações",
+        "disciplina": "FIS03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS03-02",
+        "numero_original": "2",
+        "titulo": "ondas",
+        "disciplina": "FIS03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS03-03",
+        "numero_original": "3",
+        "titulo": "calor",
+        "disciplina": "FIS03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS03-04",
+        "numero_original": "4",
+        "titulo": "luz",
+        "disciplina": "FIS03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FIS04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FIS04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FIS04-01",
+        "numero_original": "1",
+        "titulo": "estrutura da matéria",
+        "disciplina": "FIS04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS04-02",
+        "numero_original": "2",
+        "titulo": "bandas",
+        "disciplina": "FIS04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS04-03",
+        "numero_original": "3",
+        "titulo": "transporte",
+        "disciplina": "FIS04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FIS05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FIS05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FIS05-01",
+        "numero_original": "1",
+        "titulo": "ligações",
+        "disciplina": "FIS05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS05-02",
+        "numero_original": "2",
+        "titulo": "materiais",
+        "disciplina": "FIS05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS05-03",
+        "numero_original": "3",
+        "titulo": "propriedades",
+        "disciplina": "FIS05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-FIS06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "FIS06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "FIS06-01",
+        "numero_original": "1",
+        "titulo": "calibração",
+        "disciplina": "FIS06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS06-02",
+        "numero_original": "2",
+        "titulo": "propagação",
+        "disciplina": "FIS06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "FIS06-03",
+        "numero_original": "3",
+        "titulo": "rastreabilidade",
+        "disciplina": "FIS06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ELE01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ELE01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ELE01-01",
+        "numero_original": "1",
+        "titulo": "leis de Kirchhoff",
+        "disciplina": "ELE01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE01-02",
+        "numero_original": "2",
+        "titulo": "circuitos resistivos",
+        "disciplina": "ELE01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE01-03",
+        "numero_original": "3",
+        "titulo": "equivalentes",
+        "disciplina": "ELE01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ELE02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ELE02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ELE02-01",
+        "numero_original": "1",
+        "titulo": "regime transitório",
+        "disciplina": "ELE02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE02-02",
+        "numero_original": "2",
+        "titulo": "fasores",
+        "disciplina": "ELE02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE02-03",
+        "numero_original": "3",
+        "titulo": "resposta em frequência",
+        "disciplina": "ELE02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ELE03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ELE03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ELE03-01",
+        "numero_original": "1",
+        "titulo": "diodos",
+        "disciplina": "ELE03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE03-02",
+        "numero_original": "2",
+        "titulo": "transistores",
+        "disciplina": "ELE03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE03-03",
+        "numero_original": "3",
+        "titulo": "amplificadores",
+        "disciplina": "ELE03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE03-04",
+        "numero_original": "4",
+        "titulo": "níveis lógicos",
+        "disciplina": "ELE03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ELE04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ELE04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ELE04-01",
+        "numero_original": "1",
+        "titulo": "sensores",
+        "disciplina": "ELE04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE04-02",
+        "numero_original": "2",
+        "titulo": "ADC",
+        "disciplina": "ELE04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE04-03",
+        "numero_original": "3",
+        "titulo": "condicionamento",
+        "disciplina": "ELE04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE04-04",
+        "numero_original": "4",
+        "titulo": "ruído",
+        "disciplina": "ELE04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ELE05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ELE05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ELE05-01",
+        "numero_original": "1",
+        "titulo": "esquemático",
+        "disciplina": "ELE05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE05-02",
+        "numero_original": "2",
+        "titulo": "layout",
+        "disciplina": "ELE05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE05-03",
+        "numero_original": "3",
+        "titulo": "montagem",
+        "disciplina": "ELE05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE05-04",
+        "numero_original": "4",
+        "titulo": "validação",
+        "disciplina": "ELE05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ELE06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ELE06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ELE06-01",
+        "numero_original": "1",
+        "titulo": "conversores",
+        "disciplina": "ELE06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE06-02",
+        "numero_original": "2",
+        "titulo": "comutação",
+        "disciplina": "ELE06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE06-03",
+        "numero_original": "3",
+        "titulo": "motores",
+        "disciplina": "ELE06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-ELE07",
+    "tipo": "disciplina_autoral",
+    "disciplina": "ELE07",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "ELE07-01",
+        "numero_original": "1",
+        "titulo": "interferência",
+        "disciplina": "ELE07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE07-02",
+        "numero_original": "2",
+        "titulo": "aterramento",
+        "disciplina": "ELE07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "ELE07-03",
+        "numero_original": "3",
+        "titulo": "falhas",
+        "disciplina": "ELE07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SIN01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SIN01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SIN01-01",
+        "numero_original": "1",
+        "titulo": "convolução",
+        "disciplina": "SIN01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN01-02",
+        "numero_original": "2",
+        "titulo": "transformadas",
+        "disciplina": "SIN01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN01-03",
+        "numero_original": "3",
+        "titulo": "sistemas lineares",
+        "disciplina": "SIN01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SIN02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SIN02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SIN02-01",
+        "numero_original": "1",
+        "titulo": "amostragem",
+        "disciplina": "SIN02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN02-02",
+        "numero_original": "2",
+        "titulo": "filtros",
+        "disciplina": "SIN02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN02-03",
+        "numero_original": "3",
+        "titulo": "transformada discreta",
+        "disciplina": "SIN02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SIN03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SIN03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SIN03-01",
+        "numero_original": "1",
+        "titulo": "realimentação",
+        "disciplina": "SIN03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN03-02",
+        "numero_original": "2",
+        "titulo": "estabilidade",
+        "disciplina": "SIN03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN03-03",
+        "numero_original": "3",
+        "titulo": "controladores",
+        "disciplina": "SIN03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SIN04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SIN04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SIN04-01",
+        "numero_original": "1",
+        "titulo": "cinemática",
+        "disciplina": "SIN04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN04-02",
+        "numero_original": "2",
+        "titulo": "dinâmica",
+        "disciplina": "SIN04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN04-03",
+        "numero_original": "3",
+        "titulo": "planejamento",
+        "disciplina": "SIN04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SIN05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SIN05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SIN05-01",
+        "numero_original": "1",
+        "titulo": "modulação",
+        "disciplina": "SIN05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN05-02",
+        "numero_original": "2",
+        "titulo": "canais",
+        "disciplina": "SIN05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN05-03",
+        "numero_original": "3",
+        "titulo": "detecção",
+        "disciplina": "SIN05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SIN06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SIN06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SIN06-01",
+        "numero_original": "1",
+        "titulo": "integração física",
+        "disciplina": "SIN06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN06-02",
+        "numero_original": "2",
+        "titulo": "conectividade",
+        "disciplina": "SIN06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SIN06-03",
+        "numero_original": "3",
+        "titulo": "restrições",
+        "disciplina": "SIN06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SYS01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SYS01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SYS01-01",
+        "numero_original": "1",
+        "titulo": "processos",
+        "disciplina": "SYS01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS01-02",
+        "numero_original": "2",
+        "titulo": "memória",
+        "disciplina": "SYS01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS01-03",
+        "numero_original": "3",
+        "titulo": "arquivos",
+        "disciplina": "SYS01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS01-04",
+        "numero_original": "4",
+        "titulo": "proteção",
+        "disciplina": "SYS01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SYS02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SYS02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SYS02-01",
+        "numero_original": "1",
+        "titulo": "falhas",
+        "disciplina": "SYS02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS02-02",
+        "numero_original": "2",
+        "titulo": "consistência",
+        "disciplina": "SYS02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS02-03",
+        "numero_original": "3",
+        "titulo": "replicação",
+        "disciplina": "SYS02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS02-04",
+        "numero_original": "4",
+        "titulo": "coordenação",
+        "disciplina": "SYS02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SYS03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SYS03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SYS03-01",
+        "numero_original": "1",
+        "titulo": "decomposição",
+        "disciplina": "SYS03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS03-02",
+        "numero_original": "2",
+        "titulo": "speedup",
+        "disciplina": "SYS03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS03-03",
+        "numero_original": "3",
+        "titulo": "comunicação",
+        "disciplina": "SYS03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SYS04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SYS04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SYS04-01",
+        "numero_original": "1",
+        "titulo": "isolamento",
+        "disciplina": "SYS04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS04-02",
+        "numero_original": "2",
+        "titulo": "imagens",
+        "disciplina": "SYS04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS04-03",
+        "numero_original": "3",
+        "titulo": "serviços",
+        "disciplina": "SYS04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS04-04",
+        "numero_original": "4",
+        "titulo": "operação",
+        "disciplina": "SYS04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SYS05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SYS05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SYS05-01",
+        "numero_original": "1",
+        "titulo": "serviços",
+        "disciplina": "SYS05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS05-02",
+        "numero_original": "2",
+        "titulo": "métricas",
+        "disciplina": "SYS05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS05-03",
+        "numero_original": "3",
+        "titulo": "logs",
+        "disciplina": "SYS05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS05-04",
+        "numero_original": "4",
+        "titulo": "diagnóstico",
+        "disciplina": "SYS05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SYS06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SYS06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SYS06-01",
+        "numero_original": "1",
+        "titulo": "persistência",
+        "disciplina": "SYS06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS06-02",
+        "numero_original": "2",
+        "titulo": "índices",
+        "disciplina": "SYS06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS06-03",
+        "numero_original": "3",
+        "titulo": "recuperação",
+        "disciplina": "SYS06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SYS07",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SYS07",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SYS07-01",
+        "numero_original": "1",
+        "titulo": "indicadores",
+        "disciplina": "SYS07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS07-02",
+        "numero_original": "2",
+        "titulo": "objetivos de serviço",
+        "disciplina": "SYS07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SYS07-03",
+        "numero_original": "3",
+        "titulo": "desempenho",
+        "disciplina": "SYS07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-NET01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "NET01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "NET01-01",
+        "numero_original": "1",
+        "titulo": "camadas",
+        "disciplina": "NET01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET01-02",
+        "numero_original": "2",
+        "titulo": "endereçamento",
+        "disciplina": "NET01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET01-03",
+        "numero_original": "3",
+        "titulo": "roteamento",
+        "disciplina": "NET01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET01-04",
+        "numero_original": "4",
+        "titulo": "transporte",
+        "disciplina": "NET01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-NET02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "NET02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "NET02-01",
+        "numero_original": "1",
+        "titulo": "sockets",
+        "disciplina": "NET02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET02-02",
+        "numero_original": "2",
+        "titulo": "HTTP",
+        "disciplina": "NET02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET02-03",
+        "numero_original": "3",
+        "titulo": "serviços",
+        "disciplina": "NET02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET02-04",
+        "numero_original": "4",
+        "titulo": "APIs",
+        "disciplina": "NET02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-NET03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "NET03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "NET03-01",
+        "numero_original": "1",
+        "titulo": "acesso ao meio",
+        "disciplina": "NET03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET03-02",
+        "numero_original": "2",
+        "titulo": "mobilidade",
+        "disciplina": "NET03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET03-03",
+        "numero_original": "3",
+        "titulo": "propagação",
+        "disciplina": "NET03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-NET04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "NET04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "NET04-01",
+        "numero_original": "1",
+        "titulo": "transmissão",
+        "disciplina": "NET04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET04-02",
+        "numero_original": "2",
+        "titulo": "multiplexação",
+        "disciplina": "NET04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET04-03",
+        "numero_original": "3",
+        "titulo": "enlaces",
+        "disciplina": "NET04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-NET05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "NET05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "NET05-01",
+        "numero_original": "1",
+        "titulo": "planos de controle",
+        "disciplina": "NET05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET05-02",
+        "numero_original": "2",
+        "titulo": "virtualização",
+        "disciplina": "NET05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "NET05-03",
+        "numero_original": "3",
+        "titulo": "automação",
+        "disciplina": "NET05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SWE01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SWE01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SWE01-01",
+        "numero_original": "1",
+        "titulo": "elicitação",
+        "disciplina": "SWE01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE01-02",
+        "numero_original": "2",
+        "titulo": "requisitos",
+        "disciplina": "SWE01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE01-03",
+        "numero_original": "3",
+        "titulo": "modelos",
+        "disciplina": "SWE01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE01-04",
+        "numero_original": "4",
+        "titulo": "critérios de aceite",
+        "disciplina": "SWE01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SWE02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SWE02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SWE02-01",
+        "numero_original": "1",
+        "titulo": "modularidade",
+        "disciplina": "SWE02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE02-02",
+        "numero_original": "2",
+        "titulo": "padrões",
+        "disciplina": "SWE02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE02-03",
+        "numero_original": "3",
+        "titulo": "atributos de qualidade",
+        "disciplina": "SWE02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SWE03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SWE03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SWE03-01",
+        "numero_original": "1",
+        "titulo": "partições",
+        "disciplina": "SWE03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE03-02",
+        "numero_original": "2",
+        "titulo": "oráculos",
+        "disciplina": "SWE03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE03-03",
+        "numero_original": "3",
+        "titulo": "integração",
+        "disciplina": "SWE03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE03-04",
+        "numero_original": "4",
+        "titulo": "propriedades",
+        "disciplina": "SWE03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SWE04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SWE04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SWE04-01",
+        "numero_original": "1",
+        "titulo": "dívida técnica",
+        "disciplina": "SWE04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE04-02",
+        "numero_original": "2",
+        "titulo": "refatoração",
+        "disciplina": "SWE04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE04-03",
+        "numero_original": "3",
+        "titulo": "qualidade",
+        "disciplina": "SWE04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE04-04",
+        "numero_original": "4",
+        "titulo": "manutenção",
+        "disciplina": "SWE04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SWE05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SWE05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SWE05-01",
+        "numero_original": "1",
+        "titulo": "build",
+        "disciplina": "SWE05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE05-02",
+        "numero_original": "2",
+        "titulo": "automação",
+        "disciplina": "SWE05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE05-03",
+        "numero_original": "3",
+        "titulo": "versionamento",
+        "disciplina": "SWE05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE05-04",
+        "numero_original": "4",
+        "titulo": "entrega",
+        "disciplina": "SWE05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SWE06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SWE06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SWE06-01",
+        "numero_original": "1",
+        "titulo": "ameaças",
+        "disciplina": "SWE06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE06-02",
+        "numero_original": "2",
+        "titulo": "controles",
+        "disciplina": "SWE06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE06-03",
+        "numero_original": "3",
+        "titulo": "autenticação",
+        "disciplina": "SWE06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE06-04",
+        "numero_original": "4",
+        "titulo": "criptografia",
+        "disciplina": "SWE06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SWE07",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SWE07",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SWE07-01",
+        "numero_original": "1",
+        "titulo": "segredos",
+        "disciplina": "SWE07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE07-02",
+        "numero_original": "2",
+        "titulo": "dependências",
+        "disciplina": "SWE07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE07-03",
+        "numero_original": "3",
+        "titulo": "dados pessoais",
+        "disciplina": "SWE07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE07-04",
+        "numero_original": "4",
+        "titulo": "revisão",
+        "disciplina": "SWE07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-SWE08",
+    "tipo": "disciplina_autoral",
+    "disciplina": "SWE08",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "SWE08-01",
+        "numero_original": "1",
+        "titulo": "desenhos experimentais",
+        "disciplina": "SWE08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE08-02",
+        "numero_original": "2",
+        "titulo": "validade",
+        "disciplina": "SWE08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "SWE08-03",
+        "numero_original": "3",
+        "titulo": "replicação",
+        "disciplina": "SWE08",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-DAT01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "DAT01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "DAT01-01",
+        "numero_original": "1",
+        "titulo": "modelo relacional",
+        "disciplina": "DAT01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT01-02",
+        "numero_original": "2",
+        "titulo": "SQL",
+        "disciplina": "DAT01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT01-03",
+        "numero_original": "3",
+        "titulo": "normalização",
+        "disciplina": "DAT01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-DAT02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "DAT02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "DAT02-01",
+        "numero_original": "1",
+        "titulo": "índices",
+        "disciplina": "DAT02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT02-02",
+        "numero_original": "2",
+        "titulo": "transações",
+        "disciplina": "DAT02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT02-03",
+        "numero_original": "3",
+        "titulo": "concorrência",
+        "disciplina": "DAT02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT02-04",
+        "numero_original": "4",
+        "titulo": "recuperação",
+        "disciplina": "DAT02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-DAT03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "DAT03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "DAT03-01",
+        "numero_original": "1",
+        "titulo": "pipelines",
+        "disciplina": "DAT03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT03-02",
+        "numero_original": "2",
+        "titulo": "qualidade",
+        "disciplina": "DAT03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT03-03",
+        "numero_original": "3",
+        "titulo": "integração",
+        "disciplina": "DAT03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT03-04",
+        "numero_original": "4",
+        "titulo": "proveniência",
+        "disciplina": "DAT03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-DAT04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "DAT04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "DAT04-01",
+        "numero_original": "1",
+        "titulo": "indexação",
+        "disciplina": "DAT04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT04-02",
+        "numero_original": "2",
+        "titulo": "ranking",
+        "disciplina": "DAT04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT04-03",
+        "numero_original": "3",
+        "titulo": "relevância",
+        "disciplina": "DAT04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-DAT05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "DAT05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "DAT05-01",
+        "numero_original": "1",
+        "titulo": "exploração",
+        "disciplina": "DAT05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT05-02",
+        "numero_original": "2",
+        "titulo": "gráficos",
+        "disciplina": "DAT05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT05-03",
+        "numero_original": "3",
+        "titulo": "comunicação",
+        "disciplina": "DAT05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT05-04",
+        "numero_original": "4",
+        "titulo": "incerteza",
+        "disciplina": "DAT05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-DAT06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "DAT06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "DAT06-01",
+        "numero_original": "1",
+        "titulo": "padrões",
+        "disciplina": "DAT06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT06-02",
+        "numero_original": "2",
+        "titulo": "processamento",
+        "disciplina": "DAT06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "DAT06-03",
+        "numero_original": "3",
+        "titulo": "escalabilidade",
+        "disciplina": "DAT06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-IA01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "IA01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "IA01-01",
+        "numero_original": "1",
+        "titulo": "busca",
+        "disciplina": "IA01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA01-02",
+        "numero_original": "2",
+        "titulo": "representação",
+        "disciplina": "IA01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA01-03",
+        "numero_original": "3",
+        "titulo": "raciocínio",
+        "disciplina": "IA01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-IA02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "IA02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "IA02-01",
+        "numero_original": "1",
+        "titulo": "supervisão",
+        "disciplina": "IA02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA02-02",
+        "numero_original": "2",
+        "titulo": "validação",
+        "disciplina": "IA02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA02-03",
+        "numero_original": "3",
+        "titulo": "regularização",
+        "disciplina": "IA02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA02-04",
+        "numero_original": "4",
+        "titulo": "métricas",
+        "disciplina": "IA02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-IA03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "IA03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "IA03-01",
+        "numero_original": "1",
+        "titulo": "redes neurais",
+        "disciplina": "IA03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA03-02",
+        "numero_original": "2",
+        "titulo": "gradientes",
+        "disciplina": "IA03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA03-03",
+        "numero_original": "3",
+        "titulo": "otimização",
+        "disciplina": "IA03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-IA04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "IA04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "IA04-01",
+        "numero_original": "1",
+        "titulo": "representação",
+        "disciplina": "IA04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA04-02",
+        "numero_original": "2",
+        "titulo": "filtros",
+        "disciplina": "IA04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA04-03",
+        "numero_original": "3",
+        "titulo": "reconhecimento",
+        "disciplina": "IA04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-IA05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "IA05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "IA05-01",
+        "numero_original": "1",
+        "titulo": "representações",
+        "disciplina": "IA05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA05-02",
+        "numero_original": "2",
+        "titulo": "modelos",
+        "disciplina": "IA05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA05-03",
+        "numero_original": "3",
+        "titulo": "avaliação",
+        "disciplina": "IA05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-IA06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "IA06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "IA06-01",
+        "numero_original": "1",
+        "titulo": "decisão sequencial",
+        "disciplina": "IA06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA06-02",
+        "numero_original": "2",
+        "titulo": "exploração",
+        "disciplina": "IA06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA06-03",
+        "numero_original": "3",
+        "titulo": "recompensa",
+        "disciplina": "IA06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-IA07",
+    "tipo": "disciplina_autoral",
+    "disciplina": "IA07",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "IA07-01",
+        "numero_original": "1",
+        "titulo": "viés",
+        "disciplina": "IA07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA07-02",
+        "numero_original": "2",
+        "titulo": "robustez",
+        "disciplina": "IA07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA07-03",
+        "numero_original": "3",
+        "titulo": "rastreabilidade",
+        "disciplina": "IA07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "IA07-04",
+        "numero_original": "4",
+        "titulo": "avaliação",
+        "disciplina": "IA07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HCI01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HCI01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HCI01-01",
+        "numero_original": "1",
+        "titulo": "tarefas",
+        "disciplina": "HCI01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI01-02",
+        "numero_original": "2",
+        "titulo": "interação",
+        "disciplina": "HCI01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI01-03",
+        "numero_original": "3",
+        "titulo": "usabilidade",
+        "disciplina": "HCI01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI01-04",
+        "numero_original": "4",
+        "titulo": "avaliação",
+        "disciplina": "HCI01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HCI02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HCI02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HCI02-01",
+        "numero_original": "1",
+        "titulo": "barreiras",
+        "disciplina": "HCI02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI02-02",
+        "numero_original": "2",
+        "titulo": "tecnologias assistivas",
+        "disciplina": "HCI02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI02-03",
+        "numero_original": "3",
+        "titulo": "critérios",
+        "disciplina": "HCI02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HCI03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HCI03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HCI03-01",
+        "numero_original": "1",
+        "titulo": "transformações",
+        "disciplina": "HCI03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI03-02",
+        "numero_original": "2",
+        "titulo": "rasterização",
+        "disciplina": "HCI03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI03-03",
+        "numero_original": "3",
+        "titulo": "geometria",
+        "disciplina": "HCI03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HCI04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HCI04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HCI04-01",
+        "numero_original": "1",
+        "titulo": "interfaces",
+        "disciplina": "HCI04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI04-02",
+        "numero_original": "2",
+        "titulo": "estado",
+        "disciplina": "HCI04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI04-03",
+        "numero_original": "3",
+        "titulo": "APIs",
+        "disciplina": "HCI04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI04-04",
+        "numero_original": "4",
+        "titulo": "plataformas",
+        "disciplina": "HCI04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HCI05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HCI05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HCI05-01",
+        "numero_original": "1",
+        "titulo": "simulação",
+        "disciplina": "HCI05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI05-02",
+        "numero_original": "2",
+        "titulo": "interação",
+        "disciplina": "HCI05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI05-03",
+        "numero_original": "3",
+        "titulo": "renderização",
+        "disciplina": "HCI05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-HCI06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "HCI06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "HCI06-01",
+        "numero_original": "1",
+        "titulo": "transporte de luz",
+        "disciplina": "HCI06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI06-02",
+        "numero_original": "2",
+        "titulo": "amostragem",
+        "disciplina": "HCI06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "HCI06-03",
+        "numero_original": "3",
+        "titulo": "renderização",
+        "disciplina": "HCI06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRO01",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRO01",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRO01-01",
+        "numero_original": "1",
+        "titulo": "impactos",
+        "disciplina": "PRO01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO01-02",
+        "numero_original": "2",
+        "titulo": "responsabilidade",
+        "disciplina": "PRO01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO01-03",
+        "numero_original": "3",
+        "titulo": "decisões",
+        "disciplina": "PRO01",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRO02",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRO02",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRO02-01",
+        "numero_original": "1",
+        "titulo": "licenças",
+        "disciplina": "PRO02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO02-02",
+        "numero_original": "2",
+        "titulo": "direitos",
+        "disciplina": "PRO02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO02-03",
+        "numero_original": "3",
+        "titulo": "governança de dados",
+        "disciplina": "PRO02",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRO03",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRO03",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRO03-01",
+        "numero_original": "1",
+        "titulo": "custos",
+        "disciplina": "PRO03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO03-02",
+        "numero_original": "2",
+        "titulo": "viabilidade",
+        "disciplina": "PRO03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO03-03",
+        "numero_original": "3",
+        "titulo": "projetos",
+        "disciplina": "PRO03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO03-04",
+        "numero_original": "4",
+        "titulo": "inovação",
+        "disciplina": "PRO03",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRO04",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRO04",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRO04-01",
+        "numero_original": "1",
+        "titulo": "energia",
+        "disciplina": "PRO04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO04-02",
+        "numero_original": "2",
+        "titulo": "ciclo de vida",
+        "disciplina": "PRO04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO04-03",
+        "numero_original": "3",
+        "titulo": "descarte",
+        "disciplina": "PRO04",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRO05",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRO05",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRO05-01",
+        "numero_original": "1",
+        "titulo": "integração",
+        "disciplina": "PRO05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO05-02",
+        "numero_original": "2",
+        "titulo": "validação",
+        "disciplina": "PRO05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO05-03",
+        "numero_original": "3",
+        "titulo": "documentação",
+        "disciplina": "PRO05",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRO06",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRO06",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRO06-01",
+        "numero_original": "1",
+        "titulo": "codesign",
+        "disciplina": "PRO06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO06-02",
+        "numero_original": "2",
+        "titulo": "integração",
+        "disciplina": "PRO06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO06-03",
+        "numero_original": "3",
+        "titulo": "validação",
+        "disciplina": "PRO06",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  },
+  {
+    "id": "IDX-PRO07",
+    "tipo": "disciplina_autoral",
+    "disciplina": "PRO07",
+    "fonte_url": null,
+    "versao": "0.3.0",
+    "status_indice": "PROPOSTO",
+    "escopo": "Tópicos do catálogo local numerados para rastreabilidade; não são índice oficial de curso externo.",
+    "itens": [
+      {
+        "id": "PRO07-01",
+        "numero_original": "1",
+        "titulo": "investigação",
+        "disciplina": "PRO07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO07-02",
+        "numero_original": "2",
+        "titulo": "prática supervisionada",
+        "disciplina": "PRO07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      },
+      {
+        "id": "PRO07-03",
+        "numero_original": "3",
+        "titulo": "contribuição",
+        "disciplina": "PRO07",
+        "origem_item": "topico_autoral_do_catalogo",
+        "status_titulo": "PROPOSTO"
+      }
+    ]
+  }
+]

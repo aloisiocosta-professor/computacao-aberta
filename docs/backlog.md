@@ -18,3 +18,11 @@ Estes são itens de acompanhamento, não issues já criadas no GitHub. Publicaç
 | BKL12 | Revisão científica independente | Parecer por eixo e correções registradas | ABERTO |
 
 Prioridade: publicação e rastreabilidade primeiro; aprofundamento por eixo depois. O catálogo inicial não é anunciado como formação integral já validada.
+
+## Aprendizagem por habilidades — issue #3
+
+- Desenvolver e revisar os roteiros que ainda não têm aula específica.
+- Conferir e decompor subitens internos dos índices externos, preservando origem e versão.
+- Submeter resultados, pré-requisitos e tarefas à revisão especializada por eixo.
+- Avaliar acessibilidade e eficácia do percurso com aprendizes, sob desenho e autorizações adequados.
+- Manter separadas cobertura de índices, prontidão editorial, desempenho observado e retenção.

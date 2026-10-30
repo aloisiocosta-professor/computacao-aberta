@@ -2,6 +2,8 @@
 
 Estado: protocolo editorial proposto. A implementação organiza registros; não substitui leitura, revisão científica ou aprovação do pesquisador.
 
+O ponto de entrada principal agora é a [trilha por habilidades](../aprendizagem/comecar.md). Este guia continua disponível para relacionar fontes a atividades e pesquisa. Cada tópico da disciplina também aponta a uma unidade de habilidade; a [cobertura](../aprendizagem/cobertura.md) distingue tópicos autorais, itens externos e aulas ainda em roteiro.
+
 ## Para aprender uma disciplina
 
 1. Escolha o [percurso CC](../curriculo/percurso-cc.md) ou [EC](../curriculo/percurso-ec.md) e confira os pré-requisitos.

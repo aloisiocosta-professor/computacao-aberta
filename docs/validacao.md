@@ -1,5 +1,13 @@
 # Registro de validação
 
+## Proposta editorial 0.3.0 — aprendizagem por habilidades
+
+Verificação local em 30/10/2026: ATENDIDO. Há 447 unidades para 359 tópicos autorais e 88 itens de índices externos, com vínculo um a um para todos os itens registrados. O escopo externo é parcial e explícito: a cobertura não inclui todos os subitens de todas as aulas.
+
+Passaram 34 testes: 12 das relações de fontes, 17 de cobertura/progresso e cinco dos exemplos executáveis. Os testes rejeitam índice sem origem, item inexistente, cobertura incompleta, ciclos, visual sem descrição textual, independência com solução e retenção sem data posterior. Não demonstram aprendizagem de uma pessoa ou de um agente.
+
+A geração foi novamente comparada por hashes e permaneceu determinística. O modelo de progresso começa vazio; o validador não inseriu desempenho em nome do usuário. Quatro aulas iniciais possuem exemplos e tarefas; 443 unidades ainda são roteiros. A avaliação de eficácia e a revisão científica/pedagógica permanecem NÃO VERIFICADAS. O resultado remoto específico será ligado ao PR da issue #3.
+
 ## Proposta editorial 0.2.0 — relações entre fontes e pesquisa
 
 Validação local em 30/10/2026: ATENDIDO. Foram verificadas 232 relações entre disciplinas e referências e 14 funções acadêmicas. Os 12 testes de regressão passaram, incluindo rejeição de suporte confirmado sem localização, atribuição à fonte sem suporte localizado, relações ausentes/duplicadas e lacuna comprovada sem evidência confirmada.

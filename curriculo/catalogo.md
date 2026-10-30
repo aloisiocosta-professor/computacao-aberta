@@ -1,6 +1,6 @@
 # Catálogo de disciplinas
 
-Proposta editorial v0.2.0. Não é uma matriz oficial nem uma enumeração universal de todas as disciplinas existentes. Pré-requisitos e habilidades são propostas; revisão especializada pendente.
+Proposta editorial v0.3.0. Não é uma matriz oficial nem uma enumeração universal de todas as disciplinas existentes. Pré-requisitos e habilidades são propostas; revisão especializada pendente.
 
 | ID | Disciplina | Eixo | Percursos | Etapa lógica |
 |---|---|---|---|---|

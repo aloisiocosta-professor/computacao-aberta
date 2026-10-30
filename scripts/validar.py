@@ -3,6 +3,7 @@ from pathlib import Path
 from urllib.parse import urlparse,unquote
 import json,re,sys
 from relacoes import validate_relations
+from aprendizagem import validate_learning,validate_progress
 ROOT=Path(__file__).resolve().parents[1]
 def check():
     errors=[];checks=0
@@ -22,6 +23,10 @@ def check():
     relation_errors=validate_relations(relations,subjects,refs,functions)
     require(not relation_errors,"Relações de fontes inválidas")
     errors.extend(relation_errors)
+    learning_errors=validate_learning(subjects,courses,read("indices-disciplinas")+read("indices-cursos"),read("habilidades"),read("perfis-habilidades"),read("missoes"))
+    require(not learning_errors,"Aprendizagem inválida")
+    errors.extend(learning_errors)
+    errors.extend(validate_progress(read("progresso.exemplo"),read("habilidades")))
     for c in subjects:
         require(c["eixo"] in axis,"Eixo inexistente: "+c["id"])
         require(bool(c["conhecimentos"]) and bool(c["habilidades"]) and bool(c["metodologia"]),"Ficha vazia: "+c["id"])

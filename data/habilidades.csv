@@ -1,0 +1,448 @@
+id,indice,item,disciplina,resultado_observavel,pre_requisitos,estado_editorial,validacao_cientifica,aula_local,perfil,curso
+U-FND01-01,IDX-FND01,FND01-01,FND01,"Aplicar abstração em um procedimento documentado, justificando escolhas e fontes.",,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND01-02,IDX-FND01,FND01-02,FND01,"Aplicar sistemas computacionais em um procedimento documentado, justificando escolhas e fontes.",U-FND01-01,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND01-03,IDX-FND01,FND01-03,FND01,"Aplicar hardware e software em um procedimento documentado, justificando escolhas e fontes.",U-FND01-02,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND02-01,IDX-FND02,FND02-01,FND02,"Aplicar planejamento em um procedimento documentado, justificando escolhas e fontes.",,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND02-02,IDX-FND02,FND02-02,FND02,"Aplicar autoavaliação em um procedimento documentado, justificando escolhas e fontes.",U-FND02-01,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND02-03,IDX-FND02,FND02-03,FND02,"Aplicar registro de dúvidas em um procedimento documentado, justificando escolhas e fontes.",U-FND02-02,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND03-01,IDX-FND03,FND03-01,FND03,"Aplicar controle de versão em um procedimento documentado, justificando escolhas e fontes.",,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND03-02,IDX-FND03,FND03-02,FND03,"Aplicar terminal em um procedimento documentado, justificando escolhas e fontes.",U-FND03-01,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND03-03,IDX-FND03,FND03-03,FND03,"Aplicar depuração em um procedimento documentado, justificando escolhas e fontes.",U-FND03-02,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND04-01,IDX-FND04,FND04-01,FND04,"Aplicar argumentação em um procedimento documentado, justificando escolhas e fontes.",U-FND02-03,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND04-02,IDX-FND04,FND04-02,FND04,"Aplicar atribuição em um procedimento documentado, justificando escolhas e fontes.",U-FND04-01,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND04-03,IDX-FND04,FND04-03,FND04,"Aplicar busca bibliográfica em um procedimento documentado, justificando escolhas e fontes.",U-FND04-02,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND05-01,IDX-FND05,FND05-01,FND05,"Aplicar leitura técnica em um procedimento documentado, justificando escolhas e fontes.",,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND05-02,IDX-FND05,FND05-02,FND05,"Aplicar vocabulário em um procedimento documentado, justificando escolhas e fontes.",U-FND05-01,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND05-03,IDX-FND05,FND05-03,FND05,"Aplicar documentação em um procedimento documentado, justificando escolhas e fontes.",U-FND05-02,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND06-01,IDX-FND06,FND06-01,FND06,"Aplicar pergunta em um procedimento documentado, justificando escolhas e fontes.",U-FND04-03;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND06-02,IDX-FND06,FND06-02,FND06,"Aplicar desenho de estudo em um procedimento documentado, justificando escolhas e fontes.",U-FND06-01,ROTEIRO,NÃO VERIFICADO,,FND,
+U-FND06-03,IDX-FND06,FND06-03,FND06,"Aplicar reprodutibilidade em um procedimento documentado, justificando escolhas e fontes.",U-FND06-02,ROTEIRO,NÃO VERIFICADO,,FND,
+U-MAT01-01,IDX-MAT01,MAT01-01,MAT01,"Resolver um problema de álgebra, explicitando hipóteses e verificando os passos.",,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT01-02,IDX-MAT01,MAT01-02,MAT01,"Resolver um problema de funções, explicitando hipóteses e verificando os passos.",U-MAT01-01,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT01-03,IDX-MAT01,MAT01-03,MAT01,"Resolver um problema de trigonometria, explicitando hipóteses e verificando os passos.",U-MAT01-02,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT02-01,IDX-MAT02,MAT02-01,MAT02,"Resolver um problema de proposições, explicitando hipóteses e verificando os passos.",,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT02-02,IDX-MAT02,MAT02-02,MAT02,"Resolver um problema de conjuntos, explicitando hipóteses e verificando os passos.",U-MAT02-01,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT02-03,IDX-MAT02,MAT02-03,MAT02,"Resolver um problema de relações, explicitando hipóteses e verificando os passos.",U-MAT02-02,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT02-04,IDX-MAT02,MAT02-04,MAT02,"Resolver um problema de indução, explicitando hipóteses e verificando os passos.",U-MAT02-03,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT03-01,IDX-MAT03,MAT03-01,MAT03,"Resolver um problema de vetores, explicitando hipóteses e verificando os passos.",U-MAT01-03,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT03-02,IDX-MAT03,MAT03-02,MAT03,"Resolver um problema de retas, explicitando hipóteses e verificando os passos.",U-MAT03-01,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT03-03,IDX-MAT03,MAT03-03,MAT03,"Resolver um problema de planos, explicitando hipóteses e verificando os passos.",U-MAT03-02,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT04-01,IDX-MAT04,MAT04-01,MAT04,"Resolver um problema de limites, explicitando hipóteses e verificando os passos.",U-MAT01-03,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT04-02,IDX-MAT04,MAT04-02,MAT04,"Resolver um problema de derivadas, explicitando hipóteses e verificando os passos.",U-MAT04-01,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT04-03,IDX-MAT04,MAT04-03,MAT04,"Resolver um problema de integrais de uma variável, explicitando hipóteses e verificando os passos.",U-MAT04-02,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT05-01,IDX-MAT05,MAT05-01,MAT05,"Resolver um problema de técnicas de integração, explicitando hipóteses e verificando os passos.",U-MAT04-03,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT05-02,IDX-MAT05,MAT05-02,MAT05,"Resolver um problema de sequências, explicitando hipóteses e verificando os passos.",U-MAT05-01,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT05-03,IDX-MAT05,MAT05-03,MAT05,"Resolver um problema de séries, explicitando hipóteses e verificando os passos.",U-MAT05-02,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT06-01,IDX-MAT06,MAT06-01,MAT06,"Resolver um problema de matrizes, explicitando hipóteses e verificando os passos.",U-MAT03-03,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT06-02,IDX-MAT06,MAT06-02,MAT06,"Resolver um problema de espaços vetoriais, explicitando hipóteses e verificando os passos.",U-MAT06-01,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT06-03,IDX-MAT06,MAT06-03,MAT06,"Resolver um problema de autovalores, explicitando hipóteses e verificando os passos.",U-MAT06-02,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT07-01,IDX-MAT07,MAT07-01,MAT07,"Resolver um problema de distribuições, explicitando hipóteses e verificando os passos.",U-MAT04-03;U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT07-02,IDX-MAT07,MAT07-02,MAT07,"Resolver um problema de estimação, explicitando hipóteses e verificando os passos.",U-MAT07-01,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT07-03,IDX-MAT07,MAT07-03,MAT07,"Resolver um problema de inferência, explicitando hipóteses e verificando os passos.",U-MAT07-02,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT08-01,IDX-MAT08,MAT08-01,MAT08,"Resolver um problema de EDO, explicitando hipóteses e verificando os passos.",U-MAT05-03;U-MAT06-03,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT08-02,IDX-MAT08,MAT08-02,MAT08,"Resolver um problema de derivadas parciais, explicitando hipóteses e verificando os passos.",U-MAT08-01,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT08-03,IDX-MAT08,MAT08-03,MAT08,"Resolver um problema de integração múltipla, explicitando hipóteses e verificando os passos.",U-MAT08-02,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT09-01,IDX-MAT09,MAT09-01,MAT09,"Resolver um problema de erro numérico, explicitando hipóteses e verificando os passos.",U-MAT05-03;U-MAT06-03;U-PRG01-04,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT09-02,IDX-MAT09,MAT09-02,MAT09,"Resolver um problema de raízes, explicitando hipóteses e verificando os passos.",U-MAT09-01,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-MAT09-03,IDX-MAT09,MAT09-03,MAT09,"Resolver um problema de otimização, explicitando hipóteses e verificando os passos.",U-MAT09-02,ROTEIRO,NÃO VERIFICADO,,MAT,
+U-PRG01-01,IDX-PRG01,PRG01-01,PRG01,"Construir e rastrear um programa que utiliza variáveis, explicando seu comportamento.",,AULA_INICIAL,NÃO VERIFICADO,unidades/primeiros-passos/01-variaveis.md,PRG,
+U-PRG01-02,IDX-PRG01,PRG01-02,PRG01,"Construir e rastrear um programa que utiliza decisões, explicando seu comportamento.",U-PRG01-01,AULA_INICIAL,NÃO VERIFICADO,unidades/primeiros-passos/02-decisoes.md,PRG,
+U-PRG01-03,IDX-PRG01,PRG01-03,PRG01,"Construir e rastrear um programa que utiliza repetição, explicando seu comportamento.",U-PRG01-02,AULA_INICIAL,NÃO VERIFICADO,unidades/primeiros-passos/03-repeticao.md,PRG,
+U-PRG01-04,IDX-PRG01,PRG01-04,PRG01,"Construir e rastrear um programa que utiliza decomposição, explicando seu comportamento.",U-PRG01-03,AULA_INICIAL,NÃO VERIFICADO,unidades/primeiros-passos/04-decomposicao.md,PRG,
+U-PRG02-01,IDX-PRG02,PRG02-01,PRG02,"Construir e rastrear um programa que utiliza funções, explicando seu comportamento.",U-PRG01-04,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG02-02,IDX-PRG02,PRG02-02,PRG02,"Construir e rastrear um programa que utiliza módulos, explicando seu comportamento.",U-PRG02-01,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG02-03,IDX-PRG02,PRG02-03,PRG02,"Construir e rastrear um programa que utiliza recursão, explicando seu comportamento.",U-PRG02-02,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG02-04,IDX-PRG02,PRG02-04,PRG02,"Construir e rastrear um programa que utiliza testes básicos, explicando seu comportamento.",U-PRG02-03,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG03-01,IDX-PRG03,PRG03-01,PRG03,"Construir e rastrear um programa que utiliza objetos, explicando seu comportamento.",U-PRG02-04,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG03-02,IDX-PRG03,PRG03-02,PRG03,"Construir e rastrear um programa que utiliza encapsulamento, explicando seu comportamento.",U-PRG03-01,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG03-03,IDX-PRG03,PRG03-03,PRG03,"Construir e rastrear um programa que utiliza composição, explicando seu comportamento.",U-PRG03-02,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG03-04,IDX-PRG03,PRG03-04,PRG03,"Construir e rastrear um programa que utiliza polimorfismo, explicando seu comportamento.",U-PRG03-03,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG04-01,IDX-PRG04,PRG04-01,PRG04,"Construir e rastrear um programa que utiliza ponteiros, explicando seu comportamento.",U-PRG02-04,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG04-02,IDX-PRG04,PRG04-02,PRG04,"Construir e rastrear um programa que utiliza memória, explicando seu comportamento.",U-PRG04-01,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG04-03,IDX-PRG04,PRG04-03,PRG04,"Construir e rastrear um programa que utiliza compilação, explicando seu comportamento.",U-PRG04-02,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG04-04,IDX-PRG04,PRG04-04,PRG04,"Construir e rastrear um programa que utiliza interfaces, explicando seu comportamento.",U-PRG04-03,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG05-01,IDX-PRG05,PRG05-01,PRG05,"Construir e rastrear um programa que utiliza funções de ordem superior, explicando seu comportamento.",U-PRG02-04;U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG05-02,IDX-PRG05,PRG05-02,PRG05,"Construir e rastrear um programa que utiliza imutabilidade, explicando seu comportamento.",U-PRG05-01,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG05-03,IDX-PRG05,PRG05-03,PRG05,"Construir e rastrear um programa que utiliza tipos, explicando seu comportamento.",U-PRG05-02,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG06-01,IDX-PRG06,PRG06-01,PRG06,"Construir e rastrear um programa que utiliza unificação, explicando seu comportamento.",U-MAT02-04;U-PRG02-04,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG06-02,IDX-PRG06,PRG06-02,PRG06,"Construir e rastrear um programa que utiliza cláusulas, explicando seu comportamento.",U-PRG06-01,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG06-03,IDX-PRG06,PRG06-03,PRG06,"Construir e rastrear um programa que utiliza busca, explicando seu comportamento.",U-PRG06-02,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG07-01,IDX-PRG07,PRG07-01,PRG07,"Construir e rastrear um programa que utiliza escopo, explicando seu comportamento.",U-PRG03-04;U-PRG05-03,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG07-02,IDX-PRG07,PRG07-02,PRG07,"Construir e rastrear um programa que utiliza tipos, explicando seu comportamento.",U-PRG07-01,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG07-03,IDX-PRG07,PRG07-03,PRG07,"Construir e rastrear um programa que utiliza avaliação, explicando seu comportamento.",U-PRG07-02,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG07-04,IDX-PRG07,PRG07-04,PRG07,"Construir e rastrear um programa que utiliza semântica, explicando seu comportamento.",U-PRG07-03,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG08-01,IDX-PRG08,PRG08-01,PRG08,"Construir e rastrear um programa que utiliza sincronização, explicando seu comportamento.",U-PRG04-04;U-SYS01-04,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG08-02,IDX-PRG08,PRG08-02,PRG08,"Construir e rastrear um programa que utiliza exclusão mútua, explicando seu comportamento.",U-PRG08-01,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-PRG08-03,IDX-PRG08,PRG08-03,PRG08,"Construir e rastrear um programa que utiliza comunicação, explicando seu comportamento.",U-PRG08-02,ROTEIRO,NÃO VERIFICADO,,PRG,
+U-ALG01-01,IDX-ALG01,ALG01-01,ALG01,Implementar ou simular uma solução envolvendo listas e justificar correção e custo.,U-PRG02-04;U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG01-02,IDX-ALG01,ALG01-02,ALG01,Implementar ou simular uma solução envolvendo pilhas e justificar correção e custo.,U-ALG01-01,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG01-03,IDX-ALG01,ALG01-03,ALG01,Implementar ou simular uma solução envolvendo filas e justificar correção e custo.,U-ALG01-02,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG01-04,IDX-ALG01,ALG01-04,ALG01,Implementar ou simular uma solução envolvendo árvores e justificar correção e custo.,U-ALG01-03,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG02-01,IDX-ALG02,ALG02-01,ALG02,Implementar ou simular uma solução envolvendo hashing e justificar correção e custo.,U-ALG01-04,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG02-02,IDX-ALG02,ALG02-02,ALG02,Implementar ou simular uma solução envolvendo árvores balanceadas e justificar correção e custo.,U-ALG02-01,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG02-03,IDX-ALG02,ALG02-03,ALG02,Implementar ou simular uma solução envolvendo filas de prioridade e justificar correção e custo.,U-ALG02-02,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG03-01,IDX-ALG03,ALG03-01,ALG03,Implementar ou simular uma solução envolvendo complexidade e justificar correção e custo.,U-ALG02-03;U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG03-02,IDX-ALG03,ALG03-02,ALG03,Implementar ou simular uma solução envolvendo recorrências e justificar correção e custo.,U-ALG03-01,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG03-03,IDX-ALG03,ALG03-03,ALG03,Implementar ou simular uma solução envolvendo guloso e justificar correção e custo.,U-ALG03-02,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG03-04,IDX-ALG03,ALG03-04,ALG03,Implementar ou simular uma solução envolvendo programação dinâmica e justificar correção e custo.,U-ALG03-03,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG04-01,IDX-ALG04,ALG04-01,ALG04,Implementar ou simular uma solução envolvendo conectividade e justificar correção e custo.,U-ALG01-04;U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG04-02,IDX-ALG04,ALG04-02,ALG04,Implementar ou simular uma solução envolvendo percursos e justificar correção e custo.,U-ALG04-01,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG04-03,IDX-ALG04,ALG04-03,ALG04,Implementar ou simular uma solução envolvendo caminhos e justificar correção e custo.,U-ALG04-02,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG04-04,IDX-ALG04,ALG04-04,ALG04,Implementar ou simular uma solução envolvendo árvores e justificar correção e custo.,U-ALG04-03,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG05-01,IDX-ALG05,ALG05-01,ALG05,Implementar ou simular uma solução envolvendo aleatorização e justificar correção e custo.,U-ALG03-04;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG05-02,IDX-ALG05,ALG05-02,ALG05,Implementar ou simular uma solução envolvendo aproximação e justificar correção e custo.,U-ALG05-01,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG05-03,IDX-ALG05,ALG05-03,ALG05,Implementar ou simular uma solução envolvendo garantias e justificar correção e custo.,U-ALG05-02,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG06-01,IDX-ALG06,ALG06-01,ALG06,Implementar ou simular uma solução envolvendo programação linear e justificar correção e custo.,U-MAT06-03;U-ALG03-04,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG06-02,IDX-ALG06,ALG06-02,ALG06,Implementar ou simular uma solução envolvendo modelos inteiros e justificar correção e custo.,U-ALG06-01,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG06-03,IDX-ALG06,ALG06-03,ALG06,Implementar ou simular uma solução envolvendo heurísticas e justificar correção e custo.,U-ALG06-02,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG07-01,IDX-ALG07,ALG07-01,ALG07,Implementar ou simular uma solução envolvendo simulação e justificar correção e custo.,U-MAT09-03;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG07-02,IDX-ALG07,ALG07-02,ALG07,Implementar ou simular uma solução envolvendo Monte Carlo e justificar correção e custo.,U-ALG07-01,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-ALG07-03,IDX-ALG07,ALG07-03,ALG07,Implementar ou simular uma solução envolvendo validação e justificar correção e custo.,U-ALG07-02,ROTEIRO,NÃO VERIFICADO,,ALG,
+U-TEO01-01,IDX-TEO01,TEO01-01,TEO01,Construir um modelo formal envolvendo gramáticas e justificar uma propriedade delimitada.,U-MAT02-04;U-ALG01-04,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO01-02,IDX-TEO01,TEO01-02,TEO01,Construir um modelo formal envolvendo expressões regulares e justificar uma propriedade delimitada.,U-TEO01-01,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO01-03,IDX-TEO01,TEO01-03,TEO01,Construir um modelo formal envolvendo autômatos e justificar uma propriedade delimitada.,U-TEO01-02,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO02-01,IDX-TEO02,TEO02-01,TEO02,Construir um modelo formal envolvendo decidibilidade e justificar uma propriedade delimitada.,U-TEO01-03;U-ALG03-04,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO02-02,IDX-TEO02,TEO02-02,TEO02,Construir um modelo formal envolvendo reduções e justificar uma propriedade delimitada.,U-TEO02-01,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO02-03,IDX-TEO02,TEO02-03,TEO02,Construir um modelo formal envolvendo classes de complexidade e justificar uma propriedade delimitada.,U-TEO02-02,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO03-01,IDX-TEO03,TEO03-01,TEO03,Construir um modelo formal envolvendo análise léxica e justificar uma propriedade delimitada.,U-TEO01-03;U-PRG04-04;U-PRG07-04,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO03-02,IDX-TEO03,TEO03-02,TEO03,Construir um modelo formal envolvendo parsing e justificar uma propriedade delimitada.,U-TEO03-01,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO03-03,IDX-TEO03,TEO03-03,TEO03,Construir um modelo formal envolvendo representação intermediária e justificar uma propriedade delimitada.,U-TEO03-02,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO04-01,IDX-TEO04,TEO04-01,TEO04,Construir um modelo formal envolvendo invariantes e justificar uma propriedade delimitada.,U-TEO01-03;U-PRG07-04,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO04-02,IDX-TEO04,TEO04-02,TEO04,Construir um modelo formal envolvendo lógica de Hoare e justificar uma propriedade delimitada.,U-TEO04-01,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO04-03,IDX-TEO04,TEO04-03,TEO04,Construir um modelo formal envolvendo verificação de modelos e justificar uma propriedade delimitada.,U-TEO04-02,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO05-01,IDX-TEO05,TEO05-01,TEO05,Construir um modelo formal envolvendo entropia e justificar uma propriedade delimitada.,U-MAT07-03;U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO05-02,IDX-TEO05,TEO05-02,TEO05,Construir um modelo formal envolvendo compressão e justificar uma propriedade delimitada.,U-TEO05-01,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-TEO05-03,IDX-TEO05,TEO05-03,TEO05,Construir um modelo formal envolvendo códigos e justificar uma propriedade delimitada.,U-TEO05-02,ROTEIRO,NÃO VERIFICADO,,TEO,
+U-HWD01-01,IDX-HWD01,HWD01-01,HWD01,"Representar e simular um mecanismo de portas, confrontando saídas com a especificação.",U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD01-02,IDX-HWD01,HWD01-02,HWD01,"Representar e simular um mecanismo de simplificação, confrontando saídas com a especificação.",U-HWD01-01,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD01-03,IDX-HWD01,HWD01-03,HWD01,"Representar e simular um mecanismo de circuitos combinacionais, confrontando saídas com a especificação.",U-HWD01-02,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD02-01,IDX-HWD02,HWD02-01,HWD02,"Representar e simular um mecanismo de flip-flops, confrontando saídas com a especificação.",U-HWD01-03,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD02-02,IDX-HWD02,HWD02-02,HWD02,"Representar e simular um mecanismo de registradores, confrontando saídas com a especificação.",U-HWD02-01,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD02-03,IDX-HWD02,HWD02-03,HWD02,"Representar e simular um mecanismo de máquinas de estados, confrontando saídas com a especificação.",U-HWD02-02,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD03-01,IDX-HWD03,HWD03-01,HWD03,"Representar e simular um mecanismo de ISA, confrontando saídas com a especificação.",U-HWD02-03;U-PRG04-04,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD03-02,IDX-HWD03,HWD03-02,HWD03,"Representar e simular um mecanismo de caminho de dados, confrontando saídas com a especificação.",U-HWD03-01,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD03-03,IDX-HWD03,HWD03-03,HWD03,"Representar e simular um mecanismo de memória, confrontando saídas com a especificação.",U-HWD03-02,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD04-01,IDX-HWD04,HWD04-01,HWD04,"Representar e simular um mecanismo de pipeline, confrontando saídas com a especificação.",U-HWD03-03,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD04-02,IDX-HWD04,HWD04-02,HWD04,"Representar e simular um mecanismo de caches, confrontando saídas com a especificação.",U-HWD04-01,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD04-03,IDX-HWD04,HWD04-03,HWD04,"Representar e simular um mecanismo de paralelismo, confrontando saídas com a especificação.",U-HWD04-02,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD05-01,IDX-HWD05,HWD05-01,HWD05,"Representar e simular um mecanismo de HDL, confrontando saídas com a especificação.",U-HWD02-03,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD05-02,IDX-HWD05,HWD05-02,HWD05,"Representar e simular um mecanismo de síntese, confrontando saídas com a especificação.",U-HWD05-01,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD05-03,IDX-HWD05,HWD05-03,HWD05,"Representar e simular um mecanismo de temporização, confrontando saídas com a especificação.",U-HWD05-02,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD05-04,IDX-HWD05,HWD05-04,HWD05,"Representar e simular um mecanismo de testbench, confrontando saídas com a especificação.",U-HWD05-03,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD06-01,IDX-HWD06,HWD06-01,HWD06,"Representar e simular um mecanismo de interrupções, confrontando saídas com a especificação.",U-HWD03-03;U-ELE03-04,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD06-02,IDX-HWD06,HWD06-02,HWD06,"Representar e simular um mecanismo de temporizadores, confrontando saídas com a especificação.",U-HWD06-01,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD06-03,IDX-HWD06,HWD06-03,HWD06,"Representar e simular um mecanismo de barramentos, confrontando saídas com a especificação.",U-HWD06-02,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD07-01,IDX-HWD07,HWD07-01,HWD07,"Representar e simular um mecanismo de tarefas, confrontando saídas com a especificação.",U-HWD06-03;U-PRG08-03,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD07-02,IDX-HWD07,HWD07-02,HWD07,"Representar e simular um mecanismo de escalonamento, confrontando saídas com a especificação.",U-HWD07-01,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD07-03,IDX-HWD07,HWD07-03,HWD07,"Representar e simular um mecanismo de restrições temporais, confrontando saídas com a especificação.",U-HWD07-02,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD08-01,IDX-HWD08,HWD08-01,HWD08,"Representar e simular um mecanismo de CMOS, confrontando saídas com a especificação.",U-HWD05-04;U-HWD04-03;U-ELE03-04,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD08-02,IDX-HWD08,HWD08-02,HWD08,"Representar e simular um mecanismo de integração, confrontando saídas com a especificação.",U-HWD08-01,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-HWD08-03,IDX-HWD08,HWD08-03,HWD08,"Representar e simular um mecanismo de particionamento, confrontando saídas com a especificação.",U-HWD08-02,ROTEIRO,NÃO VERIFICADO,,HWD,
+U-FIS01-01,IDX-FIS01,FIS01-01,FIS01,"Modelar um fenômeno de cinemática, explicitando unidades, hipóteses e limites de medição.",U-MAT04-03,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS01-02,IDX-FIS01,FIS01-02,FIS01,"Modelar um fenômeno de dinâmica, explicitando unidades, hipóteses e limites de medição.",U-FIS01-01,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS01-03,IDX-FIS01,FIS01-03,FIS01,"Modelar um fenômeno de energia, explicitando unidades, hipóteses e limites de medição.",U-FIS01-02,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS01-04,IDX-FIS01,FIS01-04,FIS01,"Modelar um fenômeno de medição, explicitando unidades, hipóteses e limites de medição.",U-FIS01-03,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS02-01,IDX-FIS02,FIS02-01,FIS02,"Modelar um fenômeno de campos, explicitando unidades, hipóteses e limites de medição.",U-FIS01-04;U-MAT05-03,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS02-02,IDX-FIS02,FIS02-02,FIS02,"Modelar um fenômeno de potencial, explicitando unidades, hipóteses e limites de medição.",U-FIS02-01,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS02-03,IDX-FIS02,FIS02-03,FIS02,"Modelar um fenômeno de indução, explicitando unidades, hipóteses e limites de medição.",U-FIS02-02,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS03-01,IDX-FIS03,FIS03-01,FIS03,"Modelar um fenômeno de oscilações, explicitando unidades, hipóteses e limites de medição.",U-FIS01-04;U-MAT05-03,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS03-02,IDX-FIS03,FIS03-02,FIS03,"Modelar um fenômeno de ondas, explicitando unidades, hipóteses e limites de medição.",U-FIS03-01,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS03-03,IDX-FIS03,FIS03-03,FIS03,"Modelar um fenômeno de calor, explicitando unidades, hipóteses e limites de medição.",U-FIS03-02,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS03-04,IDX-FIS03,FIS03-04,FIS03,"Modelar um fenômeno de luz, explicitando unidades, hipóteses e limites de medição.",U-FIS03-03,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS04-01,IDX-FIS04,FIS04-01,FIS04,"Modelar um fenômeno de estrutura da matéria, explicitando unidades, hipóteses e limites de medição.",U-FIS02-03,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS04-02,IDX-FIS04,FIS04-02,FIS04,"Modelar um fenômeno de bandas, explicitando unidades, hipóteses e limites de medição.",U-FIS04-01,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS04-03,IDX-FIS04,FIS04-03,FIS04,"Modelar um fenômeno de transporte, explicitando unidades, hipóteses e limites de medição.",U-FIS04-02,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS05-01,IDX-FIS05,FIS05-01,FIS05,"Modelar um fenômeno de ligações, explicitando unidades, hipóteses e limites de medição.",U-MAT01-03,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS05-02,IDX-FIS05,FIS05-02,FIS05,"Modelar um fenômeno de materiais, explicitando unidades, hipóteses e limites de medição.",U-FIS05-01,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS05-03,IDX-FIS05,FIS05-03,FIS05,"Modelar um fenômeno de propriedades, explicitando unidades, hipóteses e limites de medição.",U-FIS05-02,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS06-01,IDX-FIS06,FIS06-01,FIS06,"Modelar um fenômeno de calibração, explicitando unidades, hipóteses e limites de medição.",U-FIS01-04;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS06-02,IDX-FIS06,FIS06-02,FIS06,"Modelar um fenômeno de propagação, explicitando unidades, hipóteses e limites de medição.",U-FIS06-01,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-FIS06-03,IDX-FIS06,FIS06-03,FIS06,"Modelar um fenômeno de rastreabilidade, explicitando unidades, hipóteses e limites de medição.",U-FIS06-02,ROTEIRO,NÃO VERIFICADO,,FIS,
+U-ELE01-01,IDX-ELE01,ELE01-01,ELE01,Analisar ou simular leis de Kirchhoff e justificar margens e limites de operação.,U-FIS02-03;U-MAT06-03,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE01-02,IDX-ELE01,ELE01-02,ELE01,Analisar ou simular circuitos resistivos e justificar margens e limites de operação.,U-ELE01-01,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE01-03,IDX-ELE01,ELE01-03,ELE01,Analisar ou simular equivalentes e justificar margens e limites de operação.,U-ELE01-02,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE02-01,IDX-ELE02,ELE02-01,ELE02,Analisar ou simular regime transitório e justificar margens e limites de operação.,U-ELE01-03;U-MAT08-03,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE02-02,IDX-ELE02,ELE02-02,ELE02,Analisar ou simular fasores e justificar margens e limites de operação.,U-ELE02-01,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE02-03,IDX-ELE02,ELE02-03,ELE02,Analisar ou simular resposta em frequência e justificar margens e limites de operação.,U-ELE02-02,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE03-01,IDX-ELE03,ELE03-01,ELE03,Analisar ou simular diodos e justificar margens e limites de operação.,U-ELE01-03;U-HWD02-03,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE03-02,IDX-ELE03,ELE03-02,ELE03,Analisar ou simular transistores e justificar margens e limites de operação.,U-ELE03-01,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE03-03,IDX-ELE03,ELE03-03,ELE03,Analisar ou simular amplificadores e justificar margens e limites de operação.,U-ELE03-02,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE03-04,IDX-ELE03,ELE03-04,ELE03,Analisar ou simular níveis lógicos e justificar margens e limites de operação.,U-ELE03-03,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE04-01,IDX-ELE04,ELE04-01,ELE04,Analisar ou simular sensores e justificar margens e limites de operação.,U-ELE03-04;U-FIS06-03,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE04-02,IDX-ELE04,ELE04-02,ELE04,Analisar ou simular ADC e justificar margens e limites de operação.,U-ELE04-01,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE04-03,IDX-ELE04,ELE04-03,ELE04,Analisar ou simular condicionamento e justificar margens e limites de operação.,U-ELE04-02,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE04-04,IDX-ELE04,ELE04-04,ELE04,Analisar ou simular ruído e justificar margens e limites de operação.,U-ELE04-03,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE05-01,IDX-ELE05,ELE05-01,ELE05,Analisar ou simular esquemático e justificar margens e limites de operação.,U-ELE03-04,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE05-02,IDX-ELE05,ELE05-02,ELE05,Analisar ou simular layout e justificar margens e limites de operação.,U-ELE05-01,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE05-03,IDX-ELE05,ELE05-03,ELE05,Analisar ou simular montagem e justificar margens e limites de operação.,U-ELE05-02,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE05-04,IDX-ELE05,ELE05-04,ELE05,Analisar ou simular validação e justificar margens e limites de operação.,U-ELE05-03,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE06-01,IDX-ELE06,ELE06-01,ELE06,Analisar ou simular conversores e justificar margens e limites de operação.,U-ELE02-03;U-ELE03-04,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE06-02,IDX-ELE06,ELE06-02,ELE06,Analisar ou simular comutação e justificar margens e limites de operação.,U-ELE06-01,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE06-03,IDX-ELE06,ELE06-03,ELE06,Analisar ou simular motores e justificar margens e limites de operação.,U-ELE06-02,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE07-01,IDX-ELE07,ELE07-01,ELE07,Analisar ou simular interferência e justificar margens e limites de operação.,U-ELE02-03;U-ELE04-04,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE07-02,IDX-ELE07,ELE07-02,ELE07,Analisar ou simular aterramento e justificar margens e limites de operação.,U-ELE07-01,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-ELE07-03,IDX-ELE07,ELE07-03,ELE07,Analisar ou simular falhas e justificar margens e limites de operação.,U-ELE07-02,ROTEIRO,NÃO VERIFICADO,,ELE,
+U-SIN01-01,IDX-SIN01,SIN01-01,SIN01,"Modelar e analisar convolução em um sistema delimitado, comparando previsão e resposta.",U-MAT08-03;U-ELE01-03,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN01-02,IDX-SIN01,SIN01-02,SIN01,"Modelar e analisar transformadas em um sistema delimitado, comparando previsão e resposta.",U-SIN01-01,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN01-03,IDX-SIN01,SIN01-03,SIN01,"Modelar e analisar sistemas lineares em um sistema delimitado, comparando previsão e resposta.",U-SIN01-02,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN02-01,IDX-SIN02,SIN02-01,SIN02,"Modelar e analisar amostragem em um sistema delimitado, comparando previsão e resposta.",U-SIN01-03;U-PRG02-04,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN02-02,IDX-SIN02,SIN02-02,SIN02,"Modelar e analisar filtros em um sistema delimitado, comparando previsão e resposta.",U-SIN02-01,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN02-03,IDX-SIN02,SIN02-03,SIN02,"Modelar e analisar transformada discreta em um sistema delimitado, comparando previsão e resposta.",U-SIN02-02,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN03-01,IDX-SIN03,SIN03-01,SIN03,"Modelar e analisar realimentação em um sistema delimitado, comparando previsão e resposta.",U-SIN01-03;U-MAT08-03,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN03-02,IDX-SIN03,SIN03-02,SIN03,"Modelar e analisar estabilidade em um sistema delimitado, comparando previsão e resposta.",U-SIN03-01,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN03-03,IDX-SIN03,SIN03-03,SIN03,"Modelar e analisar controladores em um sistema delimitado, comparando previsão e resposta.",U-SIN03-02,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN04-01,IDX-SIN04,SIN04-01,SIN04,"Modelar e analisar cinemática em um sistema delimitado, comparando previsão e resposta.",U-SIN03-03;U-MAT06-03;U-HWD06-03,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN04-02,IDX-SIN04,SIN04-02,SIN04,"Modelar e analisar dinâmica em um sistema delimitado, comparando previsão e resposta.",U-SIN04-01,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN04-03,IDX-SIN04,SIN04-03,SIN04,"Modelar e analisar planejamento em um sistema delimitado, comparando previsão e resposta.",U-SIN04-02,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN05-01,IDX-SIN05,SIN05-01,SIN05,"Modelar e analisar modulação em um sistema delimitado, comparando previsão e resposta.",U-SIN01-03;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN05-02,IDX-SIN05,SIN05-02,SIN05,"Modelar e analisar canais em um sistema delimitado, comparando previsão e resposta.",U-SIN05-01,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN05-03,IDX-SIN05,SIN05-03,SIN05,"Modelar e analisar detecção em um sistema delimitado, comparando previsão e resposta.",U-SIN05-02,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN06-01,IDX-SIN06,SIN06-01,SIN06,"Modelar e analisar integração física em um sistema delimitado, comparando previsão e resposta.",U-HWD07-03;U-NET01-04;U-SIN03-03,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN06-02,IDX-SIN06,SIN06-02,SIN06,"Modelar e analisar conectividade em um sistema delimitado, comparando previsão e resposta.",U-SIN06-01,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SIN06-03,IDX-SIN06,SIN06-03,SIN06,"Modelar e analisar restrições em um sistema delimitado, comparando previsão e resposta.",U-SIN06-02,ROTEIRO,NÃO VERIFICADO,,SIN,
+U-SYS01-01,IDX-SYS01,SYS01-01,SYS01,Explicar e testar um mecanismo de processos em ambiente local ou simulado.,U-HWD03-03;U-PRG04-04,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS01-02,IDX-SYS01,SYS01-02,SYS01,Explicar e testar um mecanismo de memória em ambiente local ou simulado.,U-SYS01-01,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS01-03,IDX-SYS01,SYS01-03,SYS01,Explicar e testar um mecanismo de arquivos em ambiente local ou simulado.,U-SYS01-02,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS01-04,IDX-SYS01,SYS01-04,SYS01,Explicar e testar um mecanismo de proteção em ambiente local ou simulado.,U-SYS01-03,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS02-01,IDX-SYS02,SYS02-01,SYS02,Explicar e testar um mecanismo de falhas em ambiente local ou simulado.,U-SYS01-04;U-NET01-04;U-PRG08-03,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS02-02,IDX-SYS02,SYS02-02,SYS02,Explicar e testar um mecanismo de consistência em ambiente local ou simulado.,U-SYS02-01,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS02-03,IDX-SYS02,SYS02-03,SYS02,Explicar e testar um mecanismo de replicação em ambiente local ou simulado.,U-SYS02-02,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS02-04,IDX-SYS02,SYS02-04,SYS02,Explicar e testar um mecanismo de coordenação em ambiente local ou simulado.,U-SYS02-03,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS03-01,IDX-SYS03,SYS03-01,SYS03,Explicar e testar um mecanismo de decomposição em ambiente local ou simulado.,U-PRG08-03;U-HWD04-03,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS03-02,IDX-SYS03,SYS03-02,SYS03,Explicar e testar um mecanismo de speedup em ambiente local ou simulado.,U-SYS03-01,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS03-03,IDX-SYS03,SYS03-03,SYS03,Explicar e testar um mecanismo de comunicação em ambiente local ou simulado.,U-SYS03-02,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS04-01,IDX-SYS04,SYS04-01,SYS04,Explicar e testar um mecanismo de isolamento em ambiente local ou simulado.,U-SYS01-04;U-NET01-04,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS04-02,IDX-SYS04,SYS04-02,SYS04,Explicar e testar um mecanismo de imagens em ambiente local ou simulado.,U-SYS04-01,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS04-03,IDX-SYS04,SYS04-03,SYS04,Explicar e testar um mecanismo de serviços em ambiente local ou simulado.,U-SYS04-02,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS04-04,IDX-SYS04,SYS04-04,SYS04,Explicar e testar um mecanismo de operação em ambiente local ou simulado.,U-SYS04-03,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS05-01,IDX-SYS05,SYS05-01,SYS05,Explicar e testar um mecanismo de serviços em ambiente local ou simulado.,U-SYS01-04;U-NET01-04,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS05-02,IDX-SYS05,SYS05-02,SYS05,Explicar e testar um mecanismo de métricas em ambiente local ou simulado.,U-SYS05-01,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS05-03,IDX-SYS05,SYS05-03,SYS05,Explicar e testar um mecanismo de logs em ambiente local ou simulado.,U-SYS05-02,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS05-04,IDX-SYS05,SYS05-04,SYS05,Explicar e testar um mecanismo de diagnóstico em ambiente local ou simulado.,U-SYS05-03,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS06-01,IDX-SYS06,SYS06-01,SYS06,Explicar e testar um mecanismo de persistência em ambiente local ou simulado.,U-SYS01-04;U-ALG02-03,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS06-02,IDX-SYS06,SYS06-02,SYS06,Explicar e testar um mecanismo de índices em ambiente local ou simulado.,U-SYS06-01,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS06-03,IDX-SYS06,SYS06-03,SYS06,Explicar e testar um mecanismo de recuperação em ambiente local ou simulado.,U-SYS06-02,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS07-01,IDX-SYS07,SYS07-01,SYS07,Explicar e testar um mecanismo de indicadores em ambiente local ou simulado.,U-SYS02-04;U-SWE04-04,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS07-02,IDX-SYS07,SYS07-02,SYS07,Explicar e testar um mecanismo de objetivos de serviço em ambiente local ou simulado.,U-SYS07-01,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-SYS07-03,IDX-SYS07,SYS07-03,SYS07,Explicar e testar um mecanismo de desempenho em ambiente local ou simulado.,U-SYS07-02,ROTEIRO,NÃO VERIFICADO,,SYS,
+U-NET01-01,IDX-NET01,NET01-01,NET01,Modelar ou testar camadas em ambiente local autorizado e explicar o fluxo de informação.,U-PRG02-04;U-HWD03-03,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET01-02,IDX-NET01,NET01-02,NET01,Modelar ou testar endereçamento em ambiente local autorizado e explicar o fluxo de informação.,U-NET01-01,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET01-03,IDX-NET01,NET01-03,NET01,Modelar ou testar roteamento em ambiente local autorizado e explicar o fluxo de informação.,U-NET01-02,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET01-04,IDX-NET01,NET01-04,NET01,Modelar ou testar transporte em ambiente local autorizado e explicar o fluxo de informação.,U-NET01-03,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET02-01,IDX-NET02,NET02-01,NET02,Modelar ou testar sockets em ambiente local autorizado e explicar o fluxo de informação.,U-NET01-04;U-PRG03-04,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET02-02,IDX-NET02,NET02-02,NET02,Modelar ou testar HTTP em ambiente local autorizado e explicar o fluxo de informação.,U-NET02-01,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET02-03,IDX-NET02,NET02-03,NET02,Modelar ou testar serviços em ambiente local autorizado e explicar o fluxo de informação.,U-NET02-02,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET02-04,IDX-NET02,NET02-04,NET02,Modelar ou testar APIs em ambiente local autorizado e explicar o fluxo de informação.,U-NET02-03,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET03-01,IDX-NET03,NET03-01,NET03,Modelar ou testar acesso ao meio em ambiente local autorizado e explicar o fluxo de informação.,U-NET01-04;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET03-02,IDX-NET03,NET03-02,NET03,Modelar ou testar mobilidade em ambiente local autorizado e explicar o fluxo de informação.,U-NET03-01,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET03-03,IDX-NET03,NET03-03,NET03,Modelar ou testar propagação em ambiente local autorizado e explicar o fluxo de informação.,U-NET03-02,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET04-01,IDX-NET04,NET04-01,NET04,Modelar ou testar transmissão em ambiente local autorizado e explicar o fluxo de informação.,U-NET01-04;U-SIN01-03,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET04-02,IDX-NET04,NET04-02,NET04,Modelar ou testar multiplexação em ambiente local autorizado e explicar o fluxo de informação.,U-NET04-01,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET04-03,IDX-NET04,NET04-03,NET04,Modelar ou testar enlaces em ambiente local autorizado e explicar o fluxo de informação.,U-NET04-02,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET05-01,IDX-NET05,NET05-01,NET05,Modelar ou testar planos de controle em ambiente local autorizado e explicar o fluxo de informação.,U-NET01-04;U-SYS04-04,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET05-02,IDX-NET05,NET05-02,NET05,Modelar ou testar virtualização em ambiente local autorizado e explicar o fluxo de informação.,U-NET05-01,ROTEIRO,NÃO VERIFICADO,,NET,
+U-NET05-03,IDX-NET05,NET05-03,NET05,Modelar ou testar automação em ambiente local autorizado e explicar o fluxo de informação.,U-NET05-02,ROTEIRO,NÃO VERIFICADO,,NET,
+U-SWE01-01,IDX-SWE01,SWE01-01,SWE01,"Produzir e verificar um artefato de elicitação, derivado de uma especificação explícita.",U-PRG03-04,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE01-02,IDX-SWE01,SWE01-02,SWE01,"Produzir e verificar um artefato de requisitos, derivado de uma especificação explícita.",U-SWE01-01,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE01-03,IDX-SWE01,SWE01-03,SWE01,"Produzir e verificar um artefato de modelos, derivado de uma especificação explícita.",U-SWE01-02,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE01-04,IDX-SWE01,SWE01-04,SWE01,"Produzir e verificar um artefato de critérios de aceite, derivado de uma especificação explícita.",U-SWE01-03,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE02-01,IDX-SWE02,SWE02-01,SWE02,"Produzir e verificar um artefato de modularidade, derivado de uma especificação explícita.",U-SWE01-04;U-PRG03-04,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE02-02,IDX-SWE02,SWE02-02,SWE02,"Produzir e verificar um artefato de padrões, derivado de uma especificação explícita.",U-SWE02-01,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE02-03,IDX-SWE02,SWE02-03,SWE02,"Produzir e verificar um artefato de atributos de qualidade, derivado de uma especificação explícita.",U-SWE02-02,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE03-01,IDX-SWE03,SWE03-01,SWE03,"Produzir e verificar um artefato de partições, derivado de uma especificação explícita.",U-PRG02-04;U-SWE01-04,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE03-02,IDX-SWE03,SWE03-02,SWE03,"Produzir e verificar um artefato de oráculos, derivado de uma especificação explícita.",U-SWE03-01,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE03-03,IDX-SWE03,SWE03-03,SWE03,"Produzir e verificar um artefato de integração, derivado de uma especificação explícita.",U-SWE03-02,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE03-04,IDX-SWE03,SWE03-04,SWE03,"Produzir e verificar um artefato de propriedades, derivado de uma especificação explícita.",U-SWE03-03,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE04-01,IDX-SWE04,SWE04-01,SWE04,"Produzir e verificar um artefato de dívida técnica, derivado de uma especificação explícita.",U-SWE02-03;U-SWE03-04,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE04-02,IDX-SWE04,SWE04-02,SWE04,"Produzir e verificar um artefato de refatoração, derivado de uma especificação explícita.",U-SWE04-01,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE04-03,IDX-SWE04,SWE04-03,SWE04,"Produzir e verificar um artefato de qualidade, derivado de uma especificação explícita.",U-SWE04-02,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE04-04,IDX-SWE04,SWE04-04,SWE04,"Produzir e verificar um artefato de manutenção, derivado de uma especificação explícita.",U-SWE04-03,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE05-01,IDX-SWE05,SWE05-01,SWE05,"Produzir e verificar um artefato de build, derivado de uma especificação explícita.",U-FND03-03;U-SWE03-04,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE05-02,IDX-SWE05,SWE05-02,SWE05,"Produzir e verificar um artefato de automação, derivado de uma especificação explícita.",U-SWE05-01,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE05-03,IDX-SWE05,SWE05-03,SWE05,"Produzir e verificar um artefato de versionamento, derivado de uma especificação explícita.",U-SWE05-02,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE05-04,IDX-SWE05,SWE05-04,SWE05,"Produzir e verificar um artefato de entrega, derivado de uma especificação explícita.",U-SWE05-03,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE06-01,IDX-SWE06,SWE06-01,SWE06,"Produzir e verificar um artefato de ameaças, derivado de uma especificação explícita.",U-NET01-04;U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE06-02,IDX-SWE06,SWE06-02,SWE06,"Produzir e verificar um artefato de controles, derivado de uma especificação explícita.",U-SWE06-01,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE06-03,IDX-SWE06,SWE06-03,SWE06,"Produzir e verificar um artefato de autenticação, derivado de uma especificação explícita.",U-SWE06-02,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE06-04,IDX-SWE06,SWE06-04,SWE06,"Produzir e verificar um artefato de criptografia, derivado de uma especificação explícita.",U-SWE06-03,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE07-01,IDX-SWE07,SWE07-01,SWE07,"Produzir e verificar um artefato de segredos, derivado de uma especificação explícita.",U-SWE06-04;U-SWE03-04,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE07-02,IDX-SWE07,SWE07-02,SWE07,"Produzir e verificar um artefato de dependências, derivado de uma especificação explícita.",U-SWE07-01,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE07-03,IDX-SWE07,SWE07-03,SWE07,"Produzir e verificar um artefato de dados pessoais, derivado de uma especificação explícita.",U-SWE07-02,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE07-04,IDX-SWE07,SWE07-04,SWE07,"Produzir e verificar um artefato de revisão, derivado de uma especificação explícita.",U-SWE07-03,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE08-01,IDX-SWE08,SWE08-01,SWE08,"Produzir e verificar um artefato de desenhos experimentais, derivado de uma especificação explícita.",U-FND06-03;U-SWE04-04;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE08-02,IDX-SWE08,SWE08-02,SWE08,"Produzir e verificar um artefato de validade, derivado de uma especificação explícita.",U-SWE08-01,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-SWE08-03,IDX-SWE08,SWE08-03,SWE08,"Produzir e verificar um artefato de replicação, derivado de uma especificação explícita.",U-SWE08-02,ROTEIRO,NÃO VERIFICADO,,SWE,
+U-DAT01-01,IDX-DAT01,DAT01-01,DAT01,"Representar e consultar dados envolvendo modelo relacional, justificando decisões e limitações.",U-ALG01-04,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT01-02,IDX-DAT01,DAT01-02,DAT01,"Representar e consultar dados envolvendo SQL, justificando decisões e limitações.",U-DAT01-01,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT01-03,IDX-DAT01,DAT01-03,DAT01,"Representar e consultar dados envolvendo normalização, justificando decisões e limitações.",U-DAT01-02,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT02-01,IDX-DAT02,DAT02-01,DAT02,"Representar e consultar dados envolvendo índices, justificando decisões e limitações.",U-DAT01-03;U-ALG02-03;U-SYS01-04,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT02-02,IDX-DAT02,DAT02-02,DAT02,"Representar e consultar dados envolvendo transações, justificando decisões e limitações.",U-DAT02-01,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT02-03,IDX-DAT02,DAT02-03,DAT02,"Representar e consultar dados envolvendo concorrência, justificando decisões e limitações.",U-DAT02-02,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT02-04,IDX-DAT02,DAT02-04,DAT02,"Representar e consultar dados envolvendo recuperação, justificando decisões e limitações.",U-DAT02-03,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT03-01,IDX-DAT03,DAT03-01,DAT03,"Representar e consultar dados envolvendo pipelines, justificando decisões e limitações.",U-DAT01-03;U-NET02-04,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT03-02,IDX-DAT03,DAT03-02,DAT03,"Representar e consultar dados envolvendo qualidade, justificando decisões e limitações.",U-DAT03-01,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT03-03,IDX-DAT03,DAT03-03,DAT03,"Representar e consultar dados envolvendo integração, justificando decisões e limitações.",U-DAT03-02,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT03-04,IDX-DAT03,DAT03-04,DAT03,"Representar e consultar dados envolvendo proveniência, justificando decisões e limitações.",U-DAT03-03,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT04-01,IDX-DAT04,DAT04-01,DAT04,"Representar e consultar dados envolvendo indexação, justificando decisões e limitações.",U-ALG03-04;U-DAT01-03;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT04-02,IDX-DAT04,DAT04-02,DAT04,"Representar e consultar dados envolvendo ranking, justificando decisões e limitações.",U-DAT04-01,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT04-03,IDX-DAT04,DAT04-03,DAT04,"Representar e consultar dados envolvendo relevância, justificando decisões e limitações.",U-DAT04-02,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT05-01,IDX-DAT05,DAT05-01,DAT05,"Representar e consultar dados envolvendo exploração, justificando decisões e limitações.",U-DAT01-03;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT05-02,IDX-DAT05,DAT05-02,DAT05,"Representar e consultar dados envolvendo gráficos, justificando decisões e limitações.",U-DAT05-01,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT05-03,IDX-DAT05,DAT05-03,DAT05,"Representar e consultar dados envolvendo comunicação, justificando decisões e limitações.",U-DAT05-02,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT05-04,IDX-DAT05,DAT05-04,DAT05,"Representar e consultar dados envolvendo incerteza, justificando decisões e limitações.",U-DAT05-03,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT06-01,IDX-DAT06,DAT06-01,DAT06,"Representar e consultar dados envolvendo padrões, justificando decisões e limitações.",U-DAT05-04;U-SYS02-04,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT06-02,IDX-DAT06,DAT06-02,DAT06,"Representar e consultar dados envolvendo processamento, justificando decisões e limitações.",U-DAT06-01,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-DAT06-03,IDX-DAT06,DAT06-03,DAT06,"Representar e consultar dados envolvendo escalabilidade, justificando decisões e limitações.",U-DAT06-02,ROTEIRO,NÃO VERIFICADO,,DAT,
+U-IA01-01,IDX-IA01,IA01-01,IA01,"Comparar uma abordagem de busca com uma linha de base, registrando dados e erros.",U-ALG03-04;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA01-02,IDX-IA01,IA01-02,IA01,"Comparar uma abordagem de representação com uma linha de base, registrando dados e erros.",U-IA01-01,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA01-03,IDX-IA01,IA01-03,IA01,"Comparar uma abordagem de raciocínio com uma linha de base, registrando dados e erros.",U-IA01-02,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA02-01,IDX-IA02,IA02-01,IA02,"Comparar uma abordagem de supervisão com uma linha de base, registrando dados e erros.",U-IA01-03;U-MAT06-03;U-DAT05-04,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA02-02,IDX-IA02,IA02-02,IA02,"Comparar uma abordagem de validação com uma linha de base, registrando dados e erros.",U-IA02-01,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA02-03,IDX-IA02,IA02-03,IA02,"Comparar uma abordagem de regularização com uma linha de base, registrando dados e erros.",U-IA02-02,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA02-04,IDX-IA02,IA02-04,IA02,"Comparar uma abordagem de métricas com uma linha de base, registrando dados e erros.",U-IA02-03,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA03-01,IDX-IA03,IA03-01,IA03,"Comparar uma abordagem de redes neurais com uma linha de base, registrando dados e erros.",U-IA02-04;U-MAT09-03,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA03-02,IDX-IA03,IA03-02,IA03,"Comparar uma abordagem de gradientes com uma linha de base, registrando dados e erros.",U-IA03-01,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA03-03,IDX-IA03,IA03-03,IA03,"Comparar uma abordagem de otimização com uma linha de base, registrando dados e erros.",U-IA03-02,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA04-01,IDX-IA04,IA04-01,IA04,"Comparar uma abordagem de representação com uma linha de base, registrando dados e erros.",U-IA02-04;U-SIN02-03,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA04-02,IDX-IA04,IA04-02,IA04,"Comparar uma abordagem de filtros com uma linha de base, registrando dados e erros.",U-IA04-01,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA04-03,IDX-IA04,IA04-03,IA04,"Comparar uma abordagem de reconhecimento com uma linha de base, registrando dados e erros.",U-IA04-02,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA05-01,IDX-IA05,IA05-01,IA05,"Comparar uma abordagem de representações com uma linha de base, registrando dados e erros.",U-IA02-04;U-DAT04-03,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA05-02,IDX-IA05,IA05-02,IA05,"Comparar uma abordagem de modelos com uma linha de base, registrando dados e erros.",U-IA05-01,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA05-03,IDX-IA05,IA05-03,IA05,"Comparar uma abordagem de avaliação com uma linha de base, registrando dados e erros.",U-IA05-02,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA06-01,IDX-IA06,IA06-01,IA06,"Comparar uma abordagem de decisão sequencial com uma linha de base, registrando dados e erros.",U-IA02-04;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA06-02,IDX-IA06,IA06-02,IA06,"Comparar uma abordagem de exploração com uma linha de base, registrando dados e erros.",U-IA06-01,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA06-03,IDX-IA06,IA06-03,IA06,"Comparar uma abordagem de recompensa com uma linha de base, registrando dados e erros.",U-IA06-02,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA07-01,IDX-IA07,IA07-01,IA07,"Comparar uma abordagem de viés com uma linha de base, registrando dados e erros.",U-IA03-03;U-SWE07-04,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA07-02,IDX-IA07,IA07-02,IA07,"Comparar uma abordagem de robustez com uma linha de base, registrando dados e erros.",U-IA07-01,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA07-03,IDX-IA07,IA07-03,IA07,"Comparar uma abordagem de rastreabilidade com uma linha de base, registrando dados e erros.",U-IA07-02,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-IA07-04,IDX-IA07,IA07-04,IA07,"Comparar uma abordagem de avaliação com uma linha de base, registrando dados e erros.",U-IA07-03,ROTEIRO,NÃO VERIFICADO,,IA0,
+U-HCI01-01,IDX-HCI01,HCI01-01,HCI01,Construir e avaliar uma representação de tarefas com critérios explícitos de uso.,U-SWE01-04,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI01-02,IDX-HCI01,HCI01-02,HCI01,Construir e avaliar uma representação de interação com critérios explícitos de uso.,U-HCI01-01,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI01-03,IDX-HCI01,HCI01-03,HCI01,Construir e avaliar uma representação de usabilidade com critérios explícitos de uso.,U-HCI01-02,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI01-04,IDX-HCI01,HCI01-04,HCI01,Construir e avaliar uma representação de avaliação com critérios explícitos de uso.,U-HCI01-03,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI02-01,IDX-HCI02,HCI02-01,HCI02,Construir e avaliar uma representação de barreiras com critérios explícitos de uso.,U-HCI01-04,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI02-02,IDX-HCI02,HCI02-02,HCI02,Construir e avaliar uma representação de tecnologias assistivas com critérios explícitos de uso.,U-HCI02-01,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI02-03,IDX-HCI02,HCI02-03,HCI02,Construir e avaliar uma representação de critérios com critérios explícitos de uso.,U-HCI02-02,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI03-01,IDX-HCI03,HCI03-01,HCI03,Construir e avaliar uma representação de transformações com critérios explícitos de uso.,U-MAT06-03;U-ALG03-04,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI03-02,IDX-HCI03,HCI03-02,HCI03,Construir e avaliar uma representação de rasterização com critérios explícitos de uso.,U-HCI03-01,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI03-03,IDX-HCI03,HCI03-03,HCI03,Construir e avaliar uma representação de geometria com critérios explícitos de uso.,U-HCI03-02,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI04-01,IDX-HCI04,HCI04-01,HCI04,Construir e avaliar uma representação de interfaces com critérios explícitos de uso.,U-NET02-04;U-HCI01-04;U-SWE03-04,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI04-02,IDX-HCI04,HCI04-02,HCI04,Construir e avaliar uma representação de estado com critérios explícitos de uso.,U-HCI04-01,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI04-03,IDX-HCI04,HCI04-03,HCI04,Construir e avaliar uma representação de APIs com critérios explícitos de uso.,U-HCI04-02,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI04-04,IDX-HCI04,HCI04-04,HCI04,Construir e avaliar uma representação de plataformas com critérios explícitos de uso.,U-HCI04-03,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI05-01,IDX-HCI05,HCI05-01,HCI05,Construir e avaliar uma representação de simulação com critérios explícitos de uso.,U-HCI03-03;U-PRG03-04,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI05-02,IDX-HCI05,HCI05-02,HCI05,Construir e avaliar uma representação de interação com critérios explícitos de uso.,U-HCI05-01,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI05-03,IDX-HCI05,HCI05-03,HCI05,Construir e avaliar uma representação de renderização com critérios explícitos de uso.,U-HCI05-02,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI06-01,IDX-HCI06,HCI06-01,HCI06,Construir e avaliar uma representação de transporte de luz com critérios explícitos de uso.,U-HCI03-03;U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI06-02,IDX-HCI06,HCI06-02,HCI06,Construir e avaliar uma representação de amostragem com critérios explícitos de uso.,U-HCI06-01,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-HCI06-03,IDX-HCI06,HCI06-03,HCI06,Construir e avaliar uma representação de renderização com critérios explícitos de uso.,U-HCI06-02,ROTEIRO,NÃO VERIFICADO,,HCI,
+U-PRO01-01,IDX-PRO01,PRO01-01,PRO01,"Analisar uma decisão envolvendo impactos, justificando alternativas e consequências.",U-FND01-03,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO01-02,IDX-PRO01,PRO01-02,PRO01,"Analisar uma decisão envolvendo responsabilidade, justificando alternativas e consequências.",U-PRO01-01,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO01-03,IDX-PRO01,PRO01-03,PRO01,"Analisar uma decisão envolvendo decisões, justificando alternativas e consequências.",U-PRO01-02,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO02-01,IDX-PRO02,PRO02-01,PRO02,"Analisar uma decisão envolvendo licenças, justificando alternativas e consequências.",U-PRO01-03,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO02-02,IDX-PRO02,PRO02-02,PRO02,"Analisar uma decisão envolvendo direitos, justificando alternativas e consequências.",U-PRO02-01,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO02-03,IDX-PRO02,PRO02-03,PRO02,"Analisar uma decisão envolvendo governança de dados, justificando alternativas e consequências.",U-PRO02-02,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO03-01,IDX-PRO03,PRO03-01,PRO03,"Analisar uma decisão envolvendo custos, justificando alternativas e consequências.",U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO03-02,IDX-PRO03,PRO03-02,PRO03,"Analisar uma decisão envolvendo viabilidade, justificando alternativas e consequências.",U-PRO03-01,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO03-03,IDX-PRO03,PRO03-03,PRO03,"Analisar uma decisão envolvendo projetos, justificando alternativas e consequências.",U-PRO03-02,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO03-04,IDX-PRO03,PRO03-04,PRO03,"Analisar uma decisão envolvendo inovação, justificando alternativas e consequências.",U-PRO03-03,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO04-01,IDX-PRO04,PRO04-01,PRO04,"Analisar uma decisão envolvendo energia, justificando alternativas e consequências.",U-PRO01-03,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO04-02,IDX-PRO04,PRO04-02,PRO04,"Analisar uma decisão envolvendo ciclo de vida, justificando alternativas e consequências.",U-PRO04-01,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO04-03,IDX-PRO04,PRO04-03,PRO04,"Analisar uma decisão envolvendo descarte, justificando alternativas e consequências.",U-PRO04-02,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO05-01,IDX-PRO05,PRO05-01,PRO05,"Analisar uma decisão envolvendo integração, justificando alternativas e consequências.",U-SWE05-04;U-DAT01-03;U-HCI01-04,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO05-02,IDX-PRO05,PRO05-02,PRO05,"Analisar uma decisão envolvendo validação, justificando alternativas e consequências.",U-PRO05-01,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO05-03,IDX-PRO05,PRO05-03,PRO05,"Analisar uma decisão envolvendo documentação, justificando alternativas e consequências.",U-PRO05-02,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO06-01,IDX-PRO06,PRO06-01,PRO06,"Analisar uma decisão envolvendo codesign, justificando alternativas e consequências.",U-SIN06-03;U-ELE05-04;U-SWE03-04,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO06-02,IDX-PRO06,PRO06-02,PRO06,"Analisar uma decisão envolvendo integração, justificando alternativas e consequências.",U-PRO06-01,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO06-03,IDX-PRO06,PRO06-03,PRO06,"Analisar uma decisão envolvendo validação, justificando alternativas e consequências.",U-PRO06-02,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO07-01,IDX-PRO07,PRO07-01,PRO07,"Analisar uma decisão envolvendo investigação, justificando alternativas e consequências.",U-FND06-03;U-SWE04-04,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO07-02,IDX-PRO07,PRO07-02,PRO07,"Analisar uma decisão envolvendo prática supervisionada, justificando alternativas e consequências.",U-PRO07-01,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-PRO07-03,IDX-PRO07,PRO07-03,PRO07,"Analisar uma decisão envolvendo contribuição, justificando alternativas e consequências.",U-PRO07-02,ROTEIRO,NÃO VERIFICADO,,PRO,
+U-C01-01,IDX-C01,C01-01,PRG01,"Construir e rastrear um programa que utiliza What is Computation?, explicando seu comportamento.",U-PRG01-04,ROTEIRO,NÃO VERIFICADO,,PRG,C01
+U-C01-02,IDX-C01,C01-02,PRG01,"Construir e rastrear um programa que utiliza Branching and Iteration, explicando seu comportamento.",U-PRG01-04,ROTEIRO,NÃO VERIFICADO,,PRG,C01
+U-C01-03,IDX-C01,C01-03,PRG02,"Construir e rastrear um programa que utiliza String Manipulation, Guess and Check, Approximations, Bisection, explicando seu comportamento.",U-PRG02-04,ROTEIRO,NÃO VERIFICADO,,PRG,C01
+U-C01-04,IDX-C01,C01-04,PRG02,"Construir e rastrear um programa que utiliza Decomposition, Abstraction, and Functions, explicando seu comportamento.",U-PRG02-04,ROTEIRO,NÃO VERIFICADO,,PRG,C01
+U-C01-05,IDX-C01,C01-05,ALG01,"Implementar ou simular uma solução envolvendo Tuples, Lists, Aliasing, Mutability, and Cloning e justificar correção e custo.",U-ALG01-04,ROTEIRO,NÃO VERIFICADO,,ALG,C01
+U-C01-06,IDX-C01,C01-06,PRG02,"Construir e rastrear um programa que utiliza Recursion and Dictionaries, explicando seu comportamento.",U-PRG02-04,ROTEIRO,NÃO VERIFICADO,,PRG,C01
+U-C01-07,IDX-C01,C01-07,SWE03,"Produzir e verificar um artefato de Testing, Debugging, Exceptions, and Assertions, derivado de uma especificação explícita.",U-SWE03-04,ROTEIRO,NÃO VERIFICADO,,SWE,C01
+U-C01-08,IDX-C01,C01-08,PRG03,"Construir e rastrear um programa que utiliza Object Oriented Programming, explicando seu comportamento.",U-PRG03-04,ROTEIRO,NÃO VERIFICADO,,PRG,C01
+U-C01-09,IDX-C01,C01-09,PRG03,"Construir e rastrear um programa que utiliza Python Classes and Inheritance, explicando seu comportamento.",U-PRG03-04,ROTEIRO,NÃO VERIFICADO,,PRG,C01
+U-C01-10,IDX-C01,C01-10,ALG03,"Implementar ou simular uma solução envolvendo Understanding Program Efficiency, Part 1 e justificar correção e custo.",U-ALG03-04,ROTEIRO,NÃO VERIFICADO,,ALG,C01
+U-C01-11,IDX-C01,C01-11,ALG03,"Implementar ou simular uma solução envolvendo Understanding Program Efficiency, Part 2 e justificar correção e custo.",U-ALG03-04,ROTEIRO,NÃO VERIFICADO,,ALG,C01
+U-C01-12,IDX-C01,C01-12,ALG01,Implementar ou simular uma solução envolvendo Searching and Sorting e justificar correção e custo.,U-ALG01-04,ROTEIRO,NÃO VERIFICADO,,ALG,C01
+U-C02-01,IDX-C02,C02-01,PRG01,"Construir e rastrear um programa que utiliza Scratch, explicando seu comportamento.",U-PRG01-04,ROTEIRO,NÃO VERIFICADO,,PRG,C02
+U-C02-02,IDX-C02,C02-02,PRG04,"Construir e rastrear um programa que utiliza C, explicando seu comportamento.",U-PRG04-04,ROTEIRO,NÃO VERIFICADO,,PRG,C02
+U-C02-03,IDX-C02,C02-03,ALG01,Implementar ou simular uma solução envolvendo Arrays e justificar correção e custo.,U-ALG01-04,ROTEIRO,NÃO VERIFICADO,,ALG,C02
+U-C02-04,IDX-C02,C02-04,ALG03,Implementar ou simular uma solução envolvendo Algorithms e justificar correção e custo.,U-ALG03-04,ROTEIRO,NÃO VERIFICADO,,ALG,C02
+U-C02-05,IDX-C02,C02-05,PRG04,"Construir e rastrear um programa que utiliza Memory, explicando seu comportamento.",U-PRG04-04,ROTEIRO,NÃO VERIFICADO,,PRG,C02
+U-C02-06,IDX-C02,C02-06,ALG01,Implementar ou simular uma solução envolvendo Data Structures e justificar correção e custo.,U-ALG01-04,ROTEIRO,NÃO VERIFICADO,,ALG,C02
+U-C02-07,IDX-C02,C02-07,PRG01,"Construir e rastrear um programa que utiliza Python, explicando seu comportamento.",U-PRG01-04,ROTEIRO,NÃO VERIFICADO,,PRG,C02
+U-C02-08,IDX-C02,C02-08,DAT01,"Representar e consultar dados envolvendo SQL, justificando decisões e limitações.",U-DAT01-03,ROTEIRO,NÃO VERIFICADO,,DAT,C02
+U-C02-09,IDX-C02,C02-09,IA01,"Comparar uma abordagem de Artificial Intelligence com uma linha de base, registrando dados e erros.",U-IA01-03,ROTEIRO,NÃO VERIFICADO,,IA0,C02
+U-C02-10,IDX-C02,C02-10,HCI04,"Construir e avaliar uma representação de HTML, CSS, JavaScript com critérios explícitos de uso.",U-HCI04-04,ROTEIRO,NÃO VERIFICADO,,HCI,C02
+U-C02-11,IDX-C02,C02-11,NET02,Modelar ou testar Flask em ambiente local autorizado e explicar o fluxo de informação.,U-NET02-04,ROTEIRO,NÃO VERIFICADO,,NET,C02
+U-C02-12,IDX-C02,C02-12,PRO05,"Analisar uma decisão envolvendo The End, justificando alternativas e consequências.",U-PRO05-03,ROTEIRO,NÃO VERIFICADO,,PRO,C02
+U-C03-01,IDX-C03,C03-01,FND03,"Aplicar Course Overview + Introduction to the Shell em um procedimento documentado, justificando escolhas e fontes.",U-FND03-03,ROTEIRO,NÃO VERIFICADO,,FND,C03
+U-C03-02,IDX-C03,C03-02,FND03,"Aplicar Command-line Environment em um procedimento documentado, justificando escolhas e fontes.",U-FND03-03,ROTEIRO,NÃO VERIFICADO,,FND,C03
+U-C03-03,IDX-C03,C03-03,FND03,"Aplicar Development Environment and Tools em um procedimento documentado, justificando escolhas e fontes.",U-FND03-03,ROTEIRO,NÃO VERIFICADO,,FND,C03
+U-C03-04,IDX-C03,C03-04,SWE03,"Produzir e verificar um artefato de Debugging and Profiling, derivado de uma especificação explícita.",U-SWE03-04,ROTEIRO,NÃO VERIFICADO,,SWE,C03
+U-C03-05,IDX-C03,C03-05,FND03,"Aplicar Version Control and Git em um procedimento documentado, justificando escolhas e fontes.",U-FND03-03,ROTEIRO,NÃO VERIFICADO,,FND,C03
+U-C03-06,IDX-C03,C03-06,SWE05,"Produzir e verificar um artefato de Packaging and Shipping Code, derivado de uma especificação explícita.",U-SWE05-04,ROTEIRO,NÃO VERIFICADO,,SWE,C03
+U-C03-07,IDX-C03,C03-07,IA07,"Comparar uma abordagem de Agentic Coding com uma linha de base, registrando dados e erros.",U-IA07-04,ROTEIRO,NÃO VERIFICADO,,IA0,C03
+U-C03-08,IDX-C03,C03-08,PRO01,"Analisar uma decisão envolvendo Beyond the Code, justificando alternativas e consequências.",U-PRO01-03,ROTEIRO,NÃO VERIFICADO,,PRO,C03
+U-C03-09,IDX-C03,C03-09,SWE04,"Produzir e verificar um artefato de Code Quality, derivado de uma especificação explícita.",U-SWE04-04,ROTEIRO,NÃO VERIFICADO,,SWE,C03
+U-C04-01,IDX-C04,C04-01,MAT02,"Resolver um problema de Proofs, explicitando hipóteses e verificando os passos.",U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,MAT,C04
+U-C04-02,IDX-C04,C04-02,MAT02,"Resolver um problema de Structures, explicitando hipóteses e verificando os passos.",U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,MAT,C04
+U-C04-03,IDX-C04,C04-03,MAT02,"Resolver um problema de Counting, explicitando hipóteses e verificando os passos.",U-MAT02-04,ROTEIRO,NÃO VERIFICADO,,MAT,C04
+U-C04-04,IDX-C04,C04-04,MAT07,"Resolver um problema de Probability, explicitando hipóteses e verificando os passos.",U-MAT07-03,ROTEIRO,NÃO VERIFICADO,,MAT,C04
+U-C05-01,IDX-C05,C05-01,HWD01,"Representar e simular um mecanismo de Boolean Logic, confrontando saídas com a especificação.",U-HWD01-03,ROTEIRO,NÃO VERIFICADO,,HWD,C05
+U-C05-02,IDX-C05,C05-02,HWD01,"Representar e simular um mecanismo de Boolean Arithmetic, confrontando saídas com a especificação.",U-HWD01-03,ROTEIRO,NÃO VERIFICADO,,HWD,C05
+U-C05-03,IDX-C05,C05-03,HWD02,"Representar e simular um mecanismo de Memory, confrontando saídas com a especificação.",U-HWD02-03,ROTEIRO,NÃO VERIFICADO,,HWD,C05
+U-C05-04,IDX-C05,C05-04,HWD03,"Representar e simular um mecanismo de Machine Language, confrontando saídas com a especificação.",U-HWD03-03,ROTEIRO,NÃO VERIFICADO,,HWD,C05
+U-C05-05,IDX-C05,C05-05,HWD03,"Representar e simular um mecanismo de Computer Architecture, confrontando saídas com a especificação.",U-HWD03-03,ROTEIRO,NÃO VERIFICADO,,HWD,C05
+U-C05-06,IDX-C05,C05-06,TEO03,Construir um modelo formal envolvendo Assembler e justificar uma propriedade delimitada.,U-TEO03-03,ROTEIRO,NÃO VERIFICADO,,TEO,C05
+U-C05-07,IDX-C05,C05-07,TEO03,Construir um modelo formal envolvendo VM I: Stack Arithmetic e justificar uma propriedade delimitada.,U-TEO03-03,ROTEIRO,NÃO VERIFICADO,,TEO,C05
+U-C05-08,IDX-C05,C05-08,TEO03,Construir um modelo formal envolvendo VM II: Program Control e justificar uma propriedade delimitada.,U-TEO03-03,ROTEIRO,NÃO VERIFICADO,,TEO,C05
+U-C05-09,IDX-C05,C05-09,PRG07,"Construir e rastrear um programa que utiliza High-Level Language, explicando seu comportamento.",U-PRG07-04,ROTEIRO,NÃO VERIFICADO,,PRG,C05
+U-C05-10,IDX-C05,C05-10,TEO03,Construir um modelo formal envolvendo Compiler I: Parsing e justificar uma propriedade delimitada.,U-TEO03-03,ROTEIRO,NÃO VERIFICADO,,TEO,C05
+U-C05-11,IDX-C05,C05-11,TEO03,Construir um modelo formal envolvendo Compiler II: Code Generation e justificar uma propriedade delimitada.,U-TEO03-03,ROTEIRO,NÃO VERIFICADO,,TEO,C05
+U-C05-12,IDX-C05,C05-12,SYS01,Explicar e testar um mecanismo de Operating System em ambiente local ou simulado.,U-SYS01-04,ROTEIRO,NÃO VERIFICADO,,SYS,C05
+U-C06-01,IDX-C06,C06-01,DAT02,"Representar e consultar dados envolvendo Introduction, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-02,IDX-C06,C06-02,DAT02,"Representar e consultar dados envolvendo SQL I, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-03,IDX-C06,C06-03,DAT02,"Representar e consultar dados envolvendo SQL II, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-04,IDX-C06,C06-04,DAT02,"Representar e consultar dados envolvendo Disks, Buffers, Files, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-05,IDX-C06,C06-05,DAT02,"Representar e consultar dados envolvendo Cost Models and Index, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-06,IDX-C06,C06-06,DAT02,"Representar e consultar dados envolvendo B+ Trees, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-07,IDX-C06,C06-07,DAT02,"Representar e consultar dados envolvendo Index Files and their Costs, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-08,IDX-C06,C06-08,DAT02,"Representar e consultar dados envolvendo Spatial and Vector Indices, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-09,IDX-C06,C06-09,DAT02,"Representar e consultar dados envolvendo Buffer Management, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-10,IDX-C06,C06-10,DAT02,"Representar e consultar dados envolvendo Sorting and Hashing, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-11,IDX-C06,C06-11,DAT02,"Representar e consultar dados envolvendo Joins, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-12,IDX-C06,C06-12,DAT02,"Representar e consultar dados envolvendo Iterators and Relational Algebra, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-13,IDX-C06,C06-13,DAT02,"Representar e consultar dados envolvendo Query Optimization: Plan Space, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-14,IDX-C06,C06-14,DAT02,"Representar e consultar dados envolvendo Query Optimization: Costs and Search, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-15,IDX-C06,C06-15,DAT02,"Representar e consultar dados envolvendo Transactions & Concurrency I, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-16,IDX-C06,C06-16,DAT02,"Representar e consultar dados envolvendo Transactions & Concurrency II, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-17,IDX-C06,C06-17,DAT02,"Representar e consultar dados envolvendo Recovery I, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-18,IDX-C06,C06-18,DAT02,"Representar e consultar dados envolvendo Recovery II, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-19,IDX-C06,C06-19,DAT02,"Representar e consultar dados envolvendo Parallel QueryProcessing, justificando decisões e limitações.",U-DAT02-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-20,IDX-C06,C06-20,SYS02,Explicar e testar um mecanismo de Distributed Transactions: 2PC em ambiente local ou simulado.,U-SYS02-04,ROTEIRO,NÃO VERIFICADO,,SYS,C06
+U-C06-21,IDX-C06,C06-21,SYS02,Explicar e testar um mecanismo de Distributed Transactions: Paxos em ambiente local ou simulado.,U-SYS02-04,ROTEIRO,NÃO VERIFICADO,,SYS,C06
+U-C06-22,IDX-C06,C06-22,SYS02,Explicar e testar um mecanismo de Paxos continued em ambiente local ou simulado.,U-SYS02-04,ROTEIRO,NÃO VERIFICADO,,SYS,C06
+U-C06-23,IDX-C06,C06-23,DAT03,"Representar e consultar dados envolvendo NoSQL I: Data Models, justificando decisões e limitações.",U-DAT03-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-24,IDX-C06,C06-24,DAT03,"Representar e consultar dados envolvendo NoSQL II: MongoDB, justificando decisões e limitações.",U-DAT03-04,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-25,IDX-C06,C06-25,DAT06,"Representar e consultar dados envolvendo NoSQL III: MapReduce and Spark, justificando decisões e limitações.",U-DAT06-03,ROTEIRO,NÃO VERIFICADO,,DAT,C06
+U-C06-26,IDX-C06,C06-26,FND06,"Aplicar Database Research (optional) em um procedimento documentado, justificando escolhas e fontes.",U-FND06-03,ROTEIRO,NÃO VERIFICADO,,FND,C06
+U-C07-01,IDX-C07,C07-01,SIN04,"Modelar e analisar Introduction em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-02,IDX-C07,C07-02,SIN04,"Modelar e analisar Configuration Space em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-03,IDX-C07,C07-03,SIN04,"Modelar e analisar Rigid-Body Motions em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-04,IDX-C07,C07-04,SIN04,"Modelar e analisar Forward Kinematics em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-05,IDX-C07,C07-05,SIN04,"Modelar e analisar Velocity Kinematics and Statics em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-06,IDX-C07,C07-06,SIN04,"Modelar e analisar Inverse Kinematics em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-07,IDX-C07,C07-07,SIN04,"Modelar e analisar Kinematics of Closed Chains em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-08,IDX-C07,C07-08,SIN04,"Modelar e analisar Dynamics of Open Chains em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-09,IDX-C07,C07-09,SIN04,"Modelar e analisar Trajectory Generation em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-10,IDX-C07,C07-10,SIN04,"Modelar e analisar Motion Planning em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-11,IDX-C07,C07-11,SIN04,"Modelar e analisar Robot Control em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-12,IDX-C07,C07-12,SIN04,"Modelar e analisar Grasping and Manipulation em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07
+U-C07-13,IDX-C07,C07-13,SIN04,"Modelar e analisar Wheeled Mobile Robots em um sistema delimitado, comparando previsão e resposta.",U-SIN04-03,ROTEIRO,NÃO VERIFICADO,,SIN,C07

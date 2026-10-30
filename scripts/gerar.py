@@ -2,6 +2,7 @@
 from pathlib import Path
 import json,csv,io
 from relacoes import render_relations
+from aprendizagem import render_learning
 ROOT=Path(__file__).resolve().parents[1]
 def read(n): return json.loads((ROOT/"data"/(n+".json")).read_text(encoding="utf-8"))
 def write(n,s):
@@ -19,7 +20,7 @@ def generate():
     subs,axes,refs,courses,sources,filters,samples=[read(x) for x in ("disciplinas","eixos","referencias","cursos","fontes","filtro-ebooks","amostras-matrizes")]
     sub={x["id"]:x for x in subs}; ax={x["id"]:x for x in axes}; ref={x["id"]:x for x in refs}; course={x["id"]:x for x in courses}
     def sl(c,p="../disciplinas/"):return f'[{c["id"]} — {c["nome"]}]({p}{c["id"].lower()}.md)'
-    write("curriculo/catalogo.md","# Catálogo de disciplinas\n\nProposta editorial v0.2.0. Não é uma matriz oficial nem uma enumeração universal de todas as disciplinas existentes. Pré-requisitos e habilidades são propostas; revisão especializada pendente.\n\n"+table(["ID","Disciplina","Eixo","Percursos","Etapa lógica"],[(c["id"],sl(c),c["eixo"],", ".join(c["percursos"]) or "eletiva",c["etapa"]) for c in subs]))
+    write("curriculo/catalogo.md","# Catálogo de disciplinas\n\nProposta editorial v0.3.0. Não é uma matriz oficial nem uma enumeração universal de todas as disciplinas existentes. Pré-requisitos e habilidades são propostas; revisão especializada pendente.\n\n"+table(["ID","Disciplina","Eixo","Percursos","Etapa lógica"],[(c["id"],sl(c),c["eixo"],", ".join(c["percursos"]) or "eletiva",c["etapa"]) for c in subs]))
     for c in subs:
         s=f'# {c["id"]} — {c["nome"]}\n\nEixo: **{ax[c["eixo"]]["nome"]}**. Percursos: {", ".join(c["percursos"]) or "eletiva"}. Etapa lógica: {c["etapa"]}.\n\n'
         s+="Estado: **PROPOSTO**. Avaliação científica: **NÃO VERIFICADO**. Ficha elaborada com assistência de IA; revisão humana pendente. O vínculo com fontes é temático, sem certificação de equivalência.\n\n## Conhecimentos\n\n"+"\n".join("- "+v for v in c["conhecimentos"])
@@ -34,6 +35,7 @@ def generate():
         s+=("Áreas CS2023 propostas: "+", ".join(c["cs2023_proposto"])+". Aproximação editorial por área; unidades de conhecimento e resultados de aprendizagem ainda não auditados." if c["cs2023_proposto"] else "Conteúdo de engenharia e ciências básicas. Relacionamento detalhado com CE2016 e SBC pendente.")
         s+="\n\n## Lacunas\n\n"+"\n".join("- "+x for x in c["lacunas"])+"\n\n[Voltar ao catálogo](../curriculo/catalogo.md)\n"
         s+="\n## Fontes, limitações e sugestões de pesquisa\n\nVer [relações detalhadas desta disciplina](../bibliografia/relacoes/"+c["id"].lower()+".md), com funções propostas, justificativa, acesso, licença, limites de leitura e autoria das sugestões. Vínculo temático não comprova suporte a uma alegação.\n"
+        s+="\n## Treinar os itens do índice\n\nAbrir as [unidades de habilidade](../unidades/por-disciplina/"+c["id"].lower()+".md): cada tópico autoral está numerado e vinculado a um roteiro de prática, evidência, feedback e transferência. Os itens externos identificam o índice e seu recorte de cobertura.\n"
         write("disciplinas/"+c["id"].lower()+".md",s)
     write("curriculo/eixos.md","# Eixos temáticos\n\nOrganização autoral proposta; os 16 eixos locais são diferentes das 17 áreas do CS2023.\n\n"+table(["ID","Eixo","Relação proposta CS2023","Metodologia"],[(a["id"],a["nome"],", ".join(a["cs2023"]) or "engenharia/ciências básicas",a["metodologia"]) for a in axes]))
     for track,name in [("CC","Ciência da Computação"),("EC","Engenharia de Computação")]:
@@ -73,6 +75,7 @@ def generate():
     write("bibliografia/referencias.bib","\n\n".join(bib))
     relations,functions=read("relacoes-fontes"),read("funcoes-fontes")
     render_relations(subs,refs,functions,relations,table,write,export)
-    print(json.dumps({"disciplinas":len(subs),"eixos":len(axes),"referencias":len(refs),"cursos":len(courses),"areas_cs2023":len(areas),"amostras":len(samples),"relacoes_fontes":len(relations),"funcoes":len(functions)},ensure_ascii=False))
+    learning=render_learning(ROOT,subs,courses,read("indices-disciplinas")+read("indices-cursos"),read("habilidades"),read("perfis-habilidades"),read("missoes"),read("base-pedagogica"),table,write,export)
+    print(json.dumps({"disciplinas":len(subs),"eixos":len(axes),"referencias":len(refs),"cursos":len(courses),"areas_cs2023":len(areas),"amostras":len(samples),"relacoes_fontes":len(relations),"funcoes":len(functions),**learning},ensure_ascii=False))
 if __name__=="__main__":generate()
 

@@ -2,6 +2,8 @@
 
 Estado: PROPOSTO. As atividades das fichas são sugestões editoriais, não prescrições validadas para qualquer público.
 
+A versão 0.3.0 organiza esse ciclo em [unidades por item de índice](../aprendizagem/habilidades.md), com [progresso por evidências](../aprendizagem/progresso.md), [missões interdisciplinares](../missoes/README.md) e [fundamentação pedagógica](../pedagogia/fundamentos.md). O ciclo permanece proposta de desenho; sua eficácia com aprendizes não foi medida neste projeto.
+
 1. Diagnosticar pré-requisitos com uma tarefa curta e explicação oral/escrita.
 2. Ler a fonte indicada e registrar dúvidas; distinguir leitura de resumo e texto integral.
 3. Trabalhar um exemplo e explicar cada decisão em linguagem simples.

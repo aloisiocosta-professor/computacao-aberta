@@ -12,5 +12,8 @@
 | D08 | DECIDIDO | Publicar repositório público no perfil conectado | Usuário criou o repositório e autorizou a sincronização; arquivos publicados em main e develop |
 | D09 | DECIDIDO | Implementar relações por função acadêmica, com limitações e sugestões de pesquisa | Solicitação explícita do usuário em 30/10/2026; issue #1 |
 | D10 | PROPOSTO | Perguntas exemplificativas sobre testes, compreensão de programação e sensibilidade bayesiana | Assistente; não representam adoção de projeto pelo usuário nem lacunas comprovadas |
+| D11 | DECIDIDO | Priorizar aquisição de habilidades práticas por item de índice, para pessoas e tarefas de agentes | Solicitação do usuário em 30/10/2026; issue #3 |
+| D12 | PROPOSTO | Ciclo com diagnóstico, representação visual acessível, apoio decrescente, evidência e transferência | Desenho editorial fundamentado em fontes delimitadas; eficácia local pendente |
+| D13 | PROPOSTO | Operacionalizar sabedoria prática como julgamento, consequências e reconhecimento de limites | Definição de trabalho do projeto; não medida validada de sabedoria |
 
 As escolhas do assistente não foram convertidas em aprovação científica do usuário. Não há alegação de endosso de qualquer universidade ou entidade.
