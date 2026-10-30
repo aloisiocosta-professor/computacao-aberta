@@ -1,0 +1,22 @@
+name: Validar catálogo
+on:
+  push:
+    branches: [main, develop, 'feature/**']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Gerar documentação
+        run: python3 scripts/gerar.py
+      - name: Validar estrutura
+        run: python3 scripts/validar.py
+      - name: Verificar arquivos gerados
+        run: git diff --exit-code

@@ -1,0 +1,19 @@
+# Matrizes e fontes institucionais
+
+Consulta: 30/10/2026. Amostra exploratória; a versão identificada permanece ligada à fonte. Não representa todas as instituições.
+
+| ID | Documento | Tipo | Versão | Estado | Limite |
+|---|---|---|---|---|---|
+| S01 | [Universidade Livre — Ciência da Computação](https://github.com/Universidade-Livre/ciencia-da-computacao) | curadoria | commit b995c118fdb3929412004ee041a25c77cb0aa997 (20/05/2026) | CONFIRMADO | grade e bibliografias mapeadas na etapa anterior; fonte principal de orientação e descoberta |
+| S02 | [CS2023 — ACM/IEEE-CS/AAAI](https://csed.acm.org/knowledge-areas/) | referencial curricular | CS2023; endossos em 2024 | CONFIRMADO | lista de 17 áreas consultada; correspondência proposta por área, sem auditoria de unidades/tópicos |
+| S03 | [CE2016 — ACM/IEEE-CS](https://www.acm.org/binaries/content/assets/education/ce2016-final-report.pdf) | referencial curricular | 2016 | PARCIAL | referência identificada; acesso direto retornou 403; mapeamento integral pendente |
+| S04 | [Referenciais de Formação para os Cursos de Graduação em Computação — SBC](https://repositorio.pucrs.br/dspace/handle/10923/22180) | referencial curricular | 2017; ISBN 9788576694243 | PARCIAL | metadados e disponibilidade do PDF confirmados; leitura integral e mapeamento de competências pendentes |
+| S05 | [USP IME — Bacharelado em Ciência da Computação](https://docs.portalservicos.usp.br/jupiterweb/listarGradeCurricular?codcg=45&codcur=45052&codhab=0&tipo=N) | matriz institucional | início 15/07/2026 | PARCIAL | grade e trecho de obrigatórias consultados; não representa todas as habilitações da USP |
+| S06 | [UFC — Ciência da Computação](https://cc.ufc.br/pt/sobre-o-curso/matriz-curricular/) | matriz institucional | 2024.1 | PARCIAL | página distingue 2024.1 e 2016.1; extração amostral |
+| S07 | [UFV Florestal — Ciência da Computação](https://www.catalogo.ufv.br/matriz.php?ano=2026&campus=caf&complemento=%2A&curso=COF) | matriz institucional | catálogo 2026 | PARCIAL | catálogo e amostra de disciplinas consultados; campus Florestal |
+| S08 | [UFG — Engenharia de Computação integral](https://files.cercomp.ufg.br/weby/up/440/o/01._Matriz_Curricular_%28Turno_Integral_-_matr%C3%ADculas_a_partir_de_2021.pdf) | matriz institucional | matrículas a partir de 2021 | PARCIAL | PDF de seis páginas; tabelas iniciais consultadas; vigência para novos ingressantes de 2026 não confirmada |
+| S09 | [UFMG — Engenharia de Computação](https://www.ufmg.br/engcomp/) | portal e matriz gráfica | versão sem data identificada | PARCIAL | portal consultado; diagramas não transcritos nem auditados |
+| S10 | [Unicamp — Engenharia de Computação](https://ic.unicamp.br/graduacao/engenharia-da-computacao/) | apresentação institucional | sem edição de catálogo confirmada | PARCIAL | perfil consultado; catálogo 2026 não recuperado nesta busca |
+| S11 | [CEFET-MG — Engenharia de Computação](https://www.decom.cefetmg.br/ensino/graduacao/engenharia-de-computacao/matriz-curricular/) | matriz institucional | NÃO VERIFICADO | NÃO VERIFICADO | página/PDF retornaram 502; candidato para próxima auditoria |
+| S12 | [MEC — diretório de diretrizes curriculares](https://portal.mec.gov.br/secretaria-de-educacao-continuada-alfabetizacao-diversidade-e-inclusao/323-secretarias-112877938/orgaos-vinculados-82187207/12991-diretrizes-curriculares-cursos-de-graduacao) | índice oficial | referência à Resolução CNE/CES 5/2016 | PARCIAL | índice encontrado; vigência consolidada e aplicabilidade normativa NÃO VERIFICADAS |
+| S13 | [Gist indicado pelo usuário](https://gist.github.com/baiwfg2/af827b8b75eebf8ab29f5531a0d265ce?permalink_comment_id=3896162) | lista de descoberta | consulta 30/10/2026 | PARCIAL | corpo e comentários visíveis examinados; comentário 3896162 não isolado na resposta da página |

@@ -1,0 +1,4055 @@
+[
+  {
+    "id": "FND01",
+    "nome": "Introdução à computação e à engenharia",
+    "eixo": "FND",
+    "etapa": 1,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [],
+    "conhecimentos": [
+      "abstração",
+      "sistemas computacionais",
+      "hardware e software"
+    ],
+    "habilidades": [
+      "explicar a organização de um sistema computacional usando um estudo de caso"
+    ],
+    "metodologia": "leitura orientada, fichamento e reprodução de procedimentos",
+    "evidencia": "Explicar a organização de um sistema computacional usando um estudo de caso, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [
+      "C01",
+      "C02"
+    ],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "FND02",
+    "nome": "Autonomia, organização e aprendizagem",
+    "eixo": "FND",
+    "etapa": 1,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [],
+    "conhecimentos": [
+      "planejamento",
+      "autoavaliação",
+      "registro de dúvidas"
+    ],
+    "habilidades": [
+      "construir um plano de estudo com diagnóstico e critérios de progresso"
+    ],
+    "metodologia": "leitura orientada, fichamento e reprodução de procedimentos",
+    "evidencia": "Construir um plano de estudo com diagnóstico e critérios de progresso, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "FND03",
+    "nome": "Git, shell e ferramentas de desenvolvimento",
+    "eixo": "FND",
+    "etapa": 1,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [],
+    "conhecimentos": [
+      "controle de versão",
+      "terminal",
+      "depuração"
+    ],
+    "habilidades": [
+      "versionar e reproduzir um pequeno projeto com histórico explicável"
+    ],
+    "metodologia": "leitura orientada, fichamento e reprodução de procedimentos",
+    "evidencia": "Versionar e reproduzir um pequeno projeto com histórico explicável, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [
+      "C03"
+    ],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "FND04",
+    "nome": "Leitura e escrita acadêmica",
+    "eixo": "FND",
+    "etapa": 2,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "FND02"
+    ],
+    "conhecimentos": [
+      "argumentação",
+      "atribuição",
+      "busca bibliográfica"
+    ],
+    "habilidades": [
+      "produzir um fichamento com alegações rastreáveis e limites de leitura"
+    ],
+    "metodologia": "leitura orientada, fichamento e reprodução de procedimentos",
+    "evidencia": "Produzir um fichamento com alegações rastreáveis e limites de leitura, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "FND05",
+    "nome": "Inglês instrumental para computação",
+    "eixo": "FND",
+    "etapa": 1,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [],
+    "conhecimentos": [
+      "leitura técnica",
+      "vocabulário",
+      "documentação"
+    ],
+    "habilidades": [
+      "interpretar uma documentação e produzir um glossário contextual"
+    ],
+    "metodologia": "leitura orientada, fichamento e reprodução de procedimentos",
+    "evidencia": "Interpretar uma documentação e produzir um glossário contextual, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "FND06",
+    "nome": "Metodologia científica e ciência aberta",
+    "eixo": "FND",
+    "etapa": 4,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "FND04",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "pergunta",
+      "desenho de estudo",
+      "reprodutibilidade"
+    ],
+    "habilidades": [
+      "propor um estudo com dados, análise, limites e registro de decisões"
+    ],
+    "metodologia": "leitura orientada, fichamento e reprodução de procedimentos",
+    "evidencia": "Propor um estudo com dados, análise, limites e registro de decisões, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "MAT01",
+    "nome": "Pré-cálculo e funções",
+    "eixo": "MAT",
+    "etapa": 1,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [],
+    "conhecimentos": [
+      "álgebra",
+      "funções",
+      "trigonometria"
+    ],
+    "habilidades": [
+      "modelar funções e justificar domínio, imagem e comportamento"
+    ],
+    "metodologia": "resolução de problemas, demonstrações e experimentos numéricos",
+    "evidencia": "Modelar funções e justificar domínio, imagem e comportamento, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "MSF"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B08",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "MAT02",
+    "nome": "Lógica e matemática discreta",
+    "eixo": "MAT",
+    "etapa": 1,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [],
+    "conhecimentos": [
+      "proposições",
+      "conjuntos",
+      "relações",
+      "indução"
+    ],
+    "habilidades": [
+      "demonstrar uma propriedade por indução e identificar hipóteses"
+    ],
+    "metodologia": "resolução de problemas, demonstrações e experimentos numéricos",
+    "evidencia": "Demonstrar uma propriedade por indução e identificar hipóteses, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "MSF"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B08",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [
+      "C04"
+    ],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "MAT03",
+    "nome": "Geometria analítica e vetores",
+    "eixo": "MAT",
+    "etapa": 2,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT01"
+    ],
+    "conhecimentos": [
+      "vetores",
+      "retas",
+      "planos"
+    ],
+    "habilidades": [
+      "resolver um problema geométrico por representação vetorial"
+    ],
+    "metodologia": "resolução de problemas, demonstrações e experimentos numéricos",
+    "evidencia": "Resolver um problema geométrico por representação vetorial, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "MSF"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B08",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "MAT04",
+    "nome": "Cálculo diferencial e integral I",
+    "eixo": "MAT",
+    "etapa": 2,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT01"
+    ],
+    "conhecimentos": [
+      "limites",
+      "derivadas",
+      "integrais de uma variável"
+    ],
+    "habilidades": [
+      "modelar uma taxa de variação e verificar uma integral definida"
+    ],
+    "metodologia": "resolução de problemas, demonstrações e experimentos numéricos",
+    "evidencia": "Modelar uma taxa de variação e verificar uma integral definida, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "MSF"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B08",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "MAT05",
+    "nome": "Cálculo II e séries",
+    "eixo": "MAT",
+    "etapa": 3,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT04"
+    ],
+    "conhecimentos": [
+      "técnicas de integração",
+      "sequências",
+      "séries"
+    ],
+    "habilidades": [
+      "justificar convergência e estimar erro de uma aproximação"
+    ],
+    "metodologia": "resolução de problemas, demonstrações e experimentos numéricos",
+    "evidencia": "Justificar convergência e estimar erro de uma aproximação, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "MSF"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B08",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "MAT06",
+    "nome": "Álgebra linear",
+    "eixo": "MAT",
+    "etapa": 3,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT03"
+    ],
+    "conhecimentos": [
+      "matrizes",
+      "espaços vetoriais",
+      "autovalores"
+    ],
+    "habilidades": [
+      "resolver e interpretar um sistema linear com análise de condicionamento"
+    ],
+    "metodologia": "resolução de problemas, demonstrações e experimentos numéricos",
+    "evidencia": "Resolver e interpretar um sistema linear com análise de condicionamento, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "MSF"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B08",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "MAT07",
+    "nome": "Probabilidade e estatística",
+    "eixo": "MAT",
+    "etapa": 3,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT04",
+      "MAT02"
+    ],
+    "conhecimentos": [
+      "distribuições",
+      "estimação",
+      "inferência"
+    ],
+    "habilidades": [
+      "estimar um parâmetro e discutir incerteza e independência amostral"
+    ],
+    "metodologia": "resolução de problemas, demonstrações e experimentos numéricos",
+    "evidencia": "Estimar um parâmetro e discutir incerteza e independência amostral, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "MSF"
+    ],
+    "referencias_candidatas": [
+      "B28",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "MAT08",
+    "nome": "Equações diferenciais e cálculo multivariável",
+    "eixo": "MAT",
+    "etapa": 4,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT05",
+      "MAT06"
+    ],
+    "conhecimentos": [
+      "EDO",
+      "derivadas parciais",
+      "integração múltipla"
+    ],
+    "habilidades": [
+      "formular e resolver um modelo dinâmico com condições iniciais"
+    ],
+    "metodologia": "resolução de problemas, demonstrações e experimentos numéricos",
+    "evidencia": "Formular e resolver um modelo dinâmico com condições iniciais, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "MSF"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B08",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "MAT09",
+    "nome": "Métodos numéricos e otimização",
+    "eixo": "MAT",
+    "etapa": 4,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT05",
+      "MAT06",
+      "PRG01"
+    ],
+    "conhecimentos": [
+      "erro numérico",
+      "raízes",
+      "otimização"
+    ],
+    "habilidades": [
+      "comparar métodos numéricos por precisão, custo e estabilidade"
+    ],
+    "metodologia": "resolução de problemas, demonstrações e experimentos numéricos",
+    "evidencia": "Comparar métodos numéricos por precisão, custo e estabilidade, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "MSF"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B08",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRG01",
+    "nome": "Programação I e pensamento computacional",
+    "eixo": "PRG",
+    "etapa": 1,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [],
+    "conhecimentos": [
+      "variáveis",
+      "decisões",
+      "repetição",
+      "decomposição"
+    ],
+    "habilidades": [
+      "implementar uma solução pequena e explicar cada decisão"
+    ],
+    "metodologia": "leitura e rastreamento de código, modificação e implementação",
+    "evidencia": "Implementar uma solução pequena e explicar cada decisão, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SDF",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B02",
+      "B04"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [
+      "C01",
+      "C02"
+    ],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRG02",
+    "nome": "Programação II e modularização",
+    "eixo": "PRG",
+    "etapa": 2,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG01"
+    ],
+    "conhecimentos": [
+      "funções",
+      "módulos",
+      "recursão",
+      "testes básicos"
+    ],
+    "habilidades": [
+      "decompor um problema em módulos com contratos e testes"
+    ],
+    "metodologia": "leitura e rastreamento de código, modificação e implementação",
+    "evidencia": "Decompor um problema em módulos com contratos e testes, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SDF",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B02",
+      "B04"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRG03",
+    "nome": "Programação orientada a objetos",
+    "eixo": "PRG",
+    "etapa": 3,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG02"
+    ],
+    "conhecimentos": [
+      "objetos",
+      "encapsulamento",
+      "composição",
+      "polimorfismo"
+    ],
+    "habilidades": [
+      "modelar objetos e justificar responsabilidades e composição"
+    ],
+    "metodologia": "leitura e rastreamento de código, modificação e implementação",
+    "evidencia": "Modelar objetos e justificar responsabilidades e composição, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SDF",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B02",
+      "B04"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRG04",
+    "nome": "Programação de sistemas em C",
+    "eixo": "PRG",
+    "etapa": 3,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG02"
+    ],
+    "conhecimentos": [
+      "ponteiros",
+      "memória",
+      "compilação",
+      "interfaces"
+    ],
+    "habilidades": [
+      "implementar uma estrutura com gestão explícita de memória e testes"
+    ],
+    "metodologia": "leitura e rastreamento de código, modificação e implementação",
+    "evidencia": "Implementar uma estrutura com gestão explícita de memória e testes, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SDF",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B02",
+      "B04"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRG05",
+    "nome": "Programação funcional",
+    "eixo": "PRG",
+    "etapa": 4,
+    "percursos": [
+      "CC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG02",
+      "MAT02"
+    ],
+    "conhecimentos": [
+      "funções de ordem superior",
+      "imutabilidade",
+      "tipos"
+    ],
+    "habilidades": [
+      "resolver um problema com composição funcional e justificar efeitos"
+    ],
+    "metodologia": "leitura e rastreamento de código, modificação e implementação",
+    "evidencia": "Resolver um problema com composição funcional e justificar efeitos, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SDF",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B02",
+      "B04"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRG06",
+    "nome": "Programação lógica",
+    "eixo": "PRG",
+    "etapa": 4,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "MAT02",
+      "PRG02"
+    ],
+    "conhecimentos": [
+      "unificação",
+      "cláusulas",
+      "busca"
+    ],
+    "habilidades": [
+      "representar regras e explicar uma consulta e suas limitações"
+    ],
+    "metodologia": "leitura e rastreamento de código, modificação e implementação",
+    "evidencia": "Representar regras e explicar uma consulta e suas limitações, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SDF",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B02",
+      "B04"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRG07",
+    "nome": "Linguagens de programação e semântica",
+    "eixo": "PRG",
+    "etapa": 5,
+    "percursos": [
+      "CC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG03",
+      "PRG05"
+    ],
+    "conhecimentos": [
+      "escopo",
+      "tipos",
+      "avaliação",
+      "semântica"
+    ],
+    "habilidades": [
+      "comparar dois paradigmas a partir de uma semântica explícita"
+    ],
+    "metodologia": "leitura e rastreamento de código, modificação e implementação",
+    "evidencia": "Comparar dois paradigmas a partir de uma semântica explícita, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SDF",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B02",
+      "B04"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRG08",
+    "nome": "Programação concorrente",
+    "eixo": "PRG",
+    "etapa": 6,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG04",
+      "SYS01"
+    ],
+    "conhecimentos": [
+      "sincronização",
+      "exclusão mútua",
+      "comunicação"
+    ],
+    "habilidades": [
+      "implementar um programa concorrente e analisar condições de corrida"
+    ],
+    "metodologia": "leitura e rastreamento de código, modificação e implementação",
+    "evidencia": "Implementar um programa concorrente e analisar condições de corrida, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SDF",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B01",
+      "B02",
+      "B04"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ALG01",
+    "nome": "Estruturas de dados I",
+    "eixo": "ALG",
+    "etapa": 3,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG02",
+      "MAT02"
+    ],
+    "conhecimentos": [
+      "listas",
+      "pilhas",
+      "filas",
+      "árvores"
+    ],
+    "habilidades": [
+      "implementar e testar operações com invariantes explícitos"
+    ],
+    "metodologia": "análise de invariantes, provas e comparação experimental",
+    "evidencia": "Implementar e testar operações com invariantes explícitos, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL"
+    ],
+    "referencias_candidatas": [
+      "B05",
+      "B06"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ALG02",
+    "nome": "Estruturas de dados II",
+    "eixo": "ALG",
+    "etapa": 4,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "ALG01"
+    ],
+    "conhecimentos": [
+      "hashing",
+      "árvores balanceadas",
+      "filas de prioridade"
+    ],
+    "habilidades": [
+      "comparar estruturas para uma carga de trabalho definida"
+    ],
+    "metodologia": "análise de invariantes, provas e comparação experimental",
+    "evidencia": "Comparar estruturas para uma carga de trabalho definida, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL"
+    ],
+    "referencias_candidatas": [
+      "B05",
+      "B06"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ALG03",
+    "nome": "Análise e projeto de algoritmos",
+    "eixo": "ALG",
+    "etapa": 5,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "ALG02",
+      "MAT02"
+    ],
+    "conhecimentos": [
+      "complexidade",
+      "recorrências",
+      "guloso",
+      "programação dinâmica"
+    ],
+    "habilidades": [
+      "justificar correção e custo de duas soluções para um problema"
+    ],
+    "metodologia": "análise de invariantes, provas e comparação experimental",
+    "evidencia": "Justificar correção e custo de duas soluções para um problema, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL"
+    ],
+    "referencias_candidatas": [
+      "B05",
+      "B06"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ALG04",
+    "nome": "Teoria e algoritmos em grafos",
+    "eixo": "ALG",
+    "etapa": 4,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "ALG01",
+      "MAT02"
+    ],
+    "conhecimentos": [
+      "conectividade",
+      "percursos",
+      "caminhos",
+      "árvores"
+    ],
+    "habilidades": [
+      "selecionar um algoritmo de grafos e demonstrar sua adequação"
+    ],
+    "metodologia": "análise de invariantes, provas e comparação experimental",
+    "evidencia": "Selecionar um algoritmo de grafos e demonstrar sua adequação, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL"
+    ],
+    "referencias_candidatas": [
+      "B05",
+      "B06"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ALG05",
+    "nome": "Algoritmos probabilísticos e aproximativos",
+    "eixo": "ALG",
+    "etapa": 6,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "ALG03",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "aleatorização",
+      "aproximação",
+      "garantias"
+    ],
+    "habilidades": [
+      "comparar garantias teóricas e comportamento experimental"
+    ],
+    "metodologia": "análise de invariantes, provas e comparação experimental",
+    "evidencia": "Comparar garantias teóricas e comportamento experimental, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL"
+    ],
+    "referencias_candidatas": [
+      "B05",
+      "B06"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ALG06",
+    "nome": "Otimização combinatória e pesquisa operacional",
+    "eixo": "ALG",
+    "etapa": 6,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "MAT06",
+      "ALG03"
+    ],
+    "conhecimentos": [
+      "programação linear",
+      "modelos inteiros",
+      "heurísticas"
+    ],
+    "habilidades": [
+      "formular um problema de otimização e avaliar a solução"
+    ],
+    "metodologia": "análise de invariantes, provas e comparação experimental",
+    "evidencia": "Formular um problema de otimização e avaliar a solução, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL"
+    ],
+    "referencias_candidatas": [
+      "B05",
+      "B06"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ALG07",
+    "nome": "Computação científica e simulação",
+    "eixo": "ALG",
+    "etapa": 6,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "MAT09",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "simulação",
+      "Monte Carlo",
+      "validação"
+    ],
+    "habilidades": [
+      "executar uma simulação reprodutível e avaliar seu erro"
+    ],
+    "metodologia": "análise de invariantes, provas e comparação experimental",
+    "evidencia": "Executar uma simulação reprodutível e avaliar seu erro, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL"
+    ],
+    "referencias_candidatas": [
+      "B05",
+      "B06"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "TEO01",
+    "nome": "Linguagens formais e autômatos",
+    "eixo": "TEO",
+    "etapa": 4,
+    "percursos": [
+      "CC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT02",
+      "ALG01"
+    ],
+    "conhecimentos": [
+      "gramáticas",
+      "expressões regulares",
+      "autômatos"
+    ],
+    "habilidades": [
+      "construir um reconhecedor e demonstrar a linguagem aceita"
+    ],
+    "metodologia": "modelagem formal, provas e verificação mecanizada",
+    "evidencia": "Construir um reconhecedor e demonstrar a linguagem aceita, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B17"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "TEO02",
+    "nome": "Computabilidade e complexidade",
+    "eixo": "TEO",
+    "etapa": 6,
+    "percursos": [
+      "CC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "TEO01",
+      "ALG03"
+    ],
+    "conhecimentos": [
+      "decidibilidade",
+      "reduções",
+      "classes de complexidade"
+    ],
+    "habilidades": [
+      "analisar uma redução e separar decidibilidade de viabilidade"
+    ],
+    "metodologia": "modelagem formal, provas e verificação mecanizada",
+    "evidencia": "Analisar uma redução e separar decidibilidade de viabilidade, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B17"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "TEO03",
+    "nome": "Compiladores e interpretadores",
+    "eixo": "TEO",
+    "etapa": 6,
+    "percursos": [
+      "CC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "TEO01",
+      "PRG04",
+      "PRG07"
+    ],
+    "conhecimentos": [
+      "análise léxica",
+      "parsing",
+      "representação intermediária"
+    ],
+    "habilidades": [
+      "construir um interpretador pequeno com testes por etapa"
+    ],
+    "metodologia": "modelagem formal, provas e verificação mecanizada",
+    "evidencia": "Construir um interpretador pequeno com testes por etapa, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B17"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "TEO04",
+    "nome": "Métodos formais e verificação",
+    "eixo": "TEO",
+    "etapa": 6,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "TEO01",
+      "PRG07"
+    ],
+    "conhecimentos": [
+      "invariantes",
+      "lógica de Hoare",
+      "verificação de modelos"
+    ],
+    "habilidades": [
+      "especificar uma propriedade e verificar um programa delimitado"
+    ],
+    "metodologia": "modelagem formal, provas e verificação mecanizada",
+    "evidencia": "Especificar uma propriedade e verificar um programa delimitado, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B17"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "TEO05",
+    "nome": "Teoria da informação e codificação",
+    "eixo": "TEO",
+    "etapa": 6,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "MAT07",
+      "MAT02"
+    ],
+    "conhecimentos": [
+      "entropia",
+      "compressão",
+      "códigos"
+    ],
+    "habilidades": [
+      "analisar uma codificação e seus limites de representação"
+    ],
+    "metodologia": "modelagem formal, provas e verificação mecanizada",
+    "evidencia": "Analisar uma codificação e seus limites de representação, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AL",
+      "FPL"
+    ],
+    "referencias_candidatas": [
+      "B03",
+      "B17"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "HWD01",
+    "nome": "Circuitos lógicos e álgebra booleana",
+    "eixo": "HWD",
+    "etapa": 2,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT02"
+    ],
+    "conhecimentos": [
+      "portas",
+      "simplificação",
+      "circuitos combinacionais"
+    ],
+    "habilidades": [
+      "projetar e verificar um circuito combinacional com tabela verdade"
+    ],
+    "metodologia": "projeto por camadas, simulação e testes de bancada quando disponíveis",
+    "evidencia": "Projetar e verificar um circuito combinacional com tabela verdade, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AR",
+      "SF"
+    ],
+    "referencias_candidatas": [
+      "B07",
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [
+      "C05"
+    ],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "HWD02",
+    "nome": "Sistemas digitais sequenciais",
+    "eixo": "HWD",
+    "etapa": 3,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "HWD01"
+    ],
+    "conhecimentos": [
+      "flip-flops",
+      "registradores",
+      "máquinas de estados"
+    ],
+    "habilidades": [
+      "projetar uma máquina de estados e verificar transições"
+    ],
+    "metodologia": "projeto por camadas, simulação e testes de bancada quando disponíveis",
+    "evidencia": "Projetar uma máquina de estados e verificar transições, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AR",
+      "SF"
+    ],
+    "referencias_candidatas": [
+      "B07",
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [
+      "C05"
+    ],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "HWD03",
+    "nome": "Organização e arquitetura de computadores I",
+    "eixo": "HWD",
+    "etapa": 4,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "HWD02",
+      "PRG04"
+    ],
+    "conhecimentos": [
+      "ISA",
+      "caminho de dados",
+      "memória"
+    ],
+    "habilidades": [
+      "explicar a execução de instruções em uma arquitetura simples"
+    ],
+    "metodologia": "projeto por camadas, simulação e testes de bancada quando disponíveis",
+    "evidencia": "Explicar a execução de instruções em uma arquitetura simples, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AR",
+      "SF"
+    ],
+    "referencias_candidatas": [
+      "B07",
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [
+      "C05"
+    ],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "HWD04",
+    "nome": "Arquitetura de computadores II",
+    "eixo": "HWD",
+    "etapa": 5,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "HWD03"
+    ],
+    "conhecimentos": [
+      "pipeline",
+      "caches",
+      "paralelismo"
+    ],
+    "habilidades": [
+      "avaliar desempenho considerando hierarquia de memória"
+    ],
+    "metodologia": "projeto por camadas, simulação e testes de bancada quando disponíveis",
+    "evidencia": "Avaliar desempenho considerando hierarquia de memória, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AR",
+      "SF"
+    ],
+    "referencias_candidatas": [
+      "B07",
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "HWD05",
+    "nome": "Descrição de hardware e FPGA",
+    "eixo": "HWD",
+    "etapa": 4,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "HWD02"
+    ],
+    "conhecimentos": [
+      "HDL",
+      "síntese",
+      "temporização",
+      "testbench"
+    ],
+    "habilidades": [
+      "descrever hardware e verificar comportamento e temporização em simulação"
+    ],
+    "metodologia": "projeto por camadas, simulação e testes de bancada quando disponíveis",
+    "evidencia": "Descrever hardware e verificar comportamento e temporização em simulação, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AR",
+      "SF"
+    ],
+    "referencias_candidatas": [
+      "B07",
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "HWD06",
+    "nome": "Microcontroladores e interfaces",
+    "eixo": "HWD",
+    "etapa": 7,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "HWD03",
+      "ELE03"
+    ],
+    "conhecimentos": [
+      "interrupções",
+      "temporizadores",
+      "barramentos"
+    ],
+    "habilidades": [
+      "implementar aquisição de dados com temporização especificada"
+    ],
+    "metodologia": "projeto por camadas, simulação e testes de bancada quando disponíveis",
+    "evidencia": "Implementar aquisição de dados com temporização especificada, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AR",
+      "SF"
+    ],
+    "referencias_candidatas": [
+      "B07",
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "HWD07",
+    "nome": "Sistemas embarcados e tempo real",
+    "eixo": "HWD",
+    "etapa": 8,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "HWD06",
+      "PRG08"
+    ],
+    "conhecimentos": [
+      "tarefas",
+      "escalonamento",
+      "restrições temporais"
+    ],
+    "habilidades": [
+      "projetar tarefas e avaliar cumprimento de prazos"
+    ],
+    "metodologia": "projeto por camadas, simulação e testes de bancada quando disponíveis",
+    "evidencia": "Projetar tarefas e avaliar cumprimento de prazos, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AR",
+      "SF"
+    ],
+    "referencias_candidatas": [
+      "B07",
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "HWD08",
+    "nome": "Projeto VLSI e codesign hardware/software",
+    "eixo": "HWD",
+    "etapa": 7,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "HWD05",
+      "HWD04",
+      "ELE03"
+    ],
+    "conhecimentos": [
+      "CMOS",
+      "integração",
+      "particionamento"
+    ],
+    "habilidades": [
+      "justificar uma divisão entre hardware e software com critérios medidos"
+    ],
+    "metodologia": "projeto por camadas, simulação e testes de bancada quando disponíveis",
+    "evidencia": "Justificar uma divisão entre hardware e software com critérios medidos, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AR",
+      "SF"
+    ],
+    "referencias_candidatas": [
+      "B07",
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "FIS01",
+    "nome": "Mecânica e física experimental I",
+    "eixo": "FIS",
+    "etapa": 3,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT04"
+    ],
+    "conhecimentos": [
+      "cinemática",
+      "dinâmica",
+      "energia",
+      "medição"
+    ],
+    "habilidades": [
+      "comparar um modelo mecânico com observações e incertezas"
+    ],
+    "metodologia": "modelagem física, análise dimensional e experimentação com incerteza",
+    "evidencia": "Comparar um modelo mecânico com observações e incertezas, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B19"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "FIS02",
+    "nome": "Eletromagnetismo",
+    "eixo": "FIS",
+    "etapa": 4,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "FIS01",
+      "MAT05"
+    ],
+    "conhecimentos": [
+      "campos",
+      "potencial",
+      "indução"
+    ],
+    "habilidades": [
+      "resolver um modelo eletromagnético com unidades e hipóteses explícitas"
+    ],
+    "metodologia": "modelagem física, análise dimensional e experimentação com incerteza",
+    "evidencia": "Resolver um modelo eletromagnético com unidades e hipóteses explícitas, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B19"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.",
+      "Selecionar bibliografia específica: o Volume 1 de física não cobre integralmente esta disciplina."
+    ]
+  },
+  {
+    "id": "FIS03",
+    "nome": "Ondas, termodinâmica e óptica",
+    "eixo": "FIS",
+    "etapa": 4,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "FIS01",
+      "MAT05"
+    ],
+    "conhecimentos": [
+      "oscilações",
+      "ondas",
+      "calor",
+      "luz"
+    ],
+    "habilidades": [
+      "analisar um fenômeno ondulatório e discutir aproximações"
+    ],
+    "metodologia": "modelagem física, análise dimensional e experimentação com incerteza",
+    "evidencia": "Analisar um fenômeno ondulatório e discutir aproximações, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B19"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.",
+      "Selecionar bibliografia específica: o Volume 1 de física não cobre integralmente esta disciplina."
+    ]
+  },
+  {
+    "id": "FIS04",
+    "nome": "Física moderna e semicondutores",
+    "eixo": "FIS",
+    "etapa": 5,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "FIS02"
+    ],
+    "conhecimentos": [
+      "estrutura da matéria",
+      "bandas",
+      "transporte"
+    ],
+    "habilidades": [
+      "explicar um dispositivo semicondutor por um modelo delimitado"
+    ],
+    "metodologia": "modelagem física, análise dimensional e experimentação com incerteza",
+    "evidencia": "Explicar um dispositivo semicondutor por um modelo delimitado, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B19"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.",
+      "Selecionar bibliografia específica: o Volume 1 de física não cobre integralmente esta disciplina."
+    ]
+  },
+  {
+    "id": "FIS05",
+    "nome": "Química e ciência de materiais",
+    "eixo": "FIS",
+    "etapa": 3,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "MAT01"
+    ],
+    "conhecimentos": [
+      "ligações",
+      "materiais",
+      "propriedades"
+    ],
+    "habilidades": [
+      "relacionar propriedades de materiais a uma aplicação de engenharia"
+    ],
+    "metodologia": "modelagem física, análise dimensional e experimentação com incerteza",
+    "evidencia": "Relacionar propriedades de materiais a uma aplicação de engenharia, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B19"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.",
+      "Selecionar bibliografia específica: o Volume 1 de física não cobre integralmente esta disciplina."
+    ]
+  },
+  {
+    "id": "FIS06",
+    "nome": "Metrologia e análise de incertezas",
+    "eixo": "FIS",
+    "etapa": 4,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "FIS01",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "calibração",
+      "propagação",
+      "rastreabilidade"
+    ],
+    "habilidades": [
+      "produzir um relatório de medição com orçamento de incerteza"
+    ],
+    "metodologia": "modelagem física, análise dimensional e experimentação com incerteza",
+    "evidencia": "Produzir um relatório de medição com orçamento de incerteza, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B19"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ELE01",
+    "nome": "Circuitos elétricos I",
+    "eixo": "ELE",
+    "etapa": 5,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "FIS02",
+      "MAT06"
+    ],
+    "conhecimentos": [
+      "leis de Kirchhoff",
+      "circuitos resistivos",
+      "equivalentes"
+    ],
+    "habilidades": [
+      "analisar um circuito por dois métodos e verificar os resultados"
+    ],
+    "metodologia": "análise de circuitos, simulação e medição com protocolo",
+    "evidencia": "Analisar um circuito por dois métodos e verificar os resultados, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ELE02",
+    "nome": "Circuitos elétricos II",
+    "eixo": "ELE",
+    "etapa": 6,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "ELE01",
+      "MAT08"
+    ],
+    "conhecimentos": [
+      "regime transitório",
+      "fasores",
+      "resposta em frequência"
+    ],
+    "habilidades": [
+      "comparar respostas temporal e em frequência de um circuito"
+    ],
+    "metodologia": "análise de circuitos, simulação e medição com protocolo",
+    "evidencia": "Comparar respostas temporal e em frequência de um circuito, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ELE03",
+    "nome": "Eletrônica analógica e digital",
+    "eixo": "ELE",
+    "etapa": 6,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "ELE01",
+      "HWD02"
+    ],
+    "conhecimentos": [
+      "diodos",
+      "transistores",
+      "amplificadores",
+      "níveis lógicos"
+    ],
+    "habilidades": [
+      "projetar um estágio eletrônico e explicitar margens de operação"
+    ],
+    "metodologia": "análise de circuitos, simulação e medição com protocolo",
+    "evidencia": "Projetar um estágio eletrônico e explicitar margens de operação, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ELE04",
+    "nome": "Instrumentação, sensores e aquisição",
+    "eixo": "ELE",
+    "etapa": 7,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "ELE03",
+      "FIS06"
+    ],
+    "conhecimentos": [
+      "sensores",
+      "ADC",
+      "condicionamento",
+      "ruído"
+    ],
+    "habilidades": [
+      "especificar uma cadeia de aquisição e avaliar erro e resolução"
+    ],
+    "metodologia": "análise de circuitos, simulação e medição com protocolo",
+    "evidencia": "Especificar uma cadeia de aquisição e avaliar erro e resolução, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ELE05",
+    "nome": "Laboratório de eletrônica e projeto de PCB",
+    "eixo": "ELE",
+    "etapa": 7,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "ELE03"
+    ],
+    "conhecimentos": [
+      "esquemático",
+      "layout",
+      "montagem",
+      "validação"
+    ],
+    "habilidades": [
+      "produzir e revisar um projeto de placa com plano de verificação"
+    ],
+    "metodologia": "análise de circuitos, simulação e medição com protocolo",
+    "evidencia": "Produzir e revisar um projeto de placa com plano de verificação, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ELE06",
+    "nome": "Eletrônica de potência e acionamentos",
+    "eixo": "ELE",
+    "etapa": 7,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "ELE02",
+      "ELE03"
+    ],
+    "conhecimentos": [
+      "conversores",
+      "comutação",
+      "motores"
+    ],
+    "habilidades": [
+      "simular um acionamento e analisar perdas e restrições"
+    ],
+    "metodologia": "análise de circuitos, simulação e medição com protocolo",
+    "evidencia": "Simular um acionamento e analisar perdas e restrições, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "ELE07",
+    "nome": "Compatibilidade eletromagnética e confiabilidade",
+    "eixo": "ELE",
+    "etapa": 8,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "ELE02",
+      "ELE04"
+    ],
+    "conhecimentos": [
+      "interferência",
+      "aterramento",
+      "falhas"
+    ],
+    "habilidades": [
+      "propor uma avaliação de interferência e confiabilidade delimitada"
+    ],
+    "metodologia": "análise de circuitos, simulação e medição com protocolo",
+    "evidencia": "Propor uma avaliação de interferência e confiabilidade delimitada, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B18"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SIN01",
+    "nome": "Sinais e sistemas",
+    "eixo": "SIN",
+    "etapa": 6,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT08",
+      "ELE01"
+    ],
+    "conhecimentos": [
+      "convolução",
+      "transformadas",
+      "sistemas lineares"
+    ],
+    "habilidades": [
+      "modelar um sistema linear e justificar sua resposta"
+    ],
+    "metodologia": "modelagem dinâmica, simulação e análise de estabilidade",
+    "evidencia": "Modelar um sistema linear e justificar sua resposta, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B26",
+      "B20",
+      "B22"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SIN02",
+    "nome": "Processamento digital de sinais",
+    "eixo": "SIN",
+    "etapa": 7,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "SIN01",
+      "PRG02"
+    ],
+    "conhecimentos": [
+      "amostragem",
+      "filtros",
+      "transformada discreta"
+    ],
+    "habilidades": [
+      "projetar um filtro e avaliar distorção e aliasing"
+    ],
+    "metodologia": "modelagem dinâmica, simulação e análise de estabilidade",
+    "evidencia": "Projetar um filtro e avaliar distorção e aliasing, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B26",
+      "B20",
+      "B22"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SIN03",
+    "nome": "Controle e automação",
+    "eixo": "SIN",
+    "etapa": 7,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "SIN01",
+      "MAT08"
+    ],
+    "conhecimentos": [
+      "realimentação",
+      "estabilidade",
+      "controladores"
+    ],
+    "habilidades": [
+      "projetar um controlador e avaliar estabilidade e desempenho"
+    ],
+    "metodologia": "modelagem dinâmica, simulação e análise de estabilidade",
+    "evidencia": "Projetar um controlador e avaliar estabilidade e desempenho, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B26",
+      "B20",
+      "B22"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SIN04",
+    "nome": "Robótica",
+    "eixo": "SIN",
+    "etapa": 8,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "SIN03",
+      "MAT06",
+      "HWD06"
+    ],
+    "conhecimentos": [
+      "cinemática",
+      "dinâmica",
+      "planejamento"
+    ],
+    "habilidades": [
+      "simular um manipulador e avaliar trajetória e restrições"
+    ],
+    "metodologia": "modelagem dinâmica, simulação e análise de estabilidade",
+    "evidencia": "Simular um manipulador e avaliar trajetória e restrições, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B26",
+      "B20",
+      "B22"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [
+      "C07"
+    ],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SIN05",
+    "nome": "Comunicações digitais",
+    "eixo": "SIN",
+    "etapa": 7,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "SIN01",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "modulação",
+      "canais",
+      "detecção"
+    ],
+    "habilidades": [
+      "comparar modulações por taxa de erro em cenário definido"
+    ],
+    "metodologia": "modelagem dinâmica, simulação e análise de estabilidade",
+    "evidencia": "Comparar modulações por taxa de erro em cenário definido, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B26",
+      "B20",
+      "B22"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SIN06",
+    "nome": "Sistemas ciberfísicos e IoT",
+    "eixo": "SIN",
+    "etapa": 9,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "HWD07",
+      "NET01",
+      "SIN03"
+    ],
+    "conhecimentos": [
+      "integração física",
+      "conectividade",
+      "restrições"
+    ],
+    "habilidades": [
+      "projetar um sistema de monitoramento com limites temporais e de energia"
+    ],
+    "metodologia": "modelagem dinâmica, simulação e análise de estabilidade",
+    "evidencia": "Projetar um sistema de monitoramento com limites temporais e de energia, com artefato e justificativa.",
+    "cs2023_proposto": [],
+    "referencias_candidatas": [
+      "B26",
+      "B20",
+      "B22"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SYS01",
+    "nome": "Sistemas operacionais",
+    "eixo": "SYS",
+    "etapa": 5,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "HWD03",
+      "PRG04"
+    ],
+    "conhecimentos": [
+      "processos",
+      "memória",
+      "arquivos",
+      "proteção"
+    ],
+    "habilidades": [
+      "implementar ou simular um mecanismo de sistema operacional"
+    ],
+    "metodologia": "implementação de mecanismos, análise de falhas e medição",
+    "evidencia": "Implementar ou simular um mecanismo de sistema operacional, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "OS",
+      "SF",
+      "PDC"
+    ],
+    "referencias_candidatas": [
+      "B10",
+      "B11"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SYS02",
+    "nome": "Sistemas distribuídos",
+    "eixo": "SYS",
+    "etapa": 7,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "SYS01",
+      "NET01",
+      "PRG08"
+    ],
+    "conhecimentos": [
+      "falhas",
+      "consistência",
+      "replicação",
+      "coordenação"
+    ],
+    "habilidades": [
+      "avaliar um serviço distribuído sob falhas reproduzíveis"
+    ],
+    "metodologia": "implementação de mecanismos, análise de falhas e medição",
+    "evidencia": "Avaliar um serviço distribuído sob falhas reproduzíveis, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "OS",
+      "SF",
+      "PDC"
+    ],
+    "referencias_candidatas": [
+      "B10",
+      "B11"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SYS03",
+    "nome": "Computação paralela e alto desempenho",
+    "eixo": "SYS",
+    "etapa": 7,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG08",
+      "HWD04"
+    ],
+    "conhecimentos": [
+      "decomposição",
+      "speedup",
+      "comunicação"
+    ],
+    "habilidades": [
+      "medir aceleração e explicar limites de paralelização"
+    ],
+    "metodologia": "implementação de mecanismos, análise de falhas e medição",
+    "evidencia": "Medir aceleração e explicar limites de paralelização, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "OS",
+      "SF",
+      "PDC"
+    ],
+    "referencias_candidatas": [
+      "B10",
+      "B11"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SYS04",
+    "nome": "Virtualização, containers e nuvem",
+    "eixo": "SYS",
+    "etapa": 6,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "SYS01",
+      "NET01"
+    ],
+    "conhecimentos": [
+      "isolamento",
+      "imagens",
+      "serviços",
+      "operação"
+    ],
+    "habilidades": [
+      "reproduzir um ambiente isolado e justificar sua configuração"
+    ],
+    "metodologia": "implementação de mecanismos, análise de falhas e medição",
+    "evidencia": "Reproduzir um ambiente isolado e justificar sua configuração, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "OS",
+      "SF",
+      "PDC"
+    ],
+    "referencias_candidatas": [
+      "B10",
+      "B11"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SYS05",
+    "nome": "Administração de sistemas e observabilidade",
+    "eixo": "SYS",
+    "etapa": 6,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "SYS01",
+      "NET01"
+    ],
+    "conhecimentos": [
+      "serviços",
+      "métricas",
+      "logs",
+      "diagnóstico"
+    ],
+    "habilidades": [
+      "diagnosticar uma falha com evidências e procedimento reproduzível"
+    ],
+    "metodologia": "implementação de mecanismos, análise de falhas e medição",
+    "evidencia": "Diagnosticar uma falha com evidências e procedimento reproduzível, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "OS",
+      "SF",
+      "PDC"
+    ],
+    "referencias_candidatas": [
+      "B10",
+      "B11"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SYS06",
+    "nome": "Armazenamento e sistemas de arquivos",
+    "eixo": "SYS",
+    "etapa": 6,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "SYS01",
+      "ALG02"
+    ],
+    "conhecimentos": [
+      "persistência",
+      "índices",
+      "recuperação"
+    ],
+    "habilidades": [
+      "avaliar persistência e recuperação em uma carga definida"
+    ],
+    "metodologia": "implementação de mecanismos, análise de falhas e medição",
+    "evidencia": "Avaliar persistência e recuperação em uma carga definida, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "OS",
+      "SF",
+      "PDC"
+    ],
+    "referencias_candidatas": [
+      "B10",
+      "B11"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SYS07",
+    "nome": "SRE e engenharia de desempenho",
+    "eixo": "SYS",
+    "etapa": 8,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "SYS02",
+      "SWE04"
+    ],
+    "conhecimentos": [
+      "indicadores",
+      "objetivos de serviço",
+      "desempenho"
+    ],
+    "habilidades": [
+      "definir indicadores e executar um experimento de desempenho"
+    ],
+    "metodologia": "implementação de mecanismos, análise de falhas e medição",
+    "evidencia": "Definir indicadores e executar um experimento de desempenho, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "OS",
+      "SF",
+      "PDC"
+    ],
+    "referencias_candidatas": [
+      "B10",
+      "B11"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "NET01",
+    "nome": "Redes de computadores",
+    "eixo": "NET",
+    "etapa": 5,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG02",
+      "HWD03"
+    ],
+    "conhecimentos": [
+      "camadas",
+      "endereçamento",
+      "roteamento",
+      "transporte"
+    ],
+    "habilidades": [
+      "explicar e observar um fluxo de comunicação autorizado"
+    ],
+    "metodologia": "modelos de protocolos, experimentos controlados e captura autorizada",
+    "evidencia": "Explicar e observar um fluxo de comunicação autorizado, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "NC"
+    ],
+    "referencias_candidatas": [
+      "B11",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "NET02",
+    "nome": "Programação de redes e sistemas web",
+    "eixo": "NET",
+    "etapa": 6,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "NET01",
+      "PRG03"
+    ],
+    "conhecimentos": [
+      "sockets",
+      "HTTP",
+      "serviços",
+      "APIs"
+    ],
+    "habilidades": [
+      "implementar um serviço com protocolo e testes de falha"
+    ],
+    "metodologia": "modelos de protocolos, experimentos controlados e captura autorizada",
+    "evidencia": "Implementar um serviço com protocolo e testes de falha, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "NC"
+    ],
+    "referencias_candidatas": [
+      "B11",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "NET03",
+    "nome": "Redes sem fio e móveis",
+    "eixo": "NET",
+    "etapa": 6,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "NET01",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "acesso ao meio",
+      "mobilidade",
+      "propagação"
+    ],
+    "habilidades": [
+      "comparar desempenho sob condições de canal declaradas"
+    ],
+    "metodologia": "modelos de protocolos, experimentos controlados e captura autorizada",
+    "evidencia": "Comparar desempenho sob condições de canal declaradas, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "NC"
+    ],
+    "referencias_candidatas": [
+      "B11",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "NET04",
+    "nome": "Sistemas de telecomunicações",
+    "eixo": "NET",
+    "etapa": 7,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "NET01",
+      "SIN01"
+    ],
+    "conhecimentos": [
+      "transmissão",
+      "multiplexação",
+      "enlaces"
+    ],
+    "habilidades": [
+      "dimensionar um enlace com hipóteses e orçamento de sinal"
+    ],
+    "metodologia": "modelos de protocolos, experimentos controlados e captura autorizada",
+    "evidencia": "Dimensionar um enlace com hipóteses e orçamento de sinal, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "NC"
+    ],
+    "referencias_candidatas": [
+      "B11",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "NET05",
+    "nome": "Redes definidas por software e virtualização",
+    "eixo": "NET",
+    "etapa": 7,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "NET01",
+      "SYS04"
+    ],
+    "conhecimentos": [
+      "planos de controle",
+      "virtualização",
+      "automação"
+    ],
+    "habilidades": [
+      "experimentar uma política de rede em ambiente isolado"
+    ],
+    "metodologia": "modelos de protocolos, experimentos controlados e captura autorizada",
+    "evidencia": "Experimentar uma política de rede em ambiente isolado, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "NC"
+    ],
+    "referencias_candidatas": [
+      "B11",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SWE01",
+    "nome": "Requisitos e modelagem de software",
+    "eixo": "SWE",
+    "etapa": 4,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG03"
+    ],
+    "conhecimentos": [
+      "elicitação",
+      "requisitos",
+      "modelos",
+      "critérios de aceite"
+    ],
+    "habilidades": [
+      "especificar requisitos verificáveis para um problema delimitado"
+    ],
+    "metodologia": "projeto incremental, revisão, testes e avaliação de decisões",
+    "evidencia": "Especificar requisitos verificáveis para um problema delimitado, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SE",
+      "SEC"
+    ],
+    "referencias_candidatas": [
+      "B12",
+      "B13",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SWE02",
+    "nome": "Projeto e arquitetura de software",
+    "eixo": "SWE",
+    "etapa": 5,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "SWE01",
+      "PRG03"
+    ],
+    "conhecimentos": [
+      "modularidade",
+      "padrões",
+      "atributos de qualidade"
+    ],
+    "habilidades": [
+      "comparar alternativas arquiteturais com registro de decisão"
+    ],
+    "metodologia": "projeto incremental, revisão, testes e avaliação de decisões",
+    "evidencia": "Comparar alternativas arquiteturais com registro de decisão, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SE",
+      "SEC"
+    ],
+    "referencias_candidatas": [
+      "B12",
+      "B13",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SWE03",
+    "nome": "Testes, verificação e validação",
+    "eixo": "SWE",
+    "etapa": 5,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRG02",
+      "SWE01"
+    ],
+    "conhecimentos": [
+      "partições",
+      "oráculos",
+      "integração",
+      "propriedades"
+    ],
+    "habilidades": [
+      "projetar testes derivados de riscos e requisitos"
+    ],
+    "metodologia": "projeto incremental, revisão, testes e avaliação de decisões",
+    "evidencia": "Projetar testes derivados de riscos e requisitos, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SE",
+      "SEC"
+    ],
+    "referencias_candidatas": [
+      "B25",
+      "B13"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SWE04",
+    "nome": "Qualidade, manutenção e evolução",
+    "eixo": "SWE",
+    "etapa": 6,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "SWE02",
+      "SWE03"
+    ],
+    "conhecimentos": [
+      "dívida técnica",
+      "refatoração",
+      "qualidade",
+      "manutenção"
+    ],
+    "habilidades": [
+      "avaliar uma mudança com evidências antes e depois"
+    ],
+    "metodologia": "projeto incremental, revisão, testes e avaliação de decisões",
+    "evidencia": "Avaliar uma mudança com evidências antes e depois, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SE",
+      "SEC"
+    ],
+    "referencias_candidatas": [
+      "B12",
+      "B13",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SWE05",
+    "nome": "Gestão de configuração, CI/CD e DevOps",
+    "eixo": "SWE",
+    "etapa": 6,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "FND03",
+      "SWE03"
+    ],
+    "conhecimentos": [
+      "build",
+      "automação",
+      "versionamento",
+      "entrega"
+    ],
+    "habilidades": [
+      "automatizar verificações e empacotar uma versão reproduzível"
+    ],
+    "metodologia": "projeto incremental, revisão, testes e avaliação de decisões",
+    "evidencia": "Automatizar verificações e empacotar uma versão reproduzível, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SE",
+      "SEC"
+    ],
+    "referencias_candidatas": [
+      "B12",
+      "B13",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SWE06",
+    "nome": "Segurança de sistemas e criptografia",
+    "eixo": "SWE",
+    "etapa": 6,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "NET01",
+      "MAT02"
+    ],
+    "conhecimentos": [
+      "ameaças",
+      "controles",
+      "autenticação",
+      "criptografia"
+    ],
+    "habilidades": [
+      "modelar ameaças e justificar controles e limites"
+    ],
+    "metodologia": "projeto incremental, revisão, testes e avaliação de decisões",
+    "evidencia": "Modelar ameaças e justificar controles e limites, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SE",
+      "SEC"
+    ],
+    "referencias_candidatas": [
+      "B12",
+      "B13",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SWE07",
+    "nome": "Desenvolvimento seguro e privacidade",
+    "eixo": "SWE",
+    "etapa": 7,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "SWE06",
+      "SWE03"
+    ],
+    "conhecimentos": [
+      "segredos",
+      "dependências",
+      "dados pessoais",
+      "revisão"
+    ],
+    "habilidades": [
+      "avaliar um fluxo de dados e testar controles em ambiente autorizado"
+    ],
+    "metodologia": "projeto incremental, revisão, testes e avaliação de decisões",
+    "evidencia": "Avaliar um fluxo de dados e testar controles em ambiente autorizado, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SE",
+      "SEC"
+    ],
+    "referencias_candidatas": [
+      "B12",
+      "B13",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "SWE08",
+    "nome": "Engenharia de software experimental",
+    "eixo": "SWE",
+    "etapa": 7,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "FND06",
+      "SWE04",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "desenhos experimentais",
+      "validade",
+      "replicação"
+    ],
+    "habilidades": [
+      "planejar um experimento sem confundir observações e réplicas"
+    ],
+    "metodologia": "projeto incremental, revisão, testes e avaliação de decisões",
+    "evidencia": "Planejar um experimento sem confundir observações e réplicas, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SE",
+      "SEC"
+    ],
+    "referencias_candidatas": [
+      "B12",
+      "B13",
+      "B16"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "DAT01",
+    "nome": "Bancos de dados e modelagem",
+    "eixo": "DAT",
+    "etapa": 4,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "ALG01"
+    ],
+    "conhecimentos": [
+      "modelo relacional",
+      "SQL",
+      "normalização"
+    ],
+    "habilidades": [
+      "modelar dados e verificar restrições com consultas e testes"
+    ],
+    "metodologia": "modelagem de dados, consultas, análise e avaliação de resultados",
+    "evidencia": "Modelar dados e verificar restrições com consultas e testes, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "DM"
+    ],
+    "referencias_candidatas": [
+      "B14",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [
+      "C06"
+    ],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "DAT02",
+    "nome": "Implementação de bancos de dados",
+    "eixo": "DAT",
+    "etapa": 6,
+    "percursos": [
+      "CC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "DAT01",
+      "ALG02",
+      "SYS01"
+    ],
+    "conhecimentos": [
+      "índices",
+      "transações",
+      "concorrência",
+      "recuperação"
+    ],
+    "habilidades": [
+      "explicar um plano de execução e uma garantia transacional"
+    ],
+    "metodologia": "modelagem de dados, consultas, análise e avaliação de resultados",
+    "evidencia": "Explicar um plano de execução e uma garantia transacional, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "DM"
+    ],
+    "referencias_candidatas": [
+      "B14",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [
+      "C06"
+    ],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "DAT03",
+    "nome": "Engenharia de dados e integração",
+    "eixo": "DAT",
+    "etapa": 7,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "DAT01",
+      "NET02"
+    ],
+    "conhecimentos": [
+      "pipelines",
+      "qualidade",
+      "integração",
+      "proveniência"
+    ],
+    "habilidades": [
+      "construir um pipeline com contratos e rastreabilidade"
+    ],
+    "metodologia": "modelagem de dados, consultas, análise e avaliação de resultados",
+    "evidencia": "Construir um pipeline com contratos e rastreabilidade, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "DM"
+    ],
+    "referencias_candidatas": [
+      "B14",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "DAT04",
+    "nome": "Recuperação de informação",
+    "eixo": "DAT",
+    "etapa": 6,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "ALG03",
+      "DAT01",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "indexação",
+      "ranking",
+      "relevância"
+    ],
+    "habilidades": [
+      "comparar métodos de recuperação com um conjunto de avaliação"
+    ],
+    "metodologia": "modelagem de dados, consultas, análise e avaliação de resultados",
+    "evidencia": "Comparar métodos de recuperação com um conjunto de avaliação, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "DM"
+    ],
+    "referencias_candidatas": [
+      "B14",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "DAT05",
+    "nome": "Análise e visualização de dados",
+    "eixo": "DAT",
+    "etapa": 5,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "DAT01",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "exploração",
+      "gráficos",
+      "comunicação",
+      "incerteza"
+    ],
+    "habilidades": [
+      "produzir uma análise que distingue descrição e inferência"
+    ],
+    "metodologia": "modelagem de dados, consultas, análise e avaliação de resultados",
+    "evidencia": "Produzir uma análise que distingue descrição e inferência, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "DM"
+    ],
+    "referencias_candidatas": [
+      "B14",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "DAT06",
+    "nome": "Mineração de dados e big data",
+    "eixo": "DAT",
+    "etapa": 8,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "DAT05",
+      "SYS02"
+    ],
+    "conhecimentos": [
+      "padrões",
+      "processamento",
+      "escalabilidade"
+    ],
+    "habilidades": [
+      "avaliar uma abordagem de mineração e seus custos"
+    ],
+    "metodologia": "modelagem de dados, consultas, análise e avaliação de resultados",
+    "evidencia": "Avaliar uma abordagem de mineração e seus custos, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "DM"
+    ],
+    "referencias_candidatas": [
+      "B14",
+      "B09"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "IA01",
+    "nome": "Inteligência artificial",
+    "eixo": "IA",
+    "etapa": 6,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "ALG03",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "busca",
+      "representação",
+      "raciocínio"
+    ],
+    "habilidades": [
+      "comparar estratégias de busca com critérios explícitos"
+    ],
+    "metodologia": "comparação com linha de base, separação de dados e análise de erros",
+    "evidencia": "Comparar estratégias de busca com critérios explícitos, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AI"
+    ],
+    "referencias_candidatas": [
+      "B08",
+      "B09",
+      "B15"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "IA02",
+    "nome": "Aprendizado de máquina",
+    "eixo": "IA",
+    "etapa": 7,
+    "percursos": [
+      "CC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "IA01",
+      "MAT06",
+      "DAT05"
+    ],
+    "conhecimentos": [
+      "supervisão",
+      "validação",
+      "regularização",
+      "métricas"
+    ],
+    "habilidades": [
+      "comparar um modelo com linha de base sem vazamento de dados"
+    ],
+    "metodologia": "comparação com linha de base, separação de dados e análise de erros",
+    "evidencia": "Comparar um modelo com linha de base sem vazamento de dados, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AI"
+    ],
+    "referencias_candidatas": [
+      "B08",
+      "B09",
+      "B15"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "IA03",
+    "nome": "Aprendizado profundo",
+    "eixo": "IA",
+    "etapa": 8,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "IA02",
+      "MAT09"
+    ],
+    "conhecimentos": [
+      "redes neurais",
+      "gradientes",
+      "otimização"
+    ],
+    "habilidades": [
+      "treinar e avaliar uma rede com análise de erros e recursos"
+    ],
+    "metodologia": "comparação com linha de base, separação de dados e análise de erros",
+    "evidencia": "Treinar e avaliar uma rede com análise de erros e recursos, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AI"
+    ],
+    "referencias_candidatas": [
+      "B15",
+      "B27"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "IA04",
+    "nome": "Visão computacional e processamento de imagens",
+    "eixo": "IA",
+    "etapa": 8,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "IA02",
+      "SIN02"
+    ],
+    "conhecimentos": [
+      "representação",
+      "filtros",
+      "reconhecimento"
+    ],
+    "habilidades": [
+      "avaliar um método de visão com separação de dados"
+    ],
+    "metodologia": "comparação com linha de base, separação de dados e análise de erros",
+    "evidencia": "Avaliar um método de visão com separação de dados, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AI"
+    ],
+    "referencias_candidatas": [
+      "B08",
+      "B09",
+      "B15"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "IA05",
+    "nome": "Processamento de linguagem natural",
+    "eixo": "IA",
+    "etapa": 8,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "IA02",
+      "DAT04"
+    ],
+    "conhecimentos": [
+      "representações",
+      "modelos",
+      "avaliação"
+    ],
+    "habilidades": [
+      "avaliar uma tarefa de linguagem com métricas e limitações"
+    ],
+    "metodologia": "comparação com linha de base, separação de dados e análise de erros",
+    "evidencia": "Avaliar uma tarefa de linguagem com métricas e limitações, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AI"
+    ],
+    "referencias_candidatas": [
+      "B08",
+      "B09",
+      "B15"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "IA06",
+    "nome": "Aprendizado por reforço e agentes",
+    "eixo": "IA",
+    "etapa": 8,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "IA02",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "decisão sequencial",
+      "exploração",
+      "recompensa"
+    ],
+    "habilidades": [
+      "comparar políticas em simulação com múltiplas execuções independentes"
+    ],
+    "metodologia": "comparação com linha de base, separação de dados e análise de erros",
+    "evidencia": "Comparar políticas em simulação com múltiplas execuções independentes, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AI"
+    ],
+    "referencias_candidatas": [
+      "B08",
+      "B09",
+      "B15"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "IA07",
+    "nome": "IA responsável e avaliação de modelos generativos",
+    "eixo": "IA",
+    "etapa": 9,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "IA03",
+      "SWE07"
+    ],
+    "conhecimentos": [
+      "viés",
+      "robustez",
+      "rastreabilidade",
+      "avaliação"
+    ],
+    "habilidades": [
+      "definir e executar uma avaliação delimitada de um modelo"
+    ],
+    "metodologia": "comparação com linha de base, separação de dados e análise de erros",
+    "evidencia": "Definir e executar uma avaliação delimitada de um modelo, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "AI"
+    ],
+    "referencias_candidatas": [
+      "B08",
+      "B09",
+      "B15"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "HCI01",
+    "nome": "Interação humano-computador",
+    "eixo": "HCI",
+    "etapa": 5,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "SWE01"
+    ],
+    "conhecimentos": [
+      "tarefas",
+      "interação",
+      "usabilidade",
+      "avaliação"
+    ],
+    "habilidades": [
+      "prototipar uma interface e justificar o plano de avaliação"
+    ],
+    "metodologia": "prototipação, avaliação de interação e inspeção de acessibilidade",
+    "evidencia": "Prototipar uma interface e justificar o plano de avaliação, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "HCI",
+      "GIT",
+      "SPD"
+    ],
+    "referencias_candidatas": [
+      "B24"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.",
+      "Selecionar material de plataforma/gráficos/acessibilidade conforme o recorte; a referência geral de IHC não cobre todo o programa."
+    ]
+  },
+  {
+    "id": "HCI02",
+    "nome": "Acessibilidade e design inclusivo",
+    "eixo": "HCI",
+    "etapa": 6,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "HCI01"
+    ],
+    "conhecimentos": [
+      "barreiras",
+      "tecnologias assistivas",
+      "critérios"
+    ],
+    "habilidades": [
+      "identificar barreiras e verificar correções com critérios explícitos"
+    ],
+    "metodologia": "prototipação, avaliação de interação e inspeção de acessibilidade",
+    "evidencia": "Identificar barreiras e verificar correções com critérios explícitos, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "HCI",
+      "GIT",
+      "SPD"
+    ],
+    "referencias_candidatas": [
+      "B24"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.",
+      "Selecionar material de plataforma/gráficos/acessibilidade conforme o recorte; a referência geral de IHC não cobre todo o programa."
+    ]
+  },
+  {
+    "id": "HCI03",
+    "nome": "Computação gráfica e geometria computacional",
+    "eixo": "HCI",
+    "etapa": 6,
+    "percursos": [
+      "CC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT06",
+      "ALG03"
+    ],
+    "conhecimentos": [
+      "transformações",
+      "rasterização",
+      "geometria"
+    ],
+    "habilidades": [
+      "implementar uma transformação gráfica e verificar seu resultado"
+    ],
+    "metodologia": "prototipação, avaliação de interação e inspeção de acessibilidade",
+    "evidencia": "Implementar uma transformação gráfica e verificar seu resultado, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "HCI",
+      "GIT",
+      "SPD"
+    ],
+    "referencias_candidatas": [
+      "B24"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.",
+      "Selecionar material de plataforma/gráficos/acessibilidade conforme o recorte; a referência geral de IHC não cobre todo o programa."
+    ]
+  },
+  {
+    "id": "HCI04",
+    "nome": "Desenvolvimento web e móvel",
+    "eixo": "HCI",
+    "etapa": 7,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "NET02",
+      "HCI01",
+      "SWE03"
+    ],
+    "conhecimentos": [
+      "interfaces",
+      "estado",
+      "APIs",
+      "plataformas"
+    ],
+    "habilidades": [
+      "construir uma aplicação com testes e avaliação de interação"
+    ],
+    "metodologia": "prototipação, avaliação de interação e inspeção de acessibilidade",
+    "evidencia": "Construir uma aplicação com testes e avaliação de interação, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "HCI",
+      "GIT",
+      "SPD"
+    ],
+    "referencias_candidatas": [
+      "B24"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.",
+      "Selecionar material de plataforma/gráficos/acessibilidade conforme o recorte; a referência geral de IHC não cobre todo o programa."
+    ]
+  },
+  {
+    "id": "HCI05",
+    "nome": "Jogos, realidade virtual e aumentada",
+    "eixo": "HCI",
+    "etapa": 7,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "HCI03",
+      "PRG03"
+    ],
+    "conhecimentos": [
+      "simulação",
+      "interação",
+      "renderização"
+    ],
+    "habilidades": [
+      "construir um protótipo e medir uma restrição técnica"
+    ],
+    "metodologia": "prototipação, avaliação de interação e inspeção de acessibilidade",
+    "evidencia": "Construir um protótipo e medir uma restrição técnica, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "HCI",
+      "GIT",
+      "SPD"
+    ],
+    "referencias_candidatas": [
+      "B24"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.",
+      "Selecionar material de plataforma/gráficos/acessibilidade conforme o recorte; a referência geral de IHC não cobre todo o programa."
+    ]
+  },
+  {
+    "id": "HCI06",
+    "nome": "Computação gráfica avançada e renderização",
+    "eixo": "HCI",
+    "etapa": 7,
+    "percursos": [],
+    "natureza": "aprofundamento",
+    "pre_requisitos": [
+      "HCI03",
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "transporte de luz",
+      "amostragem",
+      "renderização"
+    ],
+    "habilidades": [
+      "implementar e avaliar um método de renderização delimitado"
+    ],
+    "metodologia": "prototipação, avaliação de interação e inspeção de acessibilidade",
+    "evidencia": "Implementar e avaliar um método de renderização delimitado, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "HCI",
+      "GIT",
+      "SPD"
+    ],
+    "referencias_candidatas": [
+      "B23"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRO01",
+    "nome": "Ética, sociedade e responsabilidade profissional",
+    "eixo": "PRO",
+    "etapa": 2,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "FND01"
+    ],
+    "conhecimentos": [
+      "impactos",
+      "responsabilidade",
+      "decisões"
+    ],
+    "habilidades": [
+      "analisar um caso técnico com partes afetadas e consequências"
+    ],
+    "metodologia": "estudo de caso, projeto integrador e revisão por pares",
+    "evidencia": "Analisar um caso técnico com partes afetadas e consequências, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP",
+      "SE"
+    ],
+    "referencias_candidatas": [
+      "B16",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRO02",
+    "nome": "Direito, propriedade intelectual e proteção de dados",
+    "eixo": "PRO",
+    "etapa": 4,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRO01"
+    ],
+    "conhecimentos": [
+      "licenças",
+      "direitos",
+      "governança de dados"
+    ],
+    "habilidades": [
+      "identificar obrigações aplicáveis e registrar pontos que exigem validação jurídica"
+    ],
+    "metodologia": "estudo de caso, projeto integrador e revisão por pares",
+    "evidencia": "Identificar obrigações aplicáveis e registrar pontos que exigem validação jurídica, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP",
+      "SE"
+    ],
+    "referencias_candidatas": [
+      "B16",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRO03",
+    "nome": "Economia, gestão e empreendedorismo",
+    "eixo": "PRO",
+    "etapa": 5,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "MAT07"
+    ],
+    "conhecimentos": [
+      "custos",
+      "viabilidade",
+      "projetos",
+      "inovação"
+    ],
+    "habilidades": [
+      "avaliar a viabilidade de uma solução com hipóteses de custo"
+    ],
+    "metodologia": "estudo de caso, projeto integrador e revisão por pares",
+    "evidencia": "Avaliar a viabilidade de uma solução com hipóteses de custo, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP",
+      "SE"
+    ],
+    "referencias_candidatas": [
+      "B16",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRO04",
+    "nome": "Sustentabilidade e impacto ambiental",
+    "eixo": "PRO",
+    "etapa": 5,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "PRO01"
+    ],
+    "conhecimentos": [
+      "energia",
+      "ciclo de vida",
+      "descarte"
+    ],
+    "habilidades": [
+      "comparar alternativas considerando energia e ciclo de vida"
+    ],
+    "metodologia": "estudo de caso, projeto integrador e revisão por pares",
+    "evidencia": "Comparar alternativas considerando energia e ciclo de vida, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP",
+      "SE"
+    ],
+    "referencias_candidatas": [
+      "B16",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRO05",
+    "nome": "Projeto integrador de software",
+    "eixo": "PRO",
+    "etapa": 7,
+    "percursos": [
+      "CC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "SWE05",
+      "DAT01",
+      "HCI01"
+    ],
+    "conhecimentos": [
+      "integração",
+      "validação",
+      "documentação"
+    ],
+    "habilidades": [
+      "entregar um protótipo com requisitos, testes e avaliação"
+    ],
+    "metodologia": "estudo de caso, projeto integrador e revisão por pares",
+    "evidencia": "Entregar um protótipo com requisitos, testes e avaliação, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP",
+      "SE"
+    ],
+    "referencias_candidatas": [
+      "B16",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRO06",
+    "nome": "Projeto integrador de hardware e software",
+    "eixo": "PRO",
+    "etapa": 10,
+    "percursos": [
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "SIN06",
+      "ELE05",
+      "SWE03"
+    ],
+    "conhecimentos": [
+      "codesign",
+      "integração",
+      "validação"
+    ],
+    "habilidades": [
+      "entregar um protótipo integrado com medições e limites"
+    ],
+    "metodologia": "estudo de caso, projeto integrador e revisão por pares",
+    "evidencia": "Entregar um protótipo integrado com medições e limites, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP",
+      "SE"
+    ],
+    "referencias_candidatas": [
+      "B16",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  },
+  {
+    "id": "PRO07",
+    "nome": "Pesquisa, extensão, estágio e trabalho final",
+    "eixo": "PRO",
+    "etapa": 9,
+    "percursos": [
+      "CC",
+      "EC"
+    ],
+    "natureza": "nucleo_proposto",
+    "pre_requisitos": [
+      "FND06",
+      "SWE04"
+    ],
+    "conhecimentos": [
+      "investigação",
+      "prática supervisionada",
+      "contribuição"
+    ],
+    "habilidades": [
+      "documentar um trabalho com pergunta, método, evidências e defesa"
+    ],
+    "metodologia": "estudo de caso, projeto integrador e revisão por pares",
+    "evidencia": "Documentar um trabalho com pergunta, método, evidências e defesa, com artefato e justificativa.",
+    "cs2023_proposto": [
+      "SEP",
+      "SE"
+    ],
+    "referencias_candidatas": [
+      "B16",
+      "B21"
+    ],
+    "status_decisao": "PROPOSTO",
+    "status_avaliacao_cientifica": "NÃO VERIFICADO",
+    "cursos": [],
+    "lacunas": [
+      "Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada."
+    ]
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "nome": "Green Tea Press",
+    "url": "https://greenteapress.com/wp/",
+    "decisao": "incluir_links",
+    "status": "CONFIRMADO",
+    "motivo": "página do editor/autor e condições de livros examinadas; conferir licença de cada título",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "Invent with Python",
+    "url": "https://inventwithpython.com/",
+    "decisao": "incluir_links",
+    "status": "CONFIRMADO",
+    "motivo": "página do autor e leitura online confirmadas; redistribuição depende da obra",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "Javanotes",
+    "url": "https://math.hws.edu/javanotes/",
+    "decisao": "incluir_links",
+    "status": "CONFIRMADO",
+    "motivo": "obra universitária, versão 9 e acesso online confirmados",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "AOSA",
+    "url": "https://aosabook.org/en/index.html",
+    "decisao": "incluir_links",
+    "status": "CONFIRMADO",
+    "motivo": "coleção de estudos de caso confirmada no site da obra",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "Google SRE",
+    "url": "https://sre.google/books/",
+    "decisao": "incluir_links",
+    "status": "CONFIRMADO",
+    "motivo": "rota atual do domínio do editor; volumes online, sem presumir licença aberta",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "Ebook Foundation",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "decisao": "descoberta",
+    "status": "CONFIRMADO",
+    "motivo": "índice de descoberta; cada obra exige verificação no destino",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "NeurIPS Proceedings",
+    "url": "https://papers.nips.cc/",
+    "decisao": "artigos_nao_ebooks",
+    "status": "CONFIRMADO",
+    "motivo": "anais científicos; classificar artigos e verificar a versão de cada trabalho",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "PacktPublishing no GitHub",
+    "url": "https://github.com/PacktPublishing",
+    "decisao": "pendente_por_item",
+    "status": "NÃO VERIFICADO",
+    "motivo": "código de exemplos não comprova disponibilidade integral do livro",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "Packt Free Learning",
+    "url": "https://www.packtpub.com/packt/offers/free-learning",
+    "decisao": "pendente",
+    "status": "NÃO VERIFICADO",
+    "motivo": "ofertas e requisitos de cadastro não verificados; nenhuma aquisição realizada",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "O'Reilly arquivo de ebooks",
+    "url": "https://www.oreilly.com/data/free/archive.html",
+    "decisao": "pendente",
+    "status": "NÃO VERIFICADO",
+    "motivo": "página antiga; acesso atual e condições por título não verificados",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "Use The Index, Luke",
+    "url": "https://use-the-index-luke.com/",
+    "decisao": "pendente",
+    "status": "NÃO VERIFICADO",
+    "motivo": "tentativa com www retornou 502; não houve validação do conteúdo nesta etapa",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "Bookboon e TradePub",
+    "url": "https://bookboon.com/en",
+    "decisao": "pendente",
+    "status": "NÃO VERIFICADO",
+    "motivo": "requisitos de acesso e permissão por título não conferidos",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "it-ebooks.info",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "ebook3000.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "smtebooks.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "ebook-dl.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "scanlibs.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "java1234.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "iteblog.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "pdfdrive.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "finelybook.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "jb51.net",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "itebookshare.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "ebook-daraz.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "javazhijia.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "foxgreat.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "0daydown.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "topitbooks.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "ebooks-it.net",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "coderprog.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "libribook.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "oiipdf.com",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "all-ebook.info",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "wowebook.org",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "z-lib.org",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  },
+  {
+    "nome": "libgen.is",
+    "url": null,
+    "decisao": "nao_incluir_sem_verificacao_por_obra",
+    "status": "NÃO VERIFICADO",
+    "motivo": "Mencionado na página indicada; origem autorizada e licença por obra não verificadas. Não houve busca nem download de títulos neste domínio.",
+    "origem": "gist",
+    "consulta_em": "2026-10-30"
+  }
+]
