@@ -2,6 +2,7 @@
 from pathlib import Path
 from urllib.parse import urlparse,unquote
 import json,re,sys
+from relacoes import validate_relations
 ROOT=Path(__file__).resolve().parents[1]
 def check():
     errors=[];checks=0
@@ -16,6 +17,11 @@ def check():
         require(len(ids)==len(set(ids)),f"IDs duplicados em {name}")
         return {x["id"]:x for x in items}
     sub=index(subjects,"disciplinas");ref=index(refs,"referencias");axis=index(axes,"eixos");course=index(courses,"cursos");source=index(sources,"fontes")
+    relations=read("relacoes-fontes");functions=read("funcoes-fontes")
+    index(functions,"funcoes-fontes")
+    relation_errors=validate_relations(relations,subjects,refs,functions)
+    require(not relation_errors,"Relações de fontes inválidas")
+    errors.extend(relation_errors)
     for c in subjects:
         require(c["eixo"] in axis,"Eixo inexistente: "+c["id"])
         require(bool(c["conhecimentos"]) and bool(c["habilidades"]) and bool(c["metodologia"]),"Ficha vazia: "+c["id"])

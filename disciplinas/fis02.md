@@ -49,3 +49,7 @@ Conteúdo de engenharia e ciências básicas. Relacionamento detalhado com CE201
 - Selecionar bibliografia específica: o Volume 1 de física não cobre integralmente esta disciplina.
 
 [Voltar ao catálogo](../curriculo/catalogo.md)
+
+## Fontes, limitações e sugestões de pesquisa
+
+Ver [relações detalhadas desta disciplina](../bibliografia/relacoes/fis02.md), com funções propostas, justificativa, acesso, licença, limites de leitura e autoria das sugestões. Vínculo temático não comprova suporte a uma alegação.

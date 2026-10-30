@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.2.0 — 2026-10-30 — proposta editorial em revisão
+
+- Relações rastreáveis por disciplina e referência, com 14 funções acadêmicas possíveis.
+- Distinção entre limitações de acesso, da fonte e propostas para um estudo.
+- Sugestões de pesquisa com autoria, pergunta, hipótese quando cabível, método e limites; três exemplos identificados como propostas do assistente.
+- Índices de relações e por fonte, páginas por disciplina e exportação CSV.
+- Guia de aprendizagem, modelos de fichamento/relacionamento/pesquisa e verificações de integridade.
+- Implementação vinculada à issue #1; não corresponde a tag ou release publicada.
+
 ## 0.1.0 — 2026-10-30 — proposta editorial
 
 - Catálogo inicial de 108 disciplinas e 16 eixos.

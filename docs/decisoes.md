@@ -10,5 +10,7 @@
 | D06 | PROPOSTO | MIT para código e CC BY 4.0 para conteúdo original | Licenciamento inicial adotado no pacote, sujeito a revisão do mantenedor |
 | D07 | PROPOSTO | GitFlow, Conventional Commits e SemVer | Preferência histórica aplicada ao novo projeto |
 | D08 | DECIDIDO | Publicar repositório público no perfil conectado | Usuário criou o repositório e autorizou a sincronização; arquivos publicados em main e develop |
+| D09 | DECIDIDO | Implementar relações por função acadêmica, com limitações e sugestões de pesquisa | Solicitação explícita do usuário em 30/10/2026; issue #1 |
+| D10 | PROPOSTO | Perguntas exemplificativas sobre testes, compreensão de programação e sensibilidade bayesiana | Assistente; não representam adoção de projeto pelo usuário nem lacunas comprovadas |
 
 As escolhas do assistente não foram convertidas em aprovação científica do usuário. Não há alegação de endosso de qualquer universidade ou entidade.

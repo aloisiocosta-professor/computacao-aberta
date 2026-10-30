@@ -1,6 +1,7 @@
 """Gera a documentação editorial; usa somente a biblioteca padrão."""
 from pathlib import Path
 import json,csv,io
+from relacoes import render_relations
 ROOT=Path(__file__).resolve().parents[1]
 def read(n): return json.loads((ROOT/"data"/(n+".json")).read_text(encoding="utf-8"))
 def write(n,s):
@@ -11,14 +12,14 @@ def table(headers,rows):
     return "| "+" | ".join(headers)+" |\n|"+"|".join("---" for _ in headers)+"|\n"+"\n".join("| "+" | ".join(str(x).replace("|","/").replace("\n"," ") if x is not None else "—" for x in row)+" |" for row in rows)+"\n"
 def export(n,fields,rows):
     f=io.StringIO(newline="")
-    w=csv.DictWriter(f,fieldnames=fields);w.writeheader()
+    w=csv.DictWriter(f,fieldnames=fields,lineterminator="\n");w.writeheader()
     for r in rows:w.writerow({k:";".join(r[k]) if isinstance(r.get(k),list) else r.get(k) for k in fields})
     write(n,f.getvalue())
 def generate():
     subs,axes,refs,courses,sources,filters,samples=[read(x) for x in ("disciplinas","eixos","referencias","cursos","fontes","filtro-ebooks","amostras-matrizes")]
     sub={x["id"]:x for x in subs}; ax={x["id"]:x for x in axes}; ref={x["id"]:x for x in refs}; course={x["id"]:x for x in courses}
     def sl(c,p="../disciplinas/"):return f'[{c["id"]} — {c["nome"]}]({p}{c["id"].lower()}.md)'
-    write("curriculo/catalogo.md","# Catálogo de disciplinas\n\nProposta editorial v0.1.0. Não é uma matriz oficial nem uma enumeração universal de todas as disciplinas existentes. Pré-requisitos e habilidades são propostas; revisão especializada pendente.\n\n"+table(["ID","Disciplina","Eixo","Percursos","Etapa lógica"],[(c["id"],sl(c),c["eixo"],", ".join(c["percursos"]) or "eletiva",c["etapa"]) for c in subs]))
+    write("curriculo/catalogo.md","# Catálogo de disciplinas\n\nProposta editorial v0.2.0. Não é uma matriz oficial nem uma enumeração universal de todas as disciplinas existentes. Pré-requisitos e habilidades são propostas; revisão especializada pendente.\n\n"+table(["ID","Disciplina","Eixo","Percursos","Etapa lógica"],[(c["id"],sl(c),c["eixo"],", ".join(c["percursos"]) or "eletiva",c["etapa"]) for c in subs]))
     for c in subs:
         s=f'# {c["id"]} — {c["nome"]}\n\nEixo: **{ax[c["eixo"]]["nome"]}**. Percursos: {", ".join(c["percursos"]) or "eletiva"}. Etapa lógica: {c["etapa"]}.\n\n'
         s+="Estado: **PROPOSTO**. Avaliação científica: **NÃO VERIFICADO**. Ficha elaborada com assistência de IA; revisão humana pendente. O vínculo com fontes é temático, sem certificação de equivalência.\n\n## Conhecimentos\n\n"+"\n".join("- "+v for v in c["conhecimentos"])
@@ -32,6 +33,7 @@ def generate():
         s+="\nReferência candidata não significa que todo o livro seja obrigatório ou cubra toda a disciplina. Seleção de capítulos e aderência às habilidades requerem revisão. Ver [catálogo bibliográfico](../bibliografia/catalogo.md).\n\n## Correspondência curricular\n\n"
         s+=("Áreas CS2023 propostas: "+", ".join(c["cs2023_proposto"])+". Aproximação editorial por área; unidades de conhecimento e resultados de aprendizagem ainda não auditados." if c["cs2023_proposto"] else "Conteúdo de engenharia e ciências básicas. Relacionamento detalhado com CE2016 e SBC pendente.")
         s+="\n\n## Lacunas\n\n"+"\n".join("- "+x for x in c["lacunas"])+"\n\n[Voltar ao catálogo](../curriculo/catalogo.md)\n"
+        s+="\n## Fontes, limitações e sugestões de pesquisa\n\nVer [relações detalhadas desta disciplina](../bibliografia/relacoes/"+c["id"].lower()+".md), com funções propostas, justificativa, acesso, licença, limites de leitura e autoria das sugestões. Vínculo temático não comprova suporte a uma alegação.\n"
         write("disciplinas/"+c["id"].lower()+".md",s)
     write("curriculo/eixos.md","# Eixos temáticos\n\nOrganização autoral proposta; os 16 eixos locais são diferentes das 17 áreas do CS2023.\n\n"+table(["ID","Eixo","Relação proposta CS2023","Metodologia"],[(a["id"],a["nome"],", ".join(a["cs2023"]) or "engenharia/ciências básicas",a["metodologia"]) for a in axes]))
     for track,name in [("CC","Ciência da Computação"),("EC","Engenharia de Computação")]:
@@ -55,6 +57,7 @@ def generate():
     s+=table(["ID","Título","Autoria","Edição/ano","Tipo","Escopo","Acesso"],[(r["id"],f'[{r["titulo"]}]({r["url"]})',r["autores"],f'{r["edicao"] or "a conferir"} / {r["ano"] or "a conferir"}',r["tipo"],r["escopo"],r["acesso"]) for r in refs])
     s+="\n## Leitura e direitos\n\n"+table(["ID","Leitura realizada","Metadados","Licença da obra","Correções/retratações"],[(r["id"],r["leitura"],r["status_metadados"],r["licenca"],r["correcoes_retratacoes"]["status"]) for r in refs])
     s+="\nA licença do repositório não se aplica aos livros vinculados. Para citar em artigo, registrar edição realmente lida, suporte em página/seção/tabela e verificação de correções. Não há certificação de conformidade ABNT nesta versão.\n"
+    s+="\nConsulte também o [índice por fonte](por-fonte.md), as [relações com disciplinas](relacoes.md), as [funções acadêmicas](funcoes.md) e as [limitações e sugestões de pesquisa](limitacoes-e-pesquisa.md).\n"
     write("bibliografia/catalogo.md",s)
     write("bibliografia/cursos.md","# Cursos e conjuntos de aulas\n\nPáginas de apresentação e programa consultadas; aulas, exercícios e certificação não auditados. Acesso gratuito a partes não garante gratuidade integral.\n\n"+table(["ID","Título","Instituição","Idioma","Limites"],[(c["id"],f'[{c["titulo"]}]({c["url"]})',c["instituicao"],c["idioma"],c["nota"]) for c in courses]))
     write("bibliografia/filtro-ebooks.md","# Filtro de fontes complementares\n\nPonto de partida: [gist indicado](https://gist.github.com/baiwfg2/af827b8b75eebf8ab29f5531a0d265ce?permalink_comment_id=3896162). Corpo e comentários visíveis examinados; comentário 3896162 não isolado na resposta recuperada. Comentários fora de tema não foram tratados como recomendações.\n\nCritério: localizar a obra em autor/editora/universidade/repositório autorizado e verificar condições por título. Leitura gratuita é diferente de autorização de redistribuição. Ausência de verificação não é acusação de irregularidade.\n\n"+table(["Fonte","Decisão","Estado","Motivo"],[(f'[{x["nome"]}]({x["url"]})' if x["url"] else x["nome"],x["decisao"],x["status"],x["motivo"]) for x in filters])+"\nTriagem inicial dos principais candidatos, não auditoria de todos os domínios/comentários. Não houve download de livros, cadastro, compra ou tentativa de contornar acesso.\n")
@@ -68,6 +71,8 @@ def generate():
         if r["doi"]:fields["doi"]=r["doi"]
         bib.append("@"+("article" if r["id"].startswith("P") else "misc")+"{"+r["id"]+",\n"+",\n".join("  "+k+" = {"+v+"}" for k,v in fields.items())+"\n}")
     write("bibliografia/referencias.bib","\n\n".join(bib))
-    print(json.dumps({"disciplinas":len(subs),"eixos":len(axes),"referencias":len(refs),"cursos":len(courses),"areas_cs2023":len(areas),"amostras":len(samples)},ensure_ascii=False))
+    relations,functions=read("relacoes-fontes"),read("funcoes-fontes")
+    render_relations(subs,refs,functions,relations,table,write,export)
+    print(json.dumps({"disciplinas":len(subs),"eixos":len(axes),"referencias":len(refs),"cursos":len(courses),"areas_cs2023":len(areas),"amostras":len(samples),"relacoes_fontes":len(relations),"funcoes":len(functions)},ensure_ascii=False))
 if __name__=="__main__":generate()
 

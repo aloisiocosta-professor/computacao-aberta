@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tema",
+    "nome": "Tema",
+    "finalidade": "Situar a área e seu recorte."
+  },
+  {
+    "id": "conteudo",
+    "nome": "Conteúdo e assunto",
+    "finalidade": "Selecionar conceitos e capítulos pertinentes ao assunto."
+  },
+  {
+    "id": "habilidade",
+    "nome": "Habilidade",
+    "finalidade": "Relacionar material à capacidade que será demonstrada."
+  },
+  {
+    "id": "introducao",
+    "nome": "Introdução",
+    "finalidade": "Contextualizar o tema e a relevância com suporte conferido."
+  },
+  {
+    "id": "problema",
+    "nome": "Problema de pesquisa",
+    "finalidade": "Investigar uma questão ou dificuldade; lacuna exige evidência específica."
+  },
+  {
+    "id": "hipotese",
+    "nome": "Hipótese",
+    "finalidade": "Fundamentar previsão testável; a hipótese do pesquisador deve ser identificada como proposta."
+  },
+  {
+    "id": "objetivo",
+    "nome": "Objetivo",
+    "finalidade": "Informar escolhas; objetivos próprios não exigem citações decorativas."
+  },
+  {
+    "id": "metodologia",
+    "nome": "Metodologia",
+    "finalidade": "Justificar desenho, dados, coleta, análise e limites de inferência."
+  },
+  {
+    "id": "revisao",
+    "nome": "Revisão da literatura",
+    "finalidade": "Comparar conceitos, métodos, resultados e divergências de fontes lidas."
+  },
+  {
+    "id": "consideracoes_finais",
+    "nome": "Considerações finais",
+    "finalidade": "Interpretar resultados próprios à luz de evidências, sem inventar resultados."
+  },
+  {
+    "id": "resumo",
+    "nome": "Resumo",
+    "finalidade": "Sintetizar o trabalho realizado segundo as regras do destino; não preencher com citações obrigatórias."
+  },
+  {
+    "id": "sumario_indice",
+    "nome": "Sumário e índice",
+    "finalidade": "Organizar o trabalho e apontar ao sumário oficial da obra; não reproduzir seu conteúdo integral automaticamente."
+  },
+  {
+    "id": "limitacoes",
+    "nome": "Limitações",
+    "finalidade": "Separar limitações relatadas na fonte, limites de acesso e limites propostos para um estudo."
+  },
+  {
+    "id": "sugestoes_pesquisa",
+    "nome": "Sugestões de pesquisa",
+    "finalidade": "Registrar autoria/origem, justificativa e viabilidade; proposta do assistente não comprova lacuna."
+  }
+]

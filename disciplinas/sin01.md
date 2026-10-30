@@ -50,3 +50,7 @@ Conteúdo de engenharia e ciências básicas. Relacionamento detalhado com CE201
 - Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.
 
 [Voltar ao catálogo](../curriculo/catalogo.md)
+
+## Fontes, limitações e sugestões de pesquisa
+
+Ver [relações detalhadas desta disciplina](../bibliografia/relacoes/sin01.md), com funções propostas, justificativa, acesso, licença, limites de leitura e autoria das sugestões. Vínculo temático não comprova suporte a uma alegação.

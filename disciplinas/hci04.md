@@ -51,3 +51,7 @@ Referência candidata não significa que todo o livro seja obrigatório ou cubra
 - Selecionar material de plataforma/gráficos/acessibilidade conforme o recorte; a referência geral de IHC não cobre todo o programa.
 
 [Voltar ao catálogo](../curriculo/catalogo.md)
+
+## Fontes, limitações e sugestões de pesquisa
+
+Ver [relações detalhadas desta disciplina](../bibliografia/relacoes/hci04.md), com funções propostas, justificativa, acesso, licença, limites de leitura e autoria das sugestões. Vínculo temático não comprova suporte a uma alegação.
