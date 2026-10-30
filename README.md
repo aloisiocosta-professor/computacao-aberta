@@ -2,10 +2,12 @@
 
 Currículo aberto e independente para estudar **Ciência da Computação e Engenharia de Computação**, em português, com fontes rastreáveis e materiais complementares.
 
-**Versão editorial 0.1.0 — proposta inicial, 30/10/2026.** Curadoria produzida com assistência do ChatGPT; avaliação científica e aceite humano pendentes. O projeto não emite diploma, não concede equivalência acadêmica e não representa instituições consultadas.
+**Versão editorial 0.2.0 — proposta em revisão, 30/10/2026.** Curadoria produzida com assistência do ChatGPT; avaliação científica e aceite humano pendentes. O projeto não emite diploma, não concede equivalência acadêmica e não representa instituições consultadas.
 
 ## Comece aqui
 
+- [Como estudar e pesquisar](docs/como-estudar-e-pesquisar.md): roteiro de aprendizagem e uso das fontes.
+- [Relações entre fontes e disciplinas](bibliografia/relacoes.md), [índice por fonte](bibliografia/por-fonte.md), [funções acadêmicas](bibliografia/funcoes.md) e [limitações e sugestões de pesquisa](bibliografia/limitacoes-e-pesquisa.md).
 - [Catálogo: 108 disciplinas](curriculo/catalogo.md), em [16 eixos](curriculo/eixos.md).
 - [Percurso de Ciência da Computação](curriculo/percurso-cc.md) e [Engenharia de Computação](curriculo/percurso-ec.md).
 - [Fontes curriculares e matrizes institucionais](matrizes/fontes-institucionais.md); [amostras rastreáveis](matrizes/amostras-rastreaveis.md).
@@ -32,9 +34,10 @@ Requer Python 3 e Git já disponíveis. Não há dependências Python externas, 
 ```bash
 python3 scripts/gerar.py
 python3 scripts/validar.py
+python3 -m unittest discover -s tests -v
 ```
 
-Edite primeiro os JSON em `data/` e regenere os documentos. CSV e BibTeX são exportações de consulta; os registros bibliográficos ainda requerem revisão antes de uso em artigo.
+Edite primeiro os JSON em `data/` e regenere os documentos. As 232 relações iniciais preservam referências candidatas; nenhuma foi promovida automaticamente a suporte científico confirmado. O vocabulário oferece 14 funções possíveis, sem atribuir todas a cada livro. Três sugestões de pesquisa são exemplos do assistente, não decisões do usuário ou lacunas comprovadas. CSV e BibTeX são exportações de consulta; os registros bibliográficos ainda requerem revisão antes de uso em artigo.
 
 ## Participar e versionar
 

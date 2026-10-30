@@ -49,3 +49,7 @@ Referência candidata não significa que todo o livro seja obrigatório ou cubra
 - Aderência das referências ao programa completo da disciplina ainda requer leitura e revisão especializada.
 
 [Voltar ao catálogo](../curriculo/catalogo.md)
+
+## Fontes, limitações e sugestões de pesquisa
+
+Ver [relações detalhadas desta disciplina](../bibliografia/relacoes/pro03.md), com funções propostas, justificativa, acesso, licença, limites de leitura e autoria das sugestões. Vínculo temático não comprova suporte a uma alegação.

@@ -1,5 +1,15 @@
 # Registro de validação
 
+## Proposta editorial 0.2.0 — relações entre fontes e pesquisa
+
+Validação local em 30/10/2026: ATENDIDO. Foram verificadas 232 relações entre disciplinas e referências e 14 funções acadêmicas. Os 12 testes de regressão passaram, incluindo rejeição de suporte confirmado sem localização, atribuição à fonte sem suporte localizado, relações ausentes/duplicadas e lacuna comprovada sem evidência confirmada.
+
+Os índices, páginas por disciplina e CSV são gerados dos mesmos JSON. A geração foi comparada por hashes antes/depois de nova execução e permaneceu determinística. As relações herdadas continuam PROPOSTAS, com evidência NÃO VERIFICADA. As três sugestões iniciais são exemplos do assistente, não projetos adotados pelo usuário nem recomendações extraídas das obras.
+
+O validador estrutural não certifica a veracidade de uma alegação, a suficiência de uma lacuna, a validade de um estudo ou os direitos de reprodução de um livro. A revisão científica e a leitura das fontes permanecem pendentes. A execução remota específica desta versão será registrada no PR relacionado à issue #1.
+
+## Linha de base 0.1.0
+
 Data: 30/10/2026. Escopo: pacote editorial inicial e primeira publicação remota.
 
 | Verificação executada | Resultado | Limite |

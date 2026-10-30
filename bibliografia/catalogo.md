@@ -69,3 +69,5 @@ Seleção exploratória, não revisão sistemática. Metadados e sumários consu
 | P01 | Metadados e resumo consultados; repositório informa não disponibilizar o texto integral. PDF identificado no portal PRIMM, ainda não lido. | CONFIRMADO | NÃO VERIFICADO | NÃO VERIFICADO |
 
 A licença do repositório não se aplica aos livros vinculados. Para citar em artigo, registrar edição realmente lida, suporte em página/seção/tabela e verificação de correções. Não há certificação de conformidade ABNT nesta versão.
+
+Consulte também o [índice por fonte](por-fonte.md), as [relações com disciplinas](relacoes.md), as [funções acadêmicas](funcoes.md) e as [limitações e sugestões de pesquisa](limitacoes-e-pesquisa.md).

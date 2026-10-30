@@ -23,3 +23,11 @@ Usar [modelo de fichamento](../templates/fichamento.md). Registrar alegação, s
 ## E-books
 
 A inclusão exige origem autorizada para leitura. Redistribuição exige licença específica da obra. Catálogos, bibliotecas comerciais e programas promocionais são descritos como tais. Não baixar nem espelhar livros por padrão. Materiais comerciais podem integrar bibliografia acadêmica com links e metadados; não são anunciados como gratuitos.
+
+## Relações, limitações e sugestões de pesquisa
+
+Os vínculos em data/relacoes-fontes.json relacionam referências às disciplinas e a funções acadêmicas propostas. Assuntos e habilidades da disciplina são diferentes do escopo da obra: o vínculo não prova que a referência cubra todo o programa. Capítulos e localização permanecem vazios até serem conferidos, sem inventar páginas.
+
+Registrar separadamente limites de acesso/leitura, limitações relatadas pelo autor (com localização) e limitações propostas para um estudo (com autoria da proposta). Sugestões exigem autoria/origem, pergunta, justificativa, método, limites e estado de evidência. Uma ideia do assistente não é uma recomendação do autor nem uma lacuna comprovada.
+
+O [guia de uso](como-estudar-e-pesquisar.md) detalha o procedimento. O validador exige localização e alegação para suporte confirmado e localização para limitações/sugestões atribuídas à fonte. A suficiência científica continua dependente de revisão humana.
