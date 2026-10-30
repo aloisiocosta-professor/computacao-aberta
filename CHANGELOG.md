@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.3.0 — 2026-10-30 — reorganização por habilidades em revisão
+
+- Objetivo principal e navegação reorganizados em torno de habilidades, evidências e julgamento prático.
+- 359 tópicos autorais e 88 itens externos registrados, com 447 unidades propostas.
+- Quatro aulas iniciais com exemplos, visualizações, tarefas e código de referência testado.
+- Quatro missões interdisciplinares, perfis pedagógicos, cobertura explícita e protocolo para humanos/agentes.
+- Registro de progresso distingue exposição, prática assistida, independência, transferência e retenção.
+- Base pedagógica com seis fontes, limites de leitura e registro de pesquisa exploratória.
+- Implementação ligada à issue #3; índices externos completos em todos os níveis e eficácia pedagógica ainda não verificados.
+
 ## 0.2.0 — 2026-10-30 — proposta editorial em revisão
 
 - Relações rastreáveis por disciplina e referência, com 14 funções acadêmicas possíveis.

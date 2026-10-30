@@ -1,0 +1,136 @@
+[
+  {
+    "id": "M01",
+    "titulo": "Decidir com dados de consumo simulados",
+    "fase": "iniciante",
+    "disciplinas": [
+      "PRG01",
+      "MAT02",
+      "SWE03"
+    ],
+    "habilidades_requeridas": [
+      "U-PRG01-01",
+      "U-PRG01-02",
+      "U-PRG01-03",
+      "U-PRG01-04"
+    ],
+    "habilidades_introduzidas": [
+      "U-MAT02-01",
+      "U-SWE03-02"
+    ],
+    "problema": "Receber uma lista de consumos fictícios, somar valores e decidir se o total atinge um limite.",
+    "contribuicoes": {
+      "PRG01": "Representar valores, decidir, repetir e decompor.",
+      "MAT02": "Explicitar a proposição que controla a decisão.",
+      "SWE03": "Definir o resultado esperado e testar fronteiras."
+    },
+    "entregas": [
+      "Tabela de rastreamento e regra escrita em linguagem simples",
+      "Programa ou pseudocódigo com resultado abaixo, igual e acima do limite",
+      "Registro de hipótese sobre valores negativos, explicação e apoio recebido"
+    ],
+    "transferencia": "Trocar consumos por quantidades de estoque e explicar quais regras mudaram.",
+    "julgamento": "Escolher como tratar entrada inválida e justificar a consequência de um alerta incorreto.",
+    "limite": "Dados fictícios e regra didática; não estimam consumo real nem certificam domínio de lógica ou testes.",
+    "introducao_na_missao_nao_certifica_disciplina": true
+  },
+  {
+    "id": "M02",
+    "titulo": "Construir uma regra lógica e compará-la com um circuito",
+    "fase": "apos_pre_requisitos",
+    "disciplinas": [
+      "MAT02",
+      "HWD01",
+      "PRG01"
+    ],
+    "habilidades_requeridas": [
+      "U-MAT02-01",
+      "U-HWD01-01",
+      "U-PRG01-02"
+    ],
+    "habilidades_introduzidas": [],
+    "problema": "Uma saída deve ativar quando duas condições forem verdadeiras. Representar a regra no papel e em programa.",
+    "contribuicoes": {
+      "MAT02": "Distinguir proposições e valores de verdade.",
+      "HWD01": "Representar a combinação por portas lógicas em desenho ou simulação.",
+      "PRG01": "Implementar a decisão e comparar as quatro combinações."
+    },
+    "entregas": [
+      "Tabela verdade com quatro entradas possíveis",
+      "Diagrama explicativo e descrição textual",
+      "Comparação entre desenho, regra e programa"
+    ],
+    "transferencia": "Substituir a condição conjunta por uma alternativa e localizar as linhas que mudam.",
+    "julgamento": "Explicar qual diferença entre o modelo lógico e um dispositivo físico ainda não foi avaliada.",
+    "limite": "Não exige montagem ou compra de hardware; o desenho não avalia temporização ou eletrônica real.",
+    "introducao_na_missao_nao_certifica_disciplina": true
+  },
+  {
+    "id": "M03",
+    "titulo": "Interpretar uma leitura de sensor sem esconder a incerteza",
+    "fase": "apos_pre_requisitos",
+    "disciplinas": [
+      "FIS06",
+      "MAT07",
+      "PRG01",
+      "ELE04"
+    ],
+    "habilidades_requeridas": [
+      "U-FIS06-01",
+      "U-MAT07-01",
+      "U-PRG01-03",
+      "U-ELE04-01"
+    ],
+    "habilidades_introduzidas": [],
+    "problema": "Comparar leituras sintéticas e investigar se uma diferença pode ser explicada pelas hipóteses do modelo.",
+    "contribuicoes": {
+      "FIS06": "Identificar calibração e limitações das medições.",
+      "MAT07": "Descrever variabilidade sem atribuir causalidade automaticamente.",
+      "PRG01": "Processar uma sequência de leituras.",
+      "ELE04": "Relacionar resolução e condicionamento à aquisição."
+    },
+    "entregas": [
+      "Tabela de dados sintéticos explicitamente identificados",
+      "Cálculos reproduzíveis e representação com unidades",
+      "Relatório de hipóteses e limites de inferência"
+    ],
+    "transferencia": "Mudar resolução ou processo gerador e analisar a mudança no resultado.",
+    "julgamento": "Decidir quais dados adicionais seriam necessários antes de recomendar uma ação real.",
+    "limite": "Simulação didática não substitui medição, calibração ou avaliação de um equipamento real.",
+    "introducao_na_missao_nao_certifica_disciplina": true
+  },
+  {
+    "id": "M04",
+    "titulo": "Escolher uma rota e defender a decisão",
+    "fase": "apos_pre_requisitos",
+    "disciplinas": [
+      "ALG04",
+      "PRG02",
+      "SWE03",
+      "PRO01"
+    ],
+    "habilidades_requeridas": [
+      "U-ALG04-03",
+      "U-PRG02-01",
+      "U-SWE03-02",
+      "U-PRO01-01"
+    ],
+    "habilidades_introduzidas": [],
+    "problema": "Representar um mapa pequeno como grafo e comparar rotas sob uma função de custo declarada.",
+    "contribuicoes": {
+      "ALG04": "Relacionar caminhos à estrutura do grafo.",
+      "PRG02": "Separar entrada, algoritmo e apresentação.",
+      "SWE03": "Definir oráculos e casos sem caminho.",
+      "PRO01": "Reconhecer quem é afetado pela função de custo."
+    },
+    "entregas": [
+      "Grafo e tabela de custos com descrição textual",
+      "Algoritmo ou simulação com testes",
+      "Justificativa de alternativas e consequências"
+    ],
+    "transferencia": "Alterar o custo para incluir uma restrição e reavaliar a rota.",
+    "julgamento": "Explicar por que a rota de menor custo numérico pode ser inadequada para uma necessidade real.",
+    "limite": "Mapa inventado; não produz recomendação geográfica ou acessibilidade real.",
+    "introducao_na_missao_nao_certifica_disciplina": true
+  }
+]

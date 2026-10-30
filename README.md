@@ -1,35 +1,67 @@
 # Computação Aberta
 
-Currículo aberto e independente para estudar **Ciência da Computação e Engenharia de Computação**, em português, com fontes rastreáveis e materiais complementares.
+**Aprender para conseguir fazer, explicar e decidir.** Um ambiente aberto de aprendizagem prática em Ciência da Computação e Engenharia de Computação, para pessoas e para tarefas verificáveis de agentes de IA.
 
-**Versão editorial 0.2.0 — proposta em revisão, 30/10/2026.** Curadoria produzida com assistência do ChatGPT; avaliação científica e aceite humano pendentes. O projeto não emite diploma, não concede equivalência acadêmica e não representa instituições consultadas.
+O objetivo principal é transformar cada item registrado de índice em uma unidade de habilidade: diagnosticar, representar, tentar, receber feedback, aplicar em outro contexto e reconhecer limites. Ler, ver, ouvir e escrever são meios de construção do conhecimento; o progresso depende de evidências do que o aprendiz consegue fazer.
 
-## Comece aqui
+**Versão editorial 0.3.0 — proposta em revisão, 30/10/2026.** Curadoria e atividades produzidas com assistência do ChatGPT. Avaliação científica/pedagógica independente pendente. O projeto não emite diploma nem certifica sabedoria, consciência ou treinamento permanente de modelos.
 
-- [Como estudar e pesquisar](docs/como-estudar-e-pesquisar.md): roteiro de aprendizagem e uso das fontes.
-- [Relações entre fontes e disciplinas](bibliografia/relacoes.md), [índice por fonte](bibliografia/por-fonte.md), [funções acadêmicas](bibliografia/funcoes.md) e [limitações e sugestões de pesquisa](bibliografia/limitacoes-e-pesquisa.md).
-- [Catálogo: 108 disciplinas](curriculo/catalogo.md), em [16 eixos](curriculo/eixos.md).
-- [Percurso de Ciência da Computação](curriculo/percurso-cc.md) e [Engenharia de Computação](curriculo/percurso-ec.md).
-- [Fontes curriculares e matrizes institucionais](matrizes/fontes-institucionais.md); [amostras rastreáveis](matrizes/amostras-rastreaveis.md).
-- [Correspondências propostas com CS2023](matrizes/correspondencias-cs2023.md).
-- [29 referências bibliográficas](bibliografia/catalogo.md), [sete cursos/conjuntos de aulas](bibliografia/cursos.md) e [filtro de e-books](bibliografia/filtro-ebooks.md).
-- [Metodologia](docs/metodologia.md), [curadoria](docs/curadoria.md), [buscas](docs/buscas.md), [decisões](docs/decisoes.md) e [pendências](docs/backlog.md).
+## Comece pela prática
 
-## O que cada disciplina registra
+| Se você quer… | Abra |
+|---|---|
+| Começar sem formação prévia presumida | [Trilha inicial](aprendizagem/comecar.md) |
+| Fazer a primeira atividade agora | [Representar e atualizar valores](unidades/primeiros-passos/01-variaveis.md) |
+| Encontrar uma habilidade | [Catálogo de habilidades](aprendizagem/habilidades.md) |
+| Integrar áreas em um problema | [Missões interdisciplinares](missoes/README.md) |
+| Registrar o que consegue fazer | [Progresso por evidências](aprendizagem/progresso.md) |
+| Usar um tutor humano ou agente | [Protocolo de tutoria e avaliação](agentes/PROTOCOLO.md) |
 
-Tema/eixo → conhecimentos → habilidade observável → pré-requisitos → metodologia → atividade e avaliação → cursos → referências candidatas → limites de verificação.
+Você pode começar no navegador, com papel e lápis. Python e Git são opcionais para quem vai apenas estudar; a manutenção e os exemplos executáveis usam ferramentas já disponíveis, sem dependências Python externas ou chamadas pagas.
 
-As 108 disciplinas compõem um catálogo extensível, não a soma exaustiva de todas as disciplinas de todas as universidades. Os percursos iniciais selecionam 57 disciplinas para CC e 67 para EC, com 32 aprofundamentos opcionais no catálogo; há sobreposição entre os percursos. Etapas são camadas lógicas, não semestres. Não foram atribuídas cargas horárias fictícias.
+## Estrutura e cobertura real
 
-## Fontes e autoria
+| Camada | Conteúdo atual | Estado |
+|---|---|---|
+| Disciplinas | 108, em 16 eixos | Organização curricular proposta |
+| Índices autorais | 359 tópicos das fichas | Numerados localmente; não são índices oficiais externos |
+| Índices de cursos | 88 itens em sete recursos | Recorte de primeiro nível; subitens internos pendentes |
+| Unidades de habilidade | 447 vínculos item → unidade | 4 aulas iniciais e 443 roteiros a desenvolver/revisar |
+| Missões | 4 problemas integradores | Propostas com contribuições por disciplina |
+| Fontes relacionadas | 232 relações e 14 funções acadêmicas | Candidatas; suporte científico não confirmado automaticamente |
 
-A [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) é a referência principal de orientação e descoberta. CS2023, CE2016, SBC e matrizes institucionais ampliam a comparação. A taxonomia, fichas e habilidades deste projeto são propostas autorais, não currículos oficiais transcritos. Ver [atribuições](NOTICE.md).
+Confira o [relatório de cobertura](aprendizagem/cobertura.md). Nenhuma aula foi declarada assistida e nenhum progresso pessoal foi preenchido. Conhecer os títulos de um índice não significa ter lido seu conteúdo. As aulas iniciais têm exemplos e tarefas; os roteiros exigem um exemplo concreto e revisão antes de serem anunciados como aulas completas.
 
-O [gist indicado](https://gist.github.com/baiwfg2/af827b8b75eebf8ab29f5531a0d265ce?permalink_comment_id=3896162) é uma lista de descoberta; os destinos são filtrados por origem e condições de acesso. Não hospedamos livros de terceiros. Leitura gratuita não implica licença para redistribuir.
+## Como uma unidade funciona
 
-## Editar e verificar
+Problema e previsão → modelo visual com descrição textual → exemplo guiado → prática com apoio decrescente → tarefa independente → evidência e feedback → transferência, decisão e retomada.
 
-Requer Python 3 e Git já disponíveis. Não há dependências Python externas, instalação automática ou chamada paga.
+A pessoa ou o agente precisa justificar escolhas e reconhecer uma condição em que o modelo deixa de servir. Chamamos isso de julgamento prático, como objetivo operacional do projeto; não é medida validada de sabedoria.
+
+Leia a [fundamentação pedagógica](pedagogia/fundamentos.md), a [base de evidências e limites de leitura](pedagogia/base-evidencias.md) e o [registro da pesquisa](pedagogia/buscas.md). A mesma estrutura de unidade pode orientar humanos e agentes, com critérios próprios de avaliação e atribuição do desempenho.
+
+## Consultar disciplinas e fontes
+
+- [Catálogo de disciplinas](curriculo/catalogo.md), [eixos](curriculo/eixos.md), [percurso CC](curriculo/percurso-cc.md) e [percurso EC](curriculo/percurso-ec.md).
+- [Matrizes institucionais](matrizes/fontes-institucionais.md), [amostras rastreáveis](matrizes/amostras-rastreaveis.md) e [correspondências propostas CS2023](matrizes/correspondencias-cs2023.md).
+- [Bibliografia](bibliografia/catalogo.md), [cursos](bibliografia/cursos.md), [fontes por função](bibliografia/funcoes.md), [relações](bibliografia/relacoes.md) e [índice por fonte](bibliografia/por-fonte.md).
+- [Limitações e sugestões de pesquisa](bibliografia/limitacoes-e-pesquisa.md), [como estudar e pesquisar](docs/como-estudar-e-pesquisar.md) e [filtro de e-books](bibliografia/filtro-ebooks.md).
+
+A [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) permanece a referência principal de orientação e descoberta. As matrizes, livros e cursos complementam a organização autoral. O [gist indicado pelo usuário](https://gist.github.com/baiwfg2/af827b8b75eebf8ab29f5531a0d265ce?permalink_comment_id=3896162) é usado para descoberta com verificação de origem e direitos por obra. Não hospedamos livros de terceiros. Ver [atribuições](NOTICE.md) e [curadoria](docs/curadoria.md).
+
+## Para agentes e mantenedores
+
+As instruções podem ser consultadas de forma estruturada:
+
+```bash
+python3 scripts/trilhar.py plano
+python3 scripts/trilhar.py unidade U-PRG01-01
+python3 scripts/trilhar.py verificar-progresso data/progresso.exemplo.json
+```
+
+Esses comandos não executam código do aprendiz nem certificam aquisição de habilidade. Leia [AGENTS.md](AGENTS.md) e o protocolo antes de tutorar ou avaliar. Artefatos de um agente não são evidência de desempenho independente do humano.
+
+Para editar, altere primeiro os JSON em data/ e regenere as páginas. Índices, unidades e perfis ficam separados para preservar origem, cobertura e revisão. CSV e BibTeX são exportações de consulta.
 
 ```bash
 python3 scripts/gerar.py
@@ -37,19 +69,6 @@ python3 scripts/validar.py
 python3 -m unittest discover -s tests -v
 ```
 
-Edite primeiro os JSON em `data/` e regenere os documentos. As 232 relações iniciais preservam referências candidatas; nenhuma foi promovida automaticamente a suporte científico confirmado. O vocabulário oferece 14 funções possíveis, sem atribuir todas a cada livro. Três sugestões de pesquisa são exemplos do assistente, não decisões do usuário ou lacunas comprovadas. CSV e BibTeX são exportações de consulta; os registros bibliográficos ainda requerem revisão antes de uso em artigo.
+Ver [validação](docs/validacao.md), [decisões](docs/decisoes.md), [pendências](docs/backlog.md) e [CONTRIBUTING](CONTRIBUTING.md). Fluxo: feature/*, PR ligado à issue, revisão, develop e main. Versões editoriais usam SemVer, sem criar tags ou releases automaticamente. A reorganização está ligada à issue #3 e continua as relações de fontes propostas no PR #2.
 
-## Participar e versionar
-
-Leia [CONTRIBUTING](CONTRIBUTING.md). Fluxo: branches `main`, `develop` e `feature/*`; Conventional Commits; SemVer para versões editoriais. Alterações devem apontar uma issue e critérios de aceite. A versão 0.1.0 não implica tag ou release publicada.
-
-## Estado atual
-
-- Estrutura e dados iniciais: implementados.
-- Validação automatizada estrutural: ver [relatório](docs/validacao.md).
-- Leitura integral das obras e auditoria de todas as aulas: pendentes.
-- Cobertura integral de competências SBC/CE2016/CS2023: não verificada.
-- Repositório publicado: [aloisiocosta-professor/computacao-aberta](https://github.com/aloisiocosta-professor/computacao-aberta), com branches `main` e `develop`.
-- Primeira validação remota: [GitHub Actions — execução aprovada](https://github.com/aloisiocosta-professor/computacao-aberta/actions/runs/41068161809).
-
-Código original: MIT. Documentação e organização editorial originais: CC BY 4.0. Obras externas conservam suas próprias condições. Ver [licenciamento](LICENSE).
+Código original: MIT. Documentação e organização editorial originais: CC BY 4.0. Obras vinculadas preservam seus próprios direitos. Ver [licenciamento](LICENSE).

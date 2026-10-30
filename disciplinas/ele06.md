@@ -52,3 +52,7 @@ Conteúdo de engenharia e ciências básicas. Relacionamento detalhado com CE201
 ## Fontes, limitações e sugestões de pesquisa
 
 Ver [relações detalhadas desta disciplina](../bibliografia/relacoes/ele06.md), com funções propostas, justificativa, acesso, licença, limites de leitura e autoria das sugestões. Vínculo temático não comprova suporte a uma alegação.
+
+## Treinar os itens do índice
+
+Abrir as [unidades de habilidade](../unidades/por-disciplina/ele06.md): cada tópico autoral está numerado e vinculado a um roteiro de prática, evidência, feedback e transferência. Os itens externos identificam o índice e seu recorte de cobertura.
