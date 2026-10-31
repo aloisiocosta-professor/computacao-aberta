@@ -1,6 +1,6 @@
 # Ontologia curricular com Open Ontologies
 
-**Estado editorial: PROPOSTO. Validação estrutural: ATENDIDO nos casos executados. Certificado independente: NÃO VERIFICADO na execução local.**
+**Estado editorial: PROPOSTO. Validação estrutural: ATENDIDO nos casos executados. Certificado independente: CONFIRMADO no CI; execução local do checker indisponível.**
 
 A ontologia torna explícito o significado das relações do currículo: uma disciplina pertence a um eixo, uma unidade tem pré-requisitos e uma referência pode ser apenas candidata. O [Open Ontologies](https://github.com/fabio-rovai/open-ontologies), versão fixada 2.1.0, consulta e valida essas relações. Não há afirmações de domínio por um estudante ou treinamento permanente de um agente.
 
@@ -12,7 +12,7 @@ A ontologia torna explícito o significado das relações do currículo: uma dis
 | Dados | [Dados RDF](dados.ttl) e [currículo completo](curriculo.ttl) | Exportação dos JSON existentes, com arquivo e hash de origem |
 | Restrições | [Formas SHACL](formas.ttl) | Cardinalidade, tipo dos alvos, estados e ciclos de pré-requisitos |
 | Perguntas | [Contagem](consultas/contagem.rq), [pré-requisitos](consultas/pre-requisitos.rq), [missões](consultas/missoes.rq) e [fontes para metodologia](consultas/fontes-metodologia.rq) | Consultas SPARQL reproduzíveis |
-| Proveniência | [Manifesto](manifesto.json) e [verificação local](verificacao.json) | Contagens, hashes, resultados obtidos e limites |
+| Proveniência | [Manifesto](manifesto.json) e [verificação local](verificacao.json) e [verificação no CI](verificacao-ci.json) | Contagens, hashes, resultados obtidos e limites |
 | Evolução | [Verificador nativo](../scripts/verificar_ontologia.py) | Planejar, simular aplicação e reverter uma alteração em sandbox |
 
 São 857 recursos: 16 eixos, 108 disciplinas, 447 unidades, 29 referências, sete cursos, quatro missões, 14 funções acadêmicas e 232 relações com fontes. O conjunto completo tem 10.884 triplas afirmadas. O vocabulário tem dez classes declaradas e 19 propriedades; contagens internas do motor podem incluir termos adicionais reconhecidos pelo seu critério de estatística.
@@ -61,7 +61,7 @@ O motor retornou zero ocorrências de lint no esquema, zero violações SHACL no
 
 O plano não significa “todas as consequências conhecidas”: a conservatividade veio como `undecided_not_an_extension`, pois a proposta remove afirmações. A avaliação lógica não foi informada nesse retorno da release. O próprio relatório preserva esses limites. `apply` não é uma aprovação automática de um plano; aqui ele foi executado deliberadamente apenas na sandbox para testar a reversão.
 
-A execução RDFS alcançou ponto fixo com 1.310 inferências e gerou um certificado temporário. O binário independente `oo-cert`, com SHA256 conferido, terminou com `uncaught exception: failed to locate application`. Portanto, não afirmamos certificado aceito, prova formal rechecada ou recusa de certificado forjado. O relatório registra a falha; os arquivos temporários são removidos ao terminar e podem ser regenerados pelo roteiro.
+A execução RDFS alcançou ponto fixo com 1.310 inferências e gerou um certificado temporário. O binário independente `oo-cert`, com SHA256 conferido, terminou com `uncaught exception: failed to locate application`. Essa execução local não verificou o certificado. No [CI remoto](https://github.com/aloisiocosta-professor/computacao-aberta/actions/runs/41224074176), o mesmo checker fixado retornou `ok: true`, confirmou 10.884 afirmações e 1.310 derivações e identificou `OOCert.certificate_sound`. Os dois resultados foram preservados separadamente. A aceitação é sobre as derivações a partir das premissas fornecidas, não sobre a verdade científica dessas premissas. O roteiro também testa a rejeição de uma conclusão adulterada quando o checker consegue executar. Os arquivos temporários são removidos ao terminar e podem ser regenerados pelo roteiro.
 
 A conformidade mede estas restrições sobre estes dados; não estabelece verdade empírica, qualidade de uma referência ou aprendizagem. As obras vinculadas não foram lidas integralmente nesta integração. A revisão humana do vocabulário, das formas e dos vínculos científicos continua pendente.
 

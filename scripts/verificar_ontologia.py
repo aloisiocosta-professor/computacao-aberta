@@ -67,6 +67,20 @@ def verify(binary, checker=None):
             try:answer=json.loads(p.stdout)
             except ValueError:answer=None
             formal=dict(status='CONFIRMADO' if p.returncode==0 and answer and answer.get('ok') is True else 'NÃO VERIFICADO',exit_code=p.returncode,resposta=answer,stderr=p.stderr.strip()[:500])
+            if formal['status']=='CONFIRMADO':
+                expected=out[-1]['certificate']
+                if answer.get('asserted')!=expected['asserted'] or answer.get('derivations')!=expected['derivations']:
+                    raise ValueError('Checker aceitou contagens diferentes do certificado gerado')
+                rows=(certificate/'derivations.tsv').read_text(encoding='utf-8').splitlines()
+                if not rows:raise ValueError('Certificado sem derivações para testar')
+                fields=rows[0].split('\t');fields[3]='<urn:computacao-aberta:conclusao-adulterada>';rows[0]='\t'.join(fields)
+                forged=temp/'adulterado.tsv';forged.write_text('\n'.join(rows)+'\n',encoding='utf-8')
+                bad_check=subprocess.run([str(checker),str(certificate/'asserted.tsv'),str(forged)],capture_output=True,text=True,encoding='utf-8',timeout=30)
+                try:bad_answer=json.loads(bad_check.stdout)
+                except ValueError:raise ValueError('Checker não forneceu rejeição estruturada')
+                if bad_check.returncode==0 or bad_answer.get('ok') is not False:raise ValueError('Checker não rejeitou certificado adulterado')
+                formal['certificado_adulterado']={'exit_code':bad_check.returncode,'resposta':bad_answer}
+
         if out[-1].get('fixpoint_reached') is not True:raise ValueError('Inferência não alcançou ponto fixo')
         cert=out[-1]['certificate']
         report=dict(data=datetime.now(timezone(timedelta(hours=-3))).isoformat(),status_estrutural='ATENDIDO',motor=lock['versao'],binario_sha256=lock['linux_x86_64_sha256'],
