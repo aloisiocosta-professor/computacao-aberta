@@ -1,0 +1,6 @@
+PREFIX ca: <urn:computacao-aberta:ontologia:>
+PREFIX id: <urn:computacao-aberta:recurso:>
+SELECT ?disciplina ?fonte ?evidencia WHERE {
+ ?relacao a ca:RelacaoFonte ; ca:funcaoProposta id:funcao-metodologia ;
+ ca:disciplinaDaRelacao ?disciplina ; ca:fonteDaRelacao ?fonte ; ca:estadoEvidencia ?evidencia .
+} ORDER BY ?disciplina ?fonte

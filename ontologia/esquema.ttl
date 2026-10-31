@@ -1,0 +1,37 @@
+@prefix ca: <urn:computacao-aberta:ontologia:> .
+@prefix id: <urn:computacao-aberta:recurso:> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ca: a owl:Ontology ; rdfs:label "Ontologia editorial Computação Aberta"@pt ; owl:versionInfo "0.1.0-proposta" .
+ca:RecursoCurricular a owl:Class ; rdfs:label "Recurso curricular"@pt ; rdfs:comment "Item editorial, sem afirmação de proficiência."@pt .
+ca:AtividadeAprendizagem a owl:Class ; rdfs:label "Atividade de aprendizagem"@pt ; rdfs:comment "Unidade de prática ou missão; pode ser apenas roteiro."@pt ; rdfs:subClassOf ca:RecursoCurricular .
+ca:Eixo a owl:Class ; rdfs:label "Eixo"@pt ; rdfs:comment "Organização temática autoral."@pt ; rdfs:subClassOf ca:RecursoCurricular .
+ca:Disciplina a owl:Class ; rdfs:label "Disciplina"@pt ; rdfs:comment "Ficha curricular proposta."@pt ; rdfs:subClassOf ca:RecursoCurricular .
+ca:UnidadeHabilidade a owl:Class ; rdfs:label "Unidade de habilidade"@pt ; rdfs:comment "Treino associado a item de índice; não equivale a domínio."@pt ; rdfs:subClassOf ca:AtividadeAprendizagem .
+ca:Missao a owl:Class ; rdfs:label "Missão"@pt ; rdfs:comment "Problema integrador proposto."@pt ; rdfs:subClassOf ca:AtividadeAprendizagem .
+ca:Referencia a owl:Class ; rdfs:label "Referência"@pt ; rdfs:comment "Obra vinculada com limites de leitura preservados."@pt ; rdfs:subClassOf ca:RecursoCurricular .
+ca:Curso a owl:Class ; rdfs:label "Curso externo"@pt ; rdfs:comment "Recurso externo de cobertura parcial."@pt ; rdfs:subClassOf ca:RecursoCurricular .
+ca:RelacaoFonte a owl:Class ; rdfs:label "Relação com fonte"@pt ; rdfs:comment "Associação editorial proposta com estado de evidência separado."@pt ; rdfs:subClassOf ca:RecursoCurricular .
+ca:FuncaoAcademica a owl:Class ; rdfs:label "Função acadêmica"@pt ; rdfs:comment "Finalidade proposta da fonte na escrita ou estudo."@pt ; rdfs:subClassOf ca:RecursoCurricular .
+ca:pertenceEixo a owl:ObjectProperty ; rdfs:label "Pertence ao eixo"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:Disciplina ; rdfs:range ca:Eixo .
+ca:contemUnidade a owl:ObjectProperty ; rdfs:label "Contém unidade"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:Disciplina ; rdfs:range ca:UnidadeHabilidade .
+ca:daDisciplina a owl:ObjectProperty ; rdfs:label "Da disciplina"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:UnidadeHabilidade ; rdfs:range ca:Disciplina .
+ca:preRequisitoUnidade a owl:ObjectProperty ; rdfs:label "Pré-requisito de unidade"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:UnidadeHabilidade ; rdfs:range ca:UnidadeHabilidade .
+ca:preRequisitoDisciplina a owl:ObjectProperty ; rdfs:label "Pré-requisito de disciplina"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:Disciplina ; rdfs:range ca:Disciplina .
+ca:referenciaCandidata a owl:ObjectProperty ; rdfs:label "Referência candidata"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:RecursoCurricular ; rdfs:range ca:Referencia .
+ca:temCurso a owl:ObjectProperty ; rdfs:label "Curso associado"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:UnidadeHabilidade ; rdfs:range ca:Curso .
+ca:requerHabilidade a owl:ObjectProperty ; rdfs:label "Requer unidade"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:Missao ; rdfs:range ca:UnidadeHabilidade .
+ca:introduzHabilidade a owl:ObjectProperty ; rdfs:label "Introduz unidade"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:Missao ; rdfs:range ca:UnidadeHabilidade .
+ca:integraDisciplina a owl:ObjectProperty ; rdfs:label "Integra disciplina"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:Missao ; rdfs:range ca:Disciplina .
+ca:disciplinaDaRelacao a owl:ObjectProperty ; rdfs:label "Disciplina da relação"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:RelacaoFonte ; rdfs:range ca:Disciplina .
+ca:fonteDaRelacao a owl:ObjectProperty ; rdfs:label "Fonte da relação"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:RelacaoFonte ; rdfs:range ca:Referencia .
+ca:funcaoProposta a owl:ObjectProperty ; rdfs:label "Função proposta"@pt ; rdfs:comment "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."@pt ; rdfs:domain ca:RelacaoFonte ; rdfs:range ca:FuncaoAcademica .
+ca:idLocal a owl:DatatypeProperty ; rdfs:label "Identificador local"@pt ; rdfs:comment "Metadado editorial; não atribui aprendizagem ao usuário."@pt ; rdfs:domain ca:RecursoCurricular ; rdfs:range xsd:string .
+ca:arquivoOrigem a owl:DatatypeProperty ; rdfs:label "Arquivo de origem"@pt ; rdfs:comment "Metadado editorial; não atribui aprendizagem ao usuário."@pt ; rdfs:domain ca:RecursoCurricular ; rdfs:range xsd:string .
+ca:hashOrigem a owl:DatatypeProperty ; rdfs:label "Hash SHA256 da origem"@pt ; rdfs:comment "Metadado editorial; não atribui aprendizagem ao usuário."@pt ; rdfs:domain ca:RecursoCurricular ; rdfs:range xsd:string .
+ca:estadoEditorial a owl:DatatypeProperty ; rdfs:label "Estado editorial"@pt ; rdfs:comment "Metadado editorial; não atribui aprendizagem ao usuário."@pt ; rdfs:domain ca:RecursoCurricular ; rdfs:range xsd:string .
+ca:estadoDecisao a owl:DatatypeProperty ; rdfs:label "Estado decisório"@pt ; rdfs:comment "Metadado editorial; não atribui aprendizagem ao usuário."@pt ; rdfs:domain ca:RecursoCurricular ; rdfs:range xsd:string .
+ca:estadoEvidencia a owl:DatatypeProperty ; rdfs:label "Estado de evidência"@pt ; rdfs:comment "Metadado editorial; não atribui aprendizagem ao usuário."@pt ; rdfs:domain ca:RecursoCurricular ; rdfs:range xsd:string .

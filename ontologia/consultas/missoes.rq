@@ -1,0 +1,4 @@
+PREFIX ca: <urn:computacao-aberta:ontologia:>
+SELECT ?missao (COUNT(DISTINCT ?disciplina) AS ?disciplinas) WHERE {
+ ?missao a ca:Missao ; ca:integraDisciplina ?disciplina .
+} GROUP BY ?missao ORDER BY ?missao
