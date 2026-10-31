@@ -52,3 +52,11 @@ Não corresponde a release ou tag publicada.
 - Sete desafios autorais em quatro simulações, com interpretador limitado de sintaxe JavaScript, casos de avaliação e replay.
 - Catálogo curricular, pistas identificadas, registros locais e reflexão do aprendiz.
 - Empacotamento explícito de arquivos públicos e workflow para GitHub Pages; sem criar tags/release.
+
+
+## Plataforma 0.2.0 — 31/10/2026
+
+- Jornada por todos os 447 itens curriculares em 108 disciplinas e 16 eixos, com estudo, previsão, prática de modelo, evidência e retomada.
+- Painel de cursos, busca, filtros CC/EC, mapa de habilidades, XP limitado por etapa, conquistas e sessões mistas.
+- 16 modelos introdutórios de eixo, registros locais por unidade e preservação dos sete laboratórios anteriores.
+- Cobertura especializada, avaliação científica e revisão humana distinguidas da cobertura estrutural. Análise funcional pública do Khan Academy registrada, sem copiar materiais.

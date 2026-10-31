@@ -1,0 +1,518 @@
+{
+  "versao": "0.2.0",
+  "status_pedagogico": "NÃO VERIFICADO",
+  "modelos": [
+    {
+      "id": "FND",
+      "titulo": "Decisão com evidências",
+      "icone": "◈",
+      "chamada": "Um resultado precisa de procedimento e registro",
+      "explicacao": "Para reproduzir uma atividade, precisamos conhecer o procedimento e conservar o registro do resultado. Neste modelo, a e b valem 1 quando cada requisito está presente. A saída só é verdadeira quando ambos estão presentes.",
+      "entrada_a": "Procedimento registrado",
+      "entrada_b": "Resultado registrado",
+      "saida": "true ou false",
+      "expressao": "a === 1 && b === 1",
+      "casos": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "limite": "Um registro não prova qualidade da pesquisa. Aplique o procedimento ao tópico da unidade e discuta a evidência com um tutor.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "MAT",
+      "titulo": "Máquina de funções",
+      "icone": "ƒ",
+      "chamada": "Uma entrada, uma regra, uma saída",
+      "explicacao": "Uma função afim transforma x em a·x + b. Aqui, a é a entrada x e b é o deslocamento; a regra da máquina é f(x)=2x+b. Altere a entrada e compare a previsão com a saída.",
+      "entrada_a": "Entrada x",
+      "entrada_b": "Deslocamento b",
+      "saida": "valor de f(x)",
+      "expressao": "2 * a + b",
+      "casos": [
+        [
+          0,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          -2,
+          4
+        ],
+        [
+          5,
+          -1
+        ]
+      ],
+      "limite": "Uma função afim é uma ponte para modelagem matemática; não substitui limites, integrais, provas ou o conteúdo específico desta unidade.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "PRG",
+      "titulo": "Acumulador programável",
+      "icone": "⌘",
+      "chamada": "Transforme uma repetição em algoritmo",
+      "explicacao": "Somar os inteiros de 1 até n exige atualizar um acumulador. Aqui a é n e b é o valor inicial. Para n=3 e início=2, percorremos 2 → 3 → 5 → 8. O caso n=0 devolve o início.",
+      "entrada_a": "Quantidade n",
+      "entrada_b": "Valor inicial",
+      "saida": "total acumulado",
+      "expressao": "b + a * (a + 1) / 2",
+      "casos": [
+        [
+          0,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "limite": "O acumulador trabalha com números inteiros não negativos. Use o desafio como apoio, e produza também o artefato específico do tópico.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "ALG",
+      "titulo": "Custo de comparar pares",
+      "icone": "⌁",
+      "chamada": "Veja o custo crescer com a entrada",
+      "explicacao": "Ao comparar cada par distinto de n elementos, sem repetir a ordem do par, fazemos n(n−1)/2 comparações. Aqui a é n e b é o custo de cada comparação. Calcule o custo total.",
+      "entrada_a": "Elementos n",
+      "entrada_b": "Custo por comparação",
+      "saida": "custo total",
+      "expressao": "a * (a - 1) / 2 * b",
+      "casos": [
+        [
+          1,
+          2
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "limite": "Este é um modelo de comparação de todos os pares, não o custo de todos os algoritmos. Estruturas e algoritmos específicos exigem seus próprios invariantes.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "TEO",
+      "titulo": "Autômato de paridade",
+      "icone": "⤨",
+      "chamada": "Um estado guarda apenas o que importa",
+      "explicacao": "Um autômato de paridade tem os estados par e ímpar. Cada símbolo 1 troca o estado; 0 o preserva. Começando em par, após a símbolos 1 e mais b símbolos 1, aceite apenas se o total for par.",
+      "entrada_a": "Uns no primeiro trecho",
+      "entrada_b": "Uns no segundo trecho",
+      "saida": "aceitar: true ou false",
+      "expressao": "(a + b) % 2 === 0",
+      "casos": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "limite": "Este autômato finito não demonstra decidibilidade de problemas gerais nem substitui análise de gramáticas ou compiladores.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "HWD",
+      "titulo": "Circuito de autorização",
+      "icone": "⊞",
+      "chamada": "Combine duas entradas lógicas",
+      "explicacao": "Uma porta AND fornece 1 quando as duas entradas são 1. Neste circuito didático, a é habilitação e b é sinal. Programe uma saída booleana equivalente à tabela-verdade AND.",
+      "entrada_a": "Habilitação a",
+      "entrada_b": "Sinal b",
+      "saida": "true ou false",
+      "expressao": "a === 1 && b === 1",
+      "casos": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "limite": "O circuito é lógico e ideal. Não simula temporização, níveis elétricos, HDL, caches ou arquitetura completa.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "FIS",
+      "titulo": "Movimento uniforme",
+      "icone": "↗",
+      "chamada": "Relacione velocidade, tempo e distância",
+      "explicacao": "No movimento retilíneo uniforme, a velocidade é constante. Partindo da origem, a posição é x=v·t. Aqui a representa a velocidade em m/s e b representa o tempo em segundos.",
+      "entrada_a": "Velocidade (m/s)",
+      "entrada_b": "Tempo (s)",
+      "saida": "posição em metros",
+      "expressao": "a * b",
+      "casos": [
+        [
+          0,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          -3,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "limite": "A velocidade é constante e a posição inicial é zero. O modelo não representa aceleração, campos ou fenômenos quânticos.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "ELE",
+      "titulo": "Bancada de Ohm",
+      "icone": "ϟ",
+      "chamada": "Descubra a corrente no resistor",
+      "explicacao": "Em um resistor ideal ôhmico, V=R·I. Logo, I=V/R. Aqui a é a tensão em volts e b é a resistência em ohms. Observe o efeito de aumentar a resistência sem mudar a tensão.",
+      "entrada_a": "Tensão (V)",
+      "entrada_b": "Resistência (Ω)",
+      "saida": "corrente em ampères",
+      "expressao": "a / b",
+      "casos": [
+        [
+          0,
+          2
+        ],
+        [
+          12,
+          4
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "limite": "Modelo ideal, com resistência positiva e constante; não representa segurança de montagem, transientes ou semicondutores. Não conecte equipamentos reais por estas instruções.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "SIN",
+      "titulo": "Controlador proporcional",
+      "icone": "≋",
+      "chamada": "Observe o efeito do ganho no erro",
+      "explicacao": "Um controlador proporcional calcula u=K·e. O erro e é a diferença entre referência e medição; K é o ganho. Aqui a é o erro e b é o ganho. Compare sinais e magnitudes.",
+      "entrada_a": "Erro e",
+      "entrada_b": "Ganho K",
+      "saida": "ação u",
+      "expressao": "a * b",
+      "casos": [
+        [
+          0,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          -2,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "limite": "A ação proporcional isolada não permite concluir estabilidade de uma planta. O simulador não fecha a malha nem modela dinâmica física.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "SYS",
+      "titulo": "Capacidade em paralelo",
+      "icone": "▤",
+      "chamada": "Estime o tempo de um lote ideal",
+      "explicacao": "Se a tarefas independentes levam uma unidade de tempo cada, e b trabalhadores dividem perfeitamente o lote, o tempo ideal é a/b. Aceitamos tempo fracionário neste modelo contínuo.",
+      "entrada_a": "Trabalho total",
+      "entrada_b": "Trabalhadores",
+      "saida": "tempo ideal",
+      "expressao": "a / b",
+      "casos": [
+        [
+          0,
+          2
+        ],
+        [
+          12,
+          3
+        ],
+        [
+          8,
+          2
+        ],
+        [
+          6,
+          4
+        ]
+      ],
+      "limite": "Não há comunicação, serialização ou contenção. Para tarefas indivisíveis, o escalonamento e o arredondamento mudam o resultado.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "NET",
+      "titulo": "Link de transmissão",
+      "icone": "⇄",
+      "chamada": "Separe tamanho, taxa e tempo",
+      "explicacao": "Em um enlace ideal, o tempo de transmissão é tamanho em bits dividido pela taxa em bits/s. Aqui a é o tamanho e b é a taxa. Atraso de propagação e filas ficam fora do modelo.",
+      "entrada_a": "Tamanho (bits)",
+      "entrada_b": "Taxa (bits/s)",
+      "saida": "tempo em segundos",
+      "expressao": "a / b",
+      "casos": [
+        [
+          0,
+          2
+        ],
+        [
+          12,
+          4
+        ],
+        [
+          8,
+          2
+        ],
+        [
+          15,
+          5
+        ]
+      ],
+      "limite": "Não inclui latência de propagação, perdas, cabeçalhos ou congestionamento. Não confunda este resultado com a latência completa de uma rede.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "SWE",
+      "titulo": "Laboratório de fronteiras",
+      "icone": "✓",
+      "chamada": "Teste abaixo, dentro e acima",
+      "explicacao": "Um requisito fictício aceita valores de b até 2b, incluindo os limites. Aqui a é o valor submetido. Retorne true para valores aceitos. Testar as fronteiras ajuda a distinguir > de >=.",
+      "entrada_a": "Valor recebido",
+      "entrada_b": "Limite inferior",
+      "saida": "aceito: true ou false",
+      "expressao": "a >= b && a <= 2 * b",
+      "casos": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "limite": "A regra é fictícia e serve ao teste de partições. Não substitui revisão de requisitos, segurança, validade ou testes de um sistema real.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "DAT",
+      "titulo": "Filtro de registros",
+      "icone": "▦",
+      "chamada": "Uma condição seleciona linhas",
+      "explicacao": "Uma consulta pode conservar apenas registros cuja medida é maior ou igual a um mínimo. Aqui a é a medida da linha e b é o mínimo. A saída booleana informa se a linha permanece.",
+      "entrada_a": "Medida da linha",
+      "entrada_b": "Mínimo do filtro",
+      "saida": "selecionar: true ou false",
+      "expressao": "a >= b",
+      "casos": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "limite": "Este predicado é uma ponte para seleção de dados, não um executor SQL nem um modelo de transações, índices ou bancos distribuídos.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "IA",
+      "titulo": "Precisão de um classificador",
+      "icone": "✧",
+      "chamada": "Conte acertos entre as previsões positivas",
+      "explicacao": "Precisão é TP/(TP+FP): positivos verdadeiros divididos por todas as previsões positivas. Aqui a é TP e b é FP. Os cenários têm denominador positivo. Não confunda precisão com acurácia ou revocação.",
+      "entrada_a": "Positivos verdadeiros TP",
+      "entrada_b": "Positivos falsos FP",
+      "saida": "precisão entre 0 e 1",
+      "expressao": "a / (a + b)",
+      "casos": [
+        [
+          0,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "limite": "A métrica isolada não demonstra ausência de viés, qualidade geral ou validade do modelo. Com TP+FP=0, uma convenção adicional seria necessária.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "HCI",
+      "titulo": "Contraste de luminância",
+      "icone": "◐",
+      "chamada": "Compare luminâncias, não nomes de cores",
+      "explicacao": "Dados L1 e L2 já calculados como luminâncias relativas, a razão é (Lclara+0,05)/(Lescura+0,05). Aqui a é 100·Lclara e b é 100·Lescura; usamos (a+5)/(b+5).",
+      "entrada_a": "100 × luminância clara",
+      "entrada_b": "100 × luminância escura",
+      "saida": "razão de contraste",
+      "expressao": "(a + 5) / (b + 5)",
+      "casos": [
+        [
+          100,
+          0
+        ],
+        [
+          40,
+          10
+        ],
+        [
+          20,
+          20
+        ],
+        [
+          70,
+          5
+        ]
+      ],
+      "limite": "As entradas já são luminâncias relativas. Não são canais RGB nem brilho do CSS. A razão sozinha não é uma auditoria de acessibilidade.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    },
+    {
+      "id": "PRO",
+      "titulo": "Orçamento de energia",
+      "icone": "♧",
+      "chamada": "Transforme potência e tempo em consumo",
+      "explicacao": "Um equipamento de potência constante P watts funcionando por t horas consome P·t/1000 kWh. Aqui a é a potência e b é o tempo. Compare duas escolhas mantendo o serviço necessário.",
+      "entrada_a": "Potência (W)",
+      "entrada_b": "Tempo (h)",
+      "saida": "consumo em kWh",
+      "expressao": "a * b / 1000",
+      "casos": [
+        [
+          0,
+          4
+        ],
+        [
+          100,
+          5
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          500,
+          2
+        ]
+      ],
+      "limite": "O modelo usa potência constante. Não cobre ciclo de vida, descarte, direitos, custos completos ou decisões éticas do projeto.",
+      "escopo": "PONTE_INTRODUTORIA_DO_EIXO",
+      "estado_editorial": "PROTOTIPO_INTERATIVO"
+    }
+  ]
+}

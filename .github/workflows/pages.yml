@@ -1,7 +1,7 @@
 name: Validar e empacotar plataforma para Pages
 on:
   push:
-    branches: [main, 'feature/plataforma-visual']
+    branches: [main, 'feature/plataforma-visual', 'feature/jornada-gamificada']
   pull_request:
   workflow_dispatch:
 permissions:
@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Testar interpretador e desafios
-        run: node --test tests/web/engine.test.mjs
+        run: node --test tests/web/*.test.mjs
       - name: Verificar estrutura e empacotamento
         run: |
           python3 scripts/gerar.py

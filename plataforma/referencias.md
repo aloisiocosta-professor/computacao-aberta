@@ -26,3 +26,8 @@ Não instalamos um pacote de skills de origem desconhecida ou um serviço pago. 
 - [Configure Pages: action.yml](https://github.com/actions/configure-pages/blob/v6.0.0/action.yml): habilitação inicial requer token com permissões adicionais ao GITHUB_TOKEN padrão; não criamos nem lemos credenciais.
 
 Código, interface, desenho do robô, tabuleiros e atividades são autorais; links não implicam afiliação. Licenças originais dos projetos de referência não foram transferidas para este repositório. Avaliação científica, correções/retratações acadêmicas e aprovação humana desta implementação: NÃO VERIFICADO.
+
+
+## Jornada 0.2.0
+
+A organização por cursos e unidades foi comparada à página pública de programação do Khan Academy. A pesquisa, o uso limitado da skill Reverse Engineer Anything, a inspeção em navegador e as decisões autorais de XP/progressão estão em [engenharia-reversa.md](engenharia-reversa.md). Não foi reconstruído o algoritmo interno de domínio do serviço.
