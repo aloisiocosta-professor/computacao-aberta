@@ -1,0 +1,5 @@
+PREFIX ca: <urn:computacao-aberta:ontologia:>
+SELECT ?tipo (COUNT(?recurso) AS ?total) WHERE {
+ VALUES ?tipo { ca:Eixo ca:Disciplina ca:UnidadeHabilidade ca:Referencia ca:Curso ca:Missao ca:FuncaoAcademica ca:RelacaoFonte }
+ ?recurso a ?tipo .
+} GROUP BY ?tipo ORDER BY ?tipo

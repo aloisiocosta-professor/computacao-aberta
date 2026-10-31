@@ -17,3 +17,5 @@
 | D13 | PROPOSTO | Operacionalizar sabedoria prática como julgamento, consequências e reconhecimento de limites | Definição de trabalho do projeto; não medida validada de sabedoria |
 
 As escolhas do assistente não foram convertidas em aprovação científica do usuário. Não há alegação de endosso de qualquer universidade ou entidade.
+
+D14 — DECIDIDO: aplicar Open Ontologies ao repositório, por solicitação do usuário em 31/10/2026. A ontologia editorial e as formas de validação são PROPOSTAS do assistente; não equivalem à aprovação científica.

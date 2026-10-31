@@ -40,3 +40,9 @@ Não corresponde a release ou tag publicada.
 - Aplicação da skill Understand Anything a código, dados, testes, CI e documentação do repositório.
 - Snapshot estrutural, mapa composto com habilidades, inventário textual e orientação de manutenção.
 - Baseline oficial de fingerprints, cobertura e limites da análise registrados separadamente de evidência científica.
+
+## Não lançado — ontologia curricular
+
+- RDF/OWL e SHACL do currículo, fontes, unidades, missões e funções acadêmicas, com origem por hash.
+- Consultas SPARQL e verificação nativa fixada do Open Ontologies, incluindo erros esperados e rollback em sandbox.
+- Consulta local de impacto transitivo e workflow dedicado; certificação independente declarada separadamente.

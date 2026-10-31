@@ -1,0 +1,220 @@
+{
+  "versao": "0.1.0-proposta",
+  "namespace": "urn:computacao-aberta:ontologia:",
+  "classes": [
+    {
+      "id": "RecursoCurricular",
+      "nome": "Recurso curricular",
+      "superclasse": null,
+      "descricao": "Item editorial, sem afirmação de proficiência."
+    },
+    {
+      "id": "AtividadeAprendizagem",
+      "nome": "Atividade de aprendizagem",
+      "superclasse": "RecursoCurricular",
+      "descricao": "Unidade de prática ou missão; pode ser apenas roteiro."
+    },
+    {
+      "id": "Eixo",
+      "nome": "Eixo",
+      "superclasse": "RecursoCurricular",
+      "descricao": "Organização temática autoral."
+    },
+    {
+      "id": "Disciplina",
+      "nome": "Disciplina",
+      "superclasse": "RecursoCurricular",
+      "descricao": "Ficha curricular proposta."
+    },
+    {
+      "id": "UnidadeHabilidade",
+      "nome": "Unidade de habilidade",
+      "superclasse": "AtividadeAprendizagem",
+      "descricao": "Treino associado a item de índice; não equivale a domínio."
+    },
+    {
+      "id": "Missao",
+      "nome": "Missão",
+      "superclasse": "AtividadeAprendizagem",
+      "descricao": "Problema integrador proposto."
+    },
+    {
+      "id": "Referencia",
+      "nome": "Referência",
+      "superclasse": "RecursoCurricular",
+      "descricao": "Obra vinculada com limites de leitura preservados."
+    },
+    {
+      "id": "Curso",
+      "nome": "Curso externo",
+      "superclasse": "RecursoCurricular",
+      "descricao": "Recurso externo de cobertura parcial."
+    },
+    {
+      "id": "RelacaoFonte",
+      "nome": "Relação com fonte",
+      "superclasse": "RecursoCurricular",
+      "descricao": "Associação editorial proposta com estado de evidência separado."
+    },
+    {
+      "id": "FuncaoAcademica",
+      "nome": "Função acadêmica",
+      "superclasse": "RecursoCurricular",
+      "descricao": "Finalidade proposta da fonte na escrita ou estudo."
+    }
+  ],
+  "propriedades": [
+    {
+      "id": "pertenceEixo",
+      "nome": "Pertence ao eixo",
+      "tipo": "ObjectProperty",
+      "dominio": "Disciplina",
+      "alcance": "ca:Eixo",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "contemUnidade",
+      "nome": "Contém unidade",
+      "tipo": "ObjectProperty",
+      "dominio": "Disciplina",
+      "alcance": "ca:UnidadeHabilidade",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "daDisciplina",
+      "nome": "Da disciplina",
+      "tipo": "ObjectProperty",
+      "dominio": "UnidadeHabilidade",
+      "alcance": "ca:Disciplina",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "preRequisitoUnidade",
+      "nome": "Pré-requisito de unidade",
+      "tipo": "ObjectProperty",
+      "dominio": "UnidadeHabilidade",
+      "alcance": "ca:UnidadeHabilidade",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "preRequisitoDisciplina",
+      "nome": "Pré-requisito de disciplina",
+      "tipo": "ObjectProperty",
+      "dominio": "Disciplina",
+      "alcance": "ca:Disciplina",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "referenciaCandidata",
+      "nome": "Referência candidata",
+      "tipo": "ObjectProperty",
+      "dominio": "RecursoCurricular",
+      "alcance": "ca:Referencia",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "temCurso",
+      "nome": "Curso associado",
+      "tipo": "ObjectProperty",
+      "dominio": "UnidadeHabilidade",
+      "alcance": "ca:Curso",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "requerHabilidade",
+      "nome": "Requer unidade",
+      "tipo": "ObjectProperty",
+      "dominio": "Missao",
+      "alcance": "ca:UnidadeHabilidade",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "introduzHabilidade",
+      "nome": "Introduz unidade",
+      "tipo": "ObjectProperty",
+      "dominio": "Missao",
+      "alcance": "ca:UnidadeHabilidade",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "integraDisciplina",
+      "nome": "Integra disciplina",
+      "tipo": "ObjectProperty",
+      "dominio": "Missao",
+      "alcance": "ca:Disciplina",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "disciplinaDaRelacao",
+      "nome": "Disciplina da relação",
+      "tipo": "ObjectProperty",
+      "dominio": "RelacaoFonte",
+      "alcance": "ca:Disciplina",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "fonteDaRelacao",
+      "nome": "Fonte da relação",
+      "tipo": "ObjectProperty",
+      "dominio": "RelacaoFonte",
+      "alcance": "ca:Referencia",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "funcaoProposta",
+      "nome": "Função proposta",
+      "tipo": "ObjectProperty",
+      "dominio": "RelacaoFonte",
+      "alcance": "ca:FuncaoAcademica",
+      "descricao": "Relação editorial proposta; requer diagnóstico ou conferência da fonte quando aplicável."
+    },
+    {
+      "id": "idLocal",
+      "nome": "Identificador local",
+      "tipo": "DatatypeProperty",
+      "dominio": "RecursoCurricular",
+      "alcance": "xsd:string",
+      "descricao": "Metadado editorial; não atribui aprendizagem ao usuário."
+    },
+    {
+      "id": "arquivoOrigem",
+      "nome": "Arquivo de origem",
+      "tipo": "DatatypeProperty",
+      "dominio": "RecursoCurricular",
+      "alcance": "xsd:string",
+      "descricao": "Metadado editorial; não atribui aprendizagem ao usuário."
+    },
+    {
+      "id": "hashOrigem",
+      "nome": "Hash SHA256 da origem",
+      "tipo": "DatatypeProperty",
+      "dominio": "RecursoCurricular",
+      "alcance": "xsd:string",
+      "descricao": "Metadado editorial; não atribui aprendizagem ao usuário."
+    },
+    {
+      "id": "estadoEditorial",
+      "nome": "Estado editorial",
+      "tipo": "DatatypeProperty",
+      "dominio": "RecursoCurricular",
+      "alcance": "xsd:string",
+      "descricao": "Metadado editorial; não atribui aprendizagem ao usuário."
+    },
+    {
+      "id": "estadoDecisao",
+      "nome": "Estado decisório",
+      "tipo": "DatatypeProperty",
+      "dominio": "RecursoCurricular",
+      "alcance": "xsd:string",
+      "descricao": "Metadado editorial; não atribui aprendizagem ao usuário."
+    },
+    {
+      "id": "estadoEvidencia",
+      "nome": "Estado de evidência",
+      "tipo": "DatatypeProperty",
+      "dominio": "RecursoCurricular",
+      "alcance": "xsd:string",
+      "descricao": "Metadado editorial; não atribui aprendizagem ao usuário."
+    }
+  ]
+}
