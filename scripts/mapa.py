@@ -115,10 +115,33 @@ def validate_graph(graph, root=ROOT):
             raise ValueError('Caminho inválido: ' + str(p))
 
 
+def compose_graph(pedagogical, structure):
+    """Preserva os dois mapas e conecta cada habilidade ao documento que a descreve."""
+    graph = json.loads(json.dumps(structure))
+    graph['project']['name'] = 'Computação Aberta — estrutura e aprendizagem'
+    graph['project']['description'] += ' Inclui camada pedagógica editorial; referências continuam candidatas.'
+    graph['nodes'].extend(pedagogical['nodes'])
+    graph['edges'].extend(pedagogical['edges'])
+    graph['layers'].extend(pedagogical['layers'])
+    documents = {n['filePath']: n['id'] for n in structure['nodes']
+                 if n['type'] == 'document' and 'filePath' in n}
+    for n in pedagogical['nodes']:
+        if n['filePath'] in documents:
+            graph['edges'].append(dict(source=documents[n['filePath']], target=n['id'],
+                type='documents', direction='forward', weight=0.5,
+                description='Documento local que apresenta este item editorial; não comprova domínio.'))
+    # O tour principal ensina a arquitetura; a prática tem tour próprio no mapa pedagógico.
+    return graph
+
+
 def generate_map(root=ROOT):
-    graph = build_graph(root)
+    pedagogical = build_graph(root)
     out = root / '.ua'
     out.mkdir(exist_ok=True)
+    (out / 'pedagogical-graph.json').write_text(json.dumps(pedagogical, ensure_ascii=False, indent=2) + '\n')
+    snapshot = out / 'structural-graph.json'
+    graph = compose_graph(pedagogical, json.loads(snapshot.read_text())) if snapshot.exists() else pedagogical
+    validate_graph(graph, root)
     (out / 'knowledge-graph.json').write_text(json.dumps(graph, ensure_ascii=False, indent=2) + '\n')
     return graph
 

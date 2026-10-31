@@ -34,3 +34,9 @@ Não corresponde a release ou tag publicada.
 - Integração local com Understand Anything 2.9.8 em commit fixado, sem chamadas pagas.
 - Exportação determinística de eixos, disciplinas, habilidades, fontes candidatas e missões; tour inicial e alternativa textual.
 - Documentação de instalação, escopo, limites e testes de integridade do mapa.
+
+## Não lançado — análise estrutural completa
+
+- Aplicação da skill Understand Anything a código, dados, testes, CI e documentação do repositório.
+- Snapshot estrutural, mapa composto com habilidades, inventário textual e orientação de manutenção.
+- Baseline oficial de fingerprints, cobertura e limites da análise registrados separadamente de evidência científica.

@@ -11,3 +11,5 @@ Edite os JSON de data/ antes de regenerar páginas. Não invente índices, subit
 Verificações: python3 scripts/gerar.py; python3 scripts/validar.py; python3 -m unittest discover -s tests -v. Testes verificam estrutura e exemplos de referência, não aquisição de habilidade pelo usuário. Descrever o estado editorial e as pendências no PR.
 
 Fluxo de contribuição: feature/* para a branch base adequada, PR ligado à issue, Conventional Commits. Tags, releases e exposição de progresso pessoal exigem autorização correspondente.
+
+Mapa completo: ler docs/estrutura-repositorio.md. A skill Understand Anything gera o snapshot estrutural em .ua/structural-graph.json. scripts/mapa.py compõe esse snapshot com a camada pedagógica; não substituir o mapa completo por uma exportação exclusivamente curricular. Ao mudar código ou documentos, atualizar a análise ou declarar a defasagem por hashes. Auto-update e hooks continuam desativados.
