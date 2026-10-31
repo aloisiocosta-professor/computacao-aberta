@@ -10,7 +10,7 @@ O objetivo principal é transformar cada item registrado de índice em uma unida
 
 [Acesse a plataforma publicada](https://aloisiocosta-professor.github.io/computacao-aberta/).
 
-Primeira versão interativa: sete desafios de código, robô programável, ordenação, lógica digital e consumo. Inclui execução, replay de estados, pistas, explicação autoral e progresso local. Ver [plataforma e cobertura](plataforma/README.md) e [referências de interação](plataforma/referencias.md). O catálogo completo permanece disponível; esta versão não converte todas as unidades em jogos.
+Plataforma 0.2.0: a jornada inteira reúne 108 disciplinas e 447 missões, com estudo, previsão, prática codificável, projeto, evidência e retomada. Inclui mapa por eixo, busca, filtros CC/EC, XP por etapa, conquistas e desafio misto. As missões usam 16 modelos introdutórios de eixo; os sete jogos anteriores continuam em laboratórios próprios. Missões disponíveis não significam 447 aulas especializadas revisadas. Ver [plataforma e cobertura](plataforma/README.md), [análise funcional e limites](plataforma/engenharia-reversa.md) e [referências de interação](plataforma/referencias.md).
 
 ## Comece pela prática
 
