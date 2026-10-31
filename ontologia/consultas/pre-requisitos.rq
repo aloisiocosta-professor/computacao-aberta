@@ -1,3 +1,0 @@
-PREFIX ca: <urn:computacao-aberta:ontologia:>
-PREFIX id: <urn:computacao-aberta:recurso:>
-SELECT DISTINCT ?anterior WHERE { id:U-PRG01-04 ca:preRequisitoUnidade+ ?anterior . } ORDER BY ?anterior
