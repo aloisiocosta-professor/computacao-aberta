@@ -12,6 +12,7 @@ O objetivo principal é transformar cada item registrado de índice em uma unida
 |---|---|
 | Começar sem formação prévia presumida | [Trilha inicial](aprendizagem/comecar.md) |
 | Fazer a primeira atividade agora | [Representar e atualizar valores](unidades/primeiros-passos/01-variaveis.md) |
+| Entender a estrutura do repositório | [Arquitetura e manutenção](docs/estrutura-repositorio.md) |
 | Explorar relações visualmente | [Mapa pedagógico local](docs/mapa-aprendizagem.md) |
 | Encontrar uma habilidade | [Catálogo de habilidades](aprendizagem/habilidades.md) |
 | Integrar áreas em um problema | [Missões interdisciplinares](missoes/README.md) |

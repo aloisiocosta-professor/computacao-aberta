@@ -49,3 +49,15 @@ class MapaTests(unittest.TestCase):
     def test_tour_leva_a_pratica(self):
         self.assertEqual(self.graph['tour'][-1]['nodeIds'], ['missao:M01'])
         self.assertEqual(len(self.graph['tour']), 5)
+
+class CompositionTests(unittest.TestCase):
+    def test_composicao_preserva_habilidade_e_documento(self):
+        from mapa import compose_graph
+        p = build_graph()
+        structure = dict(version='1.0.0', project={'description': 'Snapshot de teste'},
+            nodes=[dict(id='document:curriculo/eixos.md', type='document', filePath='curriculo/eixos.md')],
+            edges=[], layers=[], tour=[])
+        g = compose_graph(p, structure)
+        self.assertEqual(len(g['nodes']), len(p['nodes']) + 1)
+        self.assertTrue(any(e['type']=='documents' and e['target']=='eixo:FND' for e in g['edges']))
+        self.assertEqual(structure['nodes'], [dict(id='document:curriculo/eixos.md', type='document', filePath='curriculo/eixos.md')])
