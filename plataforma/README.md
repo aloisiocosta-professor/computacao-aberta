@@ -45,7 +45,9 @@ python3 -m unittest discover -s tests -q
 python3 scripts/construir_plataforma.py
 ```
 
-O [workflow Pages](../.github/workflows/pages.yml) verifica testes, gera `dist/` e publica em pushes de main ou da branch feature/plataforma-visual. PRs apenas validam. A publicação requer GitHub Pages habilitado e a origem configurada para GitHub Actions; o token padrão do workflow não pode habilitar a configuração inicial. O site inclui `release.json` com versão e commit fonte. Não são criadas tags ou releases automaticamente.
+O [workflow de preparo](../.github/workflows/pages.yml) verifica testes, gera `dist/` e guarda o artefato em pushes e PRs. A publicação usa a branch `gh-pages`, já permitida pela configuração do ambiente, e o workflow nativo “pages build and deployment” do GitHub. Para atualizar o site, o mantenedor publica os dez arquivos gerados nessa branch depois de validar a fonte; não há promessa de publicação automática de toda edição da branch de desenvolvimento. O deployment direto de feature/plataforma-visual foi recusado pela regra do ambiente e o fluxo foi corrigido para respeitar a origem permitida. As proteções foram preservadas. O site inclui `release.json` com versão e commit fonte. Não são criadas tags ou releases automaticamente.
+
+Versão 0.1.0 publicada em [Computação Aberta](https://aloisiocosta-professor.github.io/computacao-aberta/). O [primeiro deployment verificado](https://github.com/aloisiocosta-professor/computacao-aberta/actions/runs/41226971693) publicou os arquivos gerados do commit 87aa2d1a970fdc7467b747923304690a8c8d0fe0.
 
 O runtime não depende de pacotes externos, scripts remotos ou analytics. Progresso, rascunhos e explicações ficam em localStorage. A exportação é iniciada pelo usuário; o botão de apagar solicita confirmação. O recurso opcional de voz depende do navegador e pode usar o serviço de voz configurado nele; o texto está sempre disponível.
 

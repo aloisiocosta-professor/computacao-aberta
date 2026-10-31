@@ -8,6 +8,8 @@ O objetivo principal é transformar cada item registrado de índice em uma unida
 
 ## Plataforma visual
 
+[Acesse a plataforma publicada](https://aloisiocosta-professor.github.io/computacao-aberta/).
+
 Primeira versão interativa: sete desafios de código, robô programável, ordenação, lógica digital e consumo. Inclui execução, replay de estados, pistas, explicação autoral e progresso local. Ver [plataforma e cobertura](plataforma/README.md) e [referências de interação](plataforma/referencias.md). O catálogo completo permanece disponível; esta versão não converte todas as unidades em jogos.
 
 ## Comece pela prática
