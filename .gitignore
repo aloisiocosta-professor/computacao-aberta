@@ -5,3 +5,8 @@ __pycache__/
 .env.*
 progresso.local.json
 aprendizagem/privado/
+
+.ua/intermediate/
+.ua/tmp/
+.ua/.trash-*/
+.ua/diff-overlay.json
