@@ -6,6 +6,10 @@ O objetivo principal é transformar cada item registrado de índice em uma unida
 
 **Versão editorial 0.3.0 — proposta em revisão, 30/10/2026.** Curadoria e atividades produzidas com assistência do ChatGPT. Avaliação científica/pedagógica independente pendente. O projeto não emite diploma nem certifica sabedoria, consciência ou treinamento permanente de modelos.
 
+## Plataforma visual
+
+Primeira versão interativa: sete desafios de código, robô programável, ordenação, lógica digital e consumo. Inclui execução, replay de estados, pistas, explicação autoral e progresso local. Ver [plataforma e cobertura](plataforma/README.md) e [referências de interação](plataforma/referencias.md). O catálogo completo permanece disponível; esta versão não converte todas as unidades em jogos.
+
 ## Comece pela prática
 
 | Se você quer… | Abra |

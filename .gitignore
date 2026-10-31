@@ -11,3 +11,7 @@ aprendizagem/privado/
 .ua/.trash-*/
 .ua/diff-overlay.json
 ontologia/execucao.local/
+
+dist/
+plataforma/.openai/
+.openai/

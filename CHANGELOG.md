@@ -46,3 +46,9 @@ Não corresponde a release ou tag publicada.
 - RDF/OWL e SHACL do currículo, fontes, unidades, missões e funções acadêmicas, com origem por hash.
 - Consultas SPARQL e verificação nativa fixada do Open Ontologies, incluindo erros esperados e rollback em sandbox.
 - Consulta local de impacto transitivo e workflow dedicado; certificação independente declarada separadamente.
+
+## Plataforma visual 0.1.0 — proposta de publicação
+
+- Sete desafios autorais em quatro simulações, com interpretador limitado de sintaxe JavaScript, casos de avaliação e replay.
+- Catálogo curricular, pistas identificadas, registros locais e reflexão do aprendiz.
+- Empacotamento explícito de arquivos públicos e workflow para GitHub Pages; sem criar tags/release.
