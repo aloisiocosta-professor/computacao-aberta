@@ -3,6 +3,7 @@ from pathlib import Path
 import json,csv,io
 from relacoes import render_relations
 from aprendizagem import render_learning
+from mapa import generate_map
 ROOT=Path(__file__).resolve().parents[1]
 def read(n): return json.loads((ROOT/"data"/(n+".json")).read_text(encoding="utf-8"))
 def write(n,s):
@@ -76,6 +77,7 @@ def generate():
     relations,functions=read("relacoes-fontes"),read("funcoes-fontes")
     render_relations(subs,refs,functions,relations,table,write,export)
     learning=render_learning(ROOT,subs,courses,read("indices-disciplinas")+read("indices-cursos"),read("habilidades"),read("perfis-habilidades"),read("missoes"),read("base-pedagogica"),table,write,export)
+    generate_map(ROOT)
     print(json.dumps({"disciplinas":len(subs),"eixos":len(axes),"referencias":len(refs),"cursos":len(courses),"areas_cs2023":len(areas),"amostras":len(samples),"relacoes_fontes":len(relations),"funcoes":len(functions),**learning},ensure_ascii=False))
 if __name__=="__main__":generate()
 

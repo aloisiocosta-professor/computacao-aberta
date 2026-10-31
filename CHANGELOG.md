@@ -28,3 +28,9 @@
 - Limites de leitura, revisão especializada e publicação registrados.
 
 Não corresponde a release ou tag publicada.
+
+## Não lançado — mapa pedagógico
+
+- Integração local com Understand Anything 2.9.8 em commit fixado, sem chamadas pagas.
+- Exportação determinística de eixos, disciplinas, habilidades, fontes candidatas e missões; tour inicial e alternativa textual.
+- Documentação de instalação, escopo, limites e testes de integridade do mapa.

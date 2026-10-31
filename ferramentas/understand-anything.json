@@ -1,0 +1,11 @@
+{
+  "repositorio": "https://github.com/Egonex-AI/Understand-Anything",
+  "commit": "4e6d3299017a7432da15957874992837a315c5b4",
+  "versao_plugin": "2.9.8",
+  "licenca": "MIT",
+  "consulta_em": "2026-10-31",
+  "integracao": "Adaptador editorial determinístico scripts/mapa.py; não é execução integral da pipeline /understand",
+  "instalacao": "install.sh codex revisado e executado neste ambiente",
+  "artefato_viewer_release": "v2.9.8 retornou HTTP 404; usar compilação local",
+  "atualizacao_automatica": false
+}
