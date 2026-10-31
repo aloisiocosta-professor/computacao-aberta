@@ -1,0 +1,2993 @@
+[
+  {
+    "id": "FND01",
+    "nome": "Introdução à computação e à engenharia",
+    "eixo": "Fundamentos de estudo e pesquisa",
+    "unidades": [
+      {
+        "id": "U-FND01-01",
+        "titulo": "abstração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND01-02",
+        "titulo": "sistemas computacionais",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND01-03",
+        "titulo": "hardware e software",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FND02",
+    "nome": "Autonomia, organização e aprendizagem",
+    "eixo": "Fundamentos de estudo e pesquisa",
+    "unidades": [
+      {
+        "id": "U-FND02-01",
+        "titulo": "planejamento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND02-02",
+        "titulo": "autoavaliação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND02-03",
+        "titulo": "registro de dúvidas",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FND03",
+    "nome": "Git, shell e ferramentas de desenvolvimento",
+    "eixo": "Fundamentos de estudo e pesquisa",
+    "unidades": [
+      {
+        "id": "U-FND03-01",
+        "titulo": "controle de versão",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND03-02",
+        "titulo": "terminal",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND03-03",
+        "titulo": "depuração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C03-01",
+        "titulo": "Course Overview + Introduction to the Shell",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C03-02",
+        "titulo": "Command-line Environment",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C03-03",
+        "titulo": "Development Environment and Tools",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C03-05",
+        "titulo": "Version Control and Git",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FND04",
+    "nome": "Leitura e escrita acadêmica",
+    "eixo": "Fundamentos de estudo e pesquisa",
+    "unidades": [
+      {
+        "id": "U-FND04-01",
+        "titulo": "argumentação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND04-02",
+        "titulo": "atribuição",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND04-03",
+        "titulo": "busca bibliográfica",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FND05",
+    "nome": "Inglês instrumental para computação",
+    "eixo": "Fundamentos de estudo e pesquisa",
+    "unidades": [
+      {
+        "id": "U-FND05-01",
+        "titulo": "leitura técnica",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND05-02",
+        "titulo": "vocabulário",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND05-03",
+        "titulo": "documentação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FND06",
+    "nome": "Metodologia científica e ciência aberta",
+    "eixo": "Fundamentos de estudo e pesquisa",
+    "unidades": [
+      {
+        "id": "U-FND06-01",
+        "titulo": "pergunta",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND06-02",
+        "titulo": "desenho de estudo",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FND06-03",
+        "titulo": "reprodutibilidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-26",
+        "titulo": "Database Research (optional)",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "MAT01",
+    "nome": "Pré-cálculo e funções",
+    "eixo": "Matemática e estatística",
+    "unidades": [
+      {
+        "id": "U-MAT01-01",
+        "titulo": "álgebra",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT01-02",
+        "titulo": "funções",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT01-03",
+        "titulo": "trigonometria",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "MAT02",
+    "nome": "Lógica e matemática discreta",
+    "eixo": "Matemática e estatística",
+    "unidades": [
+      {
+        "id": "U-MAT02-01",
+        "titulo": "proposições",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT02-02",
+        "titulo": "conjuntos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT02-03",
+        "titulo": "relações",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT02-04",
+        "titulo": "indução",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C04-01",
+        "titulo": "Proofs",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C04-02",
+        "titulo": "Structures",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C04-03",
+        "titulo": "Counting",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "MAT03",
+    "nome": "Geometria analítica e vetores",
+    "eixo": "Matemática e estatística",
+    "unidades": [
+      {
+        "id": "U-MAT03-01",
+        "titulo": "vetores",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT03-02",
+        "titulo": "retas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT03-03",
+        "titulo": "planos",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "MAT04",
+    "nome": "Cálculo diferencial e integral I",
+    "eixo": "Matemática e estatística",
+    "unidades": [
+      {
+        "id": "U-MAT04-01",
+        "titulo": "limites",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT04-02",
+        "titulo": "derivadas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT04-03",
+        "titulo": "integrais de uma variável",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "MAT05",
+    "nome": "Cálculo II e séries",
+    "eixo": "Matemática e estatística",
+    "unidades": [
+      {
+        "id": "U-MAT05-01",
+        "titulo": "técnicas de integração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT05-02",
+        "titulo": "sequências",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT05-03",
+        "titulo": "séries",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "MAT06",
+    "nome": "Álgebra linear",
+    "eixo": "Matemática e estatística",
+    "unidades": [
+      {
+        "id": "U-MAT06-01",
+        "titulo": "matrizes",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT06-02",
+        "titulo": "espaços vetoriais",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT06-03",
+        "titulo": "autovalores",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "MAT07",
+    "nome": "Probabilidade e estatística",
+    "eixo": "Matemática e estatística",
+    "unidades": [
+      {
+        "id": "U-MAT07-01",
+        "titulo": "distribuições",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT07-02",
+        "titulo": "estimação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT07-03",
+        "titulo": "inferência",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C04-04",
+        "titulo": "Probability",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "MAT08",
+    "nome": "Equações diferenciais e cálculo multivariável",
+    "eixo": "Matemática e estatística",
+    "unidades": [
+      {
+        "id": "U-MAT08-01",
+        "titulo": "EDO",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT08-02",
+        "titulo": "derivadas parciais",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT08-03",
+        "titulo": "integração múltipla",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "MAT09",
+    "nome": "Métodos numéricos e otimização",
+    "eixo": "Matemática e estatística",
+    "unidades": [
+      {
+        "id": "U-MAT09-01",
+        "titulo": "erro numérico",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT09-02",
+        "titulo": "raízes",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-MAT09-03",
+        "titulo": "otimização",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRG01",
+    "nome": "Programação I e pensamento computacional",
+    "eixo": "Programação e paradigmas",
+    "unidades": [
+      {
+        "id": "U-PRG01-01",
+        "titulo": "variáveis",
+        "estado": "AULA_INICIAL"
+      },
+      {
+        "id": "U-PRG01-02",
+        "titulo": "decisões",
+        "estado": "AULA_INICIAL"
+      },
+      {
+        "id": "U-PRG01-03",
+        "titulo": "repetição",
+        "estado": "AULA_INICIAL"
+      },
+      {
+        "id": "U-PRG01-04",
+        "titulo": "decomposição",
+        "estado": "AULA_INICIAL"
+      },
+      {
+        "id": "U-C01-01",
+        "titulo": "What is Computation?",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-02",
+        "titulo": "Branching and Iteration",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-01",
+        "titulo": "Scratch",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-07",
+        "titulo": "Python",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRG02",
+    "nome": "Programação II e modularização",
+    "eixo": "Programação e paradigmas",
+    "unidades": [
+      {
+        "id": "U-PRG02-01",
+        "titulo": "funções",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG02-02",
+        "titulo": "módulos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG02-03",
+        "titulo": "recursão",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG02-04",
+        "titulo": "testes básicos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-03",
+        "titulo": "String Manipulation, Guess and Check, Approximations, Bisection",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-04",
+        "titulo": "Decomposition, Abstraction, and Functions",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-06",
+        "titulo": "Recursion and Dictionaries",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRG03",
+    "nome": "Programação orientada a objetos",
+    "eixo": "Programação e paradigmas",
+    "unidades": [
+      {
+        "id": "U-PRG03-01",
+        "titulo": "objetos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG03-02",
+        "titulo": "encapsulamento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG03-03",
+        "titulo": "composição",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG03-04",
+        "titulo": "polimorfismo",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-08",
+        "titulo": "Object Oriented Programming",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-09",
+        "titulo": "Python Classes and Inheritance",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRG04",
+    "nome": "Programação de sistemas em C",
+    "eixo": "Programação e paradigmas",
+    "unidades": [
+      {
+        "id": "U-PRG04-01",
+        "titulo": "ponteiros",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG04-02",
+        "titulo": "memória",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG04-03",
+        "titulo": "compilação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG04-04",
+        "titulo": "interfaces",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-02",
+        "titulo": "C",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-05",
+        "titulo": "Memory",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRG05",
+    "nome": "Programação funcional",
+    "eixo": "Programação e paradigmas",
+    "unidades": [
+      {
+        "id": "U-PRG05-01",
+        "titulo": "funções de ordem superior",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG05-02",
+        "titulo": "imutabilidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG05-03",
+        "titulo": "tipos",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRG06",
+    "nome": "Programação lógica",
+    "eixo": "Programação e paradigmas",
+    "unidades": [
+      {
+        "id": "U-PRG06-01",
+        "titulo": "unificação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG06-02",
+        "titulo": "cláusulas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG06-03",
+        "titulo": "busca",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRG07",
+    "nome": "Linguagens de programação e semântica",
+    "eixo": "Programação e paradigmas",
+    "unidades": [
+      {
+        "id": "U-PRG07-01",
+        "titulo": "escopo",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG07-02",
+        "titulo": "tipos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG07-03",
+        "titulo": "avaliação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG07-04",
+        "titulo": "semântica",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-09",
+        "titulo": "High-Level Language",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRG08",
+    "nome": "Programação concorrente",
+    "eixo": "Programação e paradigmas",
+    "unidades": [
+      {
+        "id": "U-PRG08-01",
+        "titulo": "sincronização",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG08-02",
+        "titulo": "exclusão mútua",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRG08-03",
+        "titulo": "comunicação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ALG01",
+    "nome": "Estruturas de dados I",
+    "eixo": "Algoritmos e estruturas",
+    "unidades": [
+      {
+        "id": "U-ALG01-01",
+        "titulo": "listas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG01-02",
+        "titulo": "pilhas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG01-03",
+        "titulo": "filas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG01-04",
+        "titulo": "árvores",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-05",
+        "titulo": "Tuples, Lists, Aliasing, Mutability, and Cloning",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-12",
+        "titulo": "Searching and Sorting",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-03",
+        "titulo": "Arrays",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-06",
+        "titulo": "Data Structures",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ALG02",
+    "nome": "Estruturas de dados II",
+    "eixo": "Algoritmos e estruturas",
+    "unidades": [
+      {
+        "id": "U-ALG02-01",
+        "titulo": "hashing",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG02-02",
+        "titulo": "árvores balanceadas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG02-03",
+        "titulo": "filas de prioridade",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ALG03",
+    "nome": "Análise e projeto de algoritmos",
+    "eixo": "Algoritmos e estruturas",
+    "unidades": [
+      {
+        "id": "U-ALG03-01",
+        "titulo": "complexidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG03-02",
+        "titulo": "recorrências",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG03-03",
+        "titulo": "guloso",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG03-04",
+        "titulo": "programação dinâmica",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-10",
+        "titulo": "Understanding Program Efficiency, Part 1",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-11",
+        "titulo": "Understanding Program Efficiency, Part 2",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-04",
+        "titulo": "Algorithms",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ALG04",
+    "nome": "Teoria e algoritmos em grafos",
+    "eixo": "Algoritmos e estruturas",
+    "unidades": [
+      {
+        "id": "U-ALG04-01",
+        "titulo": "conectividade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG04-02",
+        "titulo": "percursos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG04-03",
+        "titulo": "caminhos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG04-04",
+        "titulo": "árvores",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ALG05",
+    "nome": "Algoritmos probabilísticos e aproximativos",
+    "eixo": "Algoritmos e estruturas",
+    "unidades": [
+      {
+        "id": "U-ALG05-01",
+        "titulo": "aleatorização",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG05-02",
+        "titulo": "aproximação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG05-03",
+        "titulo": "garantias",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ALG06",
+    "nome": "Otimização combinatória e pesquisa operacional",
+    "eixo": "Algoritmos e estruturas",
+    "unidades": [
+      {
+        "id": "U-ALG06-01",
+        "titulo": "programação linear",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG06-02",
+        "titulo": "modelos inteiros",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG06-03",
+        "titulo": "heurísticas",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ALG07",
+    "nome": "Computação científica e simulação",
+    "eixo": "Algoritmos e estruturas",
+    "unidades": [
+      {
+        "id": "U-ALG07-01",
+        "titulo": "simulação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG07-02",
+        "titulo": "Monte Carlo",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ALG07-03",
+        "titulo": "validação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "TEO01",
+    "nome": "Linguagens formais e autômatos",
+    "eixo": "Teoria da computação e verificação",
+    "unidades": [
+      {
+        "id": "U-TEO01-01",
+        "titulo": "gramáticas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-TEO01-02",
+        "titulo": "expressões regulares",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-TEO01-03",
+        "titulo": "autômatos",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "TEO02",
+    "nome": "Computabilidade e complexidade",
+    "eixo": "Teoria da computação e verificação",
+    "unidades": [
+      {
+        "id": "U-TEO02-01",
+        "titulo": "decidibilidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-TEO02-02",
+        "titulo": "reduções",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-TEO02-03",
+        "titulo": "classes de complexidade",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "TEO03",
+    "nome": "Compiladores e interpretadores",
+    "eixo": "Teoria da computação e verificação",
+    "unidades": [
+      {
+        "id": "U-TEO03-01",
+        "titulo": "análise léxica",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-TEO03-02",
+        "titulo": "parsing",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-TEO03-03",
+        "titulo": "representação intermediária",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-06",
+        "titulo": "Assembler",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-07",
+        "titulo": "VM I: Stack Arithmetic",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-08",
+        "titulo": "VM II: Program Control",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-10",
+        "titulo": "Compiler I: Parsing",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-11",
+        "titulo": "Compiler II: Code Generation",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "TEO04",
+    "nome": "Métodos formais e verificação",
+    "eixo": "Teoria da computação e verificação",
+    "unidades": [
+      {
+        "id": "U-TEO04-01",
+        "titulo": "invariantes",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-TEO04-02",
+        "titulo": "lógica de Hoare",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-TEO04-03",
+        "titulo": "verificação de modelos",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "TEO05",
+    "nome": "Teoria da informação e codificação",
+    "eixo": "Teoria da computação e verificação",
+    "unidades": [
+      {
+        "id": "U-TEO05-01",
+        "titulo": "entropia",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-TEO05-02",
+        "titulo": "compressão",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-TEO05-03",
+        "titulo": "códigos",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HWD01",
+    "nome": "Circuitos lógicos e álgebra booleana",
+    "eixo": "Sistemas digitais e arquitetura",
+    "unidades": [
+      {
+        "id": "U-HWD01-01",
+        "titulo": "portas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD01-02",
+        "titulo": "simplificação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD01-03",
+        "titulo": "circuitos combinacionais",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-01",
+        "titulo": "Boolean Logic",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-02",
+        "titulo": "Boolean Arithmetic",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HWD02",
+    "nome": "Sistemas digitais sequenciais",
+    "eixo": "Sistemas digitais e arquitetura",
+    "unidades": [
+      {
+        "id": "U-HWD02-01",
+        "titulo": "flip-flops",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD02-02",
+        "titulo": "registradores",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD02-03",
+        "titulo": "máquinas de estados",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-03",
+        "titulo": "Memory",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HWD03",
+    "nome": "Organização e arquitetura de computadores I",
+    "eixo": "Sistemas digitais e arquitetura",
+    "unidades": [
+      {
+        "id": "U-HWD03-01",
+        "titulo": "ISA",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD03-02",
+        "titulo": "caminho de dados",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD03-03",
+        "titulo": "memória",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-04",
+        "titulo": "Machine Language",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-05",
+        "titulo": "Computer Architecture",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HWD04",
+    "nome": "Arquitetura de computadores II",
+    "eixo": "Sistemas digitais e arquitetura",
+    "unidades": [
+      {
+        "id": "U-HWD04-01",
+        "titulo": "pipeline",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD04-02",
+        "titulo": "caches",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD04-03",
+        "titulo": "paralelismo",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HWD05",
+    "nome": "Descrição de hardware e FPGA",
+    "eixo": "Sistemas digitais e arquitetura",
+    "unidades": [
+      {
+        "id": "U-HWD05-01",
+        "titulo": "HDL",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD05-02",
+        "titulo": "síntese",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD05-03",
+        "titulo": "temporização",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD05-04",
+        "titulo": "testbench",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HWD06",
+    "nome": "Microcontroladores e interfaces",
+    "eixo": "Sistemas digitais e arquitetura",
+    "unidades": [
+      {
+        "id": "U-HWD06-01",
+        "titulo": "interrupções",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD06-02",
+        "titulo": "temporizadores",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD06-03",
+        "titulo": "barramentos",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HWD07",
+    "nome": "Sistemas embarcados e tempo real",
+    "eixo": "Sistemas digitais e arquitetura",
+    "unidades": [
+      {
+        "id": "U-HWD07-01",
+        "titulo": "tarefas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD07-02",
+        "titulo": "escalonamento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD07-03",
+        "titulo": "restrições temporais",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HWD08",
+    "nome": "Projeto VLSI e codesign hardware/software",
+    "eixo": "Sistemas digitais e arquitetura",
+    "unidades": [
+      {
+        "id": "U-HWD08-01",
+        "titulo": "CMOS",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD08-02",
+        "titulo": "integração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HWD08-03",
+        "titulo": "particionamento",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FIS01",
+    "nome": "Mecânica e física experimental I",
+    "eixo": "Ciências físicas e materiais",
+    "unidades": [
+      {
+        "id": "U-FIS01-01",
+        "titulo": "cinemática",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS01-02",
+        "titulo": "dinâmica",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS01-03",
+        "titulo": "energia",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS01-04",
+        "titulo": "medição",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FIS02",
+    "nome": "Eletromagnetismo",
+    "eixo": "Ciências físicas e materiais",
+    "unidades": [
+      {
+        "id": "U-FIS02-01",
+        "titulo": "campos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS02-02",
+        "titulo": "potencial",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS02-03",
+        "titulo": "indução",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FIS03",
+    "nome": "Ondas, termodinâmica e óptica",
+    "eixo": "Ciências físicas e materiais",
+    "unidades": [
+      {
+        "id": "U-FIS03-01",
+        "titulo": "oscilações",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS03-02",
+        "titulo": "ondas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS03-03",
+        "titulo": "calor",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS03-04",
+        "titulo": "luz",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FIS04",
+    "nome": "Física moderna e semicondutores",
+    "eixo": "Ciências físicas e materiais",
+    "unidades": [
+      {
+        "id": "U-FIS04-01",
+        "titulo": "estrutura da matéria",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS04-02",
+        "titulo": "bandas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS04-03",
+        "titulo": "transporte",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FIS05",
+    "nome": "Química e ciência de materiais",
+    "eixo": "Ciências físicas e materiais",
+    "unidades": [
+      {
+        "id": "U-FIS05-01",
+        "titulo": "ligações",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS05-02",
+        "titulo": "materiais",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS05-03",
+        "titulo": "propriedades",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "FIS06",
+    "nome": "Metrologia e análise de incertezas",
+    "eixo": "Ciências físicas e materiais",
+    "unidades": [
+      {
+        "id": "U-FIS06-01",
+        "titulo": "calibração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS06-02",
+        "titulo": "propagação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-FIS06-03",
+        "titulo": "rastreabilidade",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ELE01",
+    "nome": "Circuitos elétricos I",
+    "eixo": "Circuitos, eletrônica e instrumentação",
+    "unidades": [
+      {
+        "id": "U-ELE01-01",
+        "titulo": "leis de Kirchhoff",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE01-02",
+        "titulo": "circuitos resistivos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE01-03",
+        "titulo": "equivalentes",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ELE02",
+    "nome": "Circuitos elétricos II",
+    "eixo": "Circuitos, eletrônica e instrumentação",
+    "unidades": [
+      {
+        "id": "U-ELE02-01",
+        "titulo": "regime transitório",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE02-02",
+        "titulo": "fasores",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE02-03",
+        "titulo": "resposta em frequência",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ELE03",
+    "nome": "Eletrônica analógica e digital",
+    "eixo": "Circuitos, eletrônica e instrumentação",
+    "unidades": [
+      {
+        "id": "U-ELE03-01",
+        "titulo": "diodos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE03-02",
+        "titulo": "transistores",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE03-03",
+        "titulo": "amplificadores",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE03-04",
+        "titulo": "níveis lógicos",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ELE04",
+    "nome": "Instrumentação, sensores e aquisição",
+    "eixo": "Circuitos, eletrônica e instrumentação",
+    "unidades": [
+      {
+        "id": "U-ELE04-01",
+        "titulo": "sensores",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE04-02",
+        "titulo": "ADC",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE04-03",
+        "titulo": "condicionamento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE04-04",
+        "titulo": "ruído",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ELE05",
+    "nome": "Laboratório de eletrônica e projeto de PCB",
+    "eixo": "Circuitos, eletrônica e instrumentação",
+    "unidades": [
+      {
+        "id": "U-ELE05-01",
+        "titulo": "esquemático",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE05-02",
+        "titulo": "layout",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE05-03",
+        "titulo": "montagem",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE05-04",
+        "titulo": "validação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ELE06",
+    "nome": "Eletrônica de potência e acionamentos",
+    "eixo": "Circuitos, eletrônica e instrumentação",
+    "unidades": [
+      {
+        "id": "U-ELE06-01",
+        "titulo": "conversores",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE06-02",
+        "titulo": "comutação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE06-03",
+        "titulo": "motores",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "ELE07",
+    "nome": "Compatibilidade eletromagnética e confiabilidade",
+    "eixo": "Circuitos, eletrônica e instrumentação",
+    "unidades": [
+      {
+        "id": "U-ELE07-01",
+        "titulo": "interferência",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE07-02",
+        "titulo": "aterramento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-ELE07-03",
+        "titulo": "falhas",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SIN01",
+    "nome": "Sinais e sistemas",
+    "eixo": "Sinais, controle e robótica",
+    "unidades": [
+      {
+        "id": "U-SIN01-01",
+        "titulo": "convolução",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN01-02",
+        "titulo": "transformadas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN01-03",
+        "titulo": "sistemas lineares",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SIN02",
+    "nome": "Processamento digital de sinais",
+    "eixo": "Sinais, controle e robótica",
+    "unidades": [
+      {
+        "id": "U-SIN02-01",
+        "titulo": "amostragem",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN02-02",
+        "titulo": "filtros",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN02-03",
+        "titulo": "transformada discreta",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SIN03",
+    "nome": "Controle e automação",
+    "eixo": "Sinais, controle e robótica",
+    "unidades": [
+      {
+        "id": "U-SIN03-01",
+        "titulo": "realimentação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN03-02",
+        "titulo": "estabilidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN03-03",
+        "titulo": "controladores",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SIN04",
+    "nome": "Robótica",
+    "eixo": "Sinais, controle e robótica",
+    "unidades": [
+      {
+        "id": "U-SIN04-01",
+        "titulo": "cinemática",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN04-02",
+        "titulo": "dinâmica",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN04-03",
+        "titulo": "planejamento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-01",
+        "titulo": "Introduction",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-02",
+        "titulo": "Configuration Space",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-03",
+        "titulo": "Rigid-Body Motions",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-04",
+        "titulo": "Forward Kinematics",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-05",
+        "titulo": "Velocity Kinematics and Statics",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-06",
+        "titulo": "Inverse Kinematics",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-07",
+        "titulo": "Kinematics of Closed Chains",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-08",
+        "titulo": "Dynamics of Open Chains",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-09",
+        "titulo": "Trajectory Generation",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-10",
+        "titulo": "Motion Planning",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-11",
+        "titulo": "Robot Control",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-12",
+        "titulo": "Grasping and Manipulation",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C07-13",
+        "titulo": "Wheeled Mobile Robots",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SIN05",
+    "nome": "Comunicações digitais",
+    "eixo": "Sinais, controle e robótica",
+    "unidades": [
+      {
+        "id": "U-SIN05-01",
+        "titulo": "modulação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN05-02",
+        "titulo": "canais",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN05-03",
+        "titulo": "detecção",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SIN06",
+    "nome": "Sistemas ciberfísicos e IoT",
+    "eixo": "Sinais, controle e robótica",
+    "unidades": [
+      {
+        "id": "U-SIN06-01",
+        "titulo": "integração física",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN06-02",
+        "titulo": "conectividade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SIN06-03",
+        "titulo": "restrições",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SYS01",
+    "nome": "Sistemas operacionais",
+    "eixo": "Sistemas e infraestrutura",
+    "unidades": [
+      {
+        "id": "U-SYS01-01",
+        "titulo": "processos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS01-02",
+        "titulo": "memória",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS01-03",
+        "titulo": "arquivos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS01-04",
+        "titulo": "proteção",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C05-12",
+        "titulo": "Operating System",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SYS02",
+    "nome": "Sistemas distribuídos",
+    "eixo": "Sistemas e infraestrutura",
+    "unidades": [
+      {
+        "id": "U-SYS02-01",
+        "titulo": "falhas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS02-02",
+        "titulo": "consistência",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS02-03",
+        "titulo": "replicação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS02-04",
+        "titulo": "coordenação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-20",
+        "titulo": "Distributed Transactions: 2PC",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-21",
+        "titulo": "Distributed Transactions: Paxos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-22",
+        "titulo": "Paxos continued",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SYS03",
+    "nome": "Computação paralela e alto desempenho",
+    "eixo": "Sistemas e infraestrutura",
+    "unidades": [
+      {
+        "id": "U-SYS03-01",
+        "titulo": "decomposição",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS03-02",
+        "titulo": "speedup",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS03-03",
+        "titulo": "comunicação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SYS04",
+    "nome": "Virtualização, containers e nuvem",
+    "eixo": "Sistemas e infraestrutura",
+    "unidades": [
+      {
+        "id": "U-SYS04-01",
+        "titulo": "isolamento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS04-02",
+        "titulo": "imagens",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS04-03",
+        "titulo": "serviços",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS04-04",
+        "titulo": "operação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SYS05",
+    "nome": "Administração de sistemas e observabilidade",
+    "eixo": "Sistemas e infraestrutura",
+    "unidades": [
+      {
+        "id": "U-SYS05-01",
+        "titulo": "serviços",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS05-02",
+        "titulo": "métricas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS05-03",
+        "titulo": "logs",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS05-04",
+        "titulo": "diagnóstico",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SYS06",
+    "nome": "Armazenamento e sistemas de arquivos",
+    "eixo": "Sistemas e infraestrutura",
+    "unidades": [
+      {
+        "id": "U-SYS06-01",
+        "titulo": "persistência",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS06-02",
+        "titulo": "índices",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS06-03",
+        "titulo": "recuperação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SYS07",
+    "nome": "SRE e engenharia de desempenho",
+    "eixo": "Sistemas e infraestrutura",
+    "unidades": [
+      {
+        "id": "U-SYS07-01",
+        "titulo": "indicadores",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS07-02",
+        "titulo": "objetivos de serviço",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SYS07-03",
+        "titulo": "desempenho",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "NET01",
+    "nome": "Redes de computadores",
+    "eixo": "Redes e comunicação",
+    "unidades": [
+      {
+        "id": "U-NET01-01",
+        "titulo": "camadas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET01-02",
+        "titulo": "endereçamento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET01-03",
+        "titulo": "roteamento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET01-04",
+        "titulo": "transporte",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "NET02",
+    "nome": "Programação de redes e sistemas web",
+    "eixo": "Redes e comunicação",
+    "unidades": [
+      {
+        "id": "U-NET02-01",
+        "titulo": "sockets",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET02-02",
+        "titulo": "HTTP",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET02-03",
+        "titulo": "serviços",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET02-04",
+        "titulo": "APIs",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-11",
+        "titulo": "Flask",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "NET03",
+    "nome": "Redes sem fio e móveis",
+    "eixo": "Redes e comunicação",
+    "unidades": [
+      {
+        "id": "U-NET03-01",
+        "titulo": "acesso ao meio",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET03-02",
+        "titulo": "mobilidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET03-03",
+        "titulo": "propagação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "NET04",
+    "nome": "Sistemas de telecomunicações",
+    "eixo": "Redes e comunicação",
+    "unidades": [
+      {
+        "id": "U-NET04-01",
+        "titulo": "transmissão",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET04-02",
+        "titulo": "multiplexação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET04-03",
+        "titulo": "enlaces",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "NET05",
+    "nome": "Redes definidas por software e virtualização",
+    "eixo": "Redes e comunicação",
+    "unidades": [
+      {
+        "id": "U-NET05-01",
+        "titulo": "planos de controle",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET05-02",
+        "titulo": "virtualização",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-NET05-03",
+        "titulo": "automação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SWE01",
+    "nome": "Requisitos e modelagem de software",
+    "eixo": "Engenharia e qualidade de software",
+    "unidades": [
+      {
+        "id": "U-SWE01-01",
+        "titulo": "elicitação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE01-02",
+        "titulo": "requisitos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE01-03",
+        "titulo": "modelos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE01-04",
+        "titulo": "critérios de aceite",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SWE02",
+    "nome": "Projeto e arquitetura de software",
+    "eixo": "Engenharia e qualidade de software",
+    "unidades": [
+      {
+        "id": "U-SWE02-01",
+        "titulo": "modularidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE02-02",
+        "titulo": "padrões",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE02-03",
+        "titulo": "atributos de qualidade",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SWE03",
+    "nome": "Testes, verificação e validação",
+    "eixo": "Engenharia e qualidade de software",
+    "unidades": [
+      {
+        "id": "U-SWE03-01",
+        "titulo": "partições",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE03-02",
+        "titulo": "oráculos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE03-03",
+        "titulo": "integração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE03-04",
+        "titulo": "propriedades",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C01-07",
+        "titulo": "Testing, Debugging, Exceptions, and Assertions",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C03-04",
+        "titulo": "Debugging and Profiling",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SWE04",
+    "nome": "Qualidade, manutenção e evolução",
+    "eixo": "Engenharia e qualidade de software",
+    "unidades": [
+      {
+        "id": "U-SWE04-01",
+        "titulo": "dívida técnica",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE04-02",
+        "titulo": "refatoração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE04-03",
+        "titulo": "qualidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE04-04",
+        "titulo": "manutenção",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C03-09",
+        "titulo": "Code Quality",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SWE05",
+    "nome": "Gestão de configuração, CI/CD e DevOps",
+    "eixo": "Engenharia e qualidade de software",
+    "unidades": [
+      {
+        "id": "U-SWE05-01",
+        "titulo": "build",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE05-02",
+        "titulo": "automação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE05-03",
+        "titulo": "versionamento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE05-04",
+        "titulo": "entrega",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C03-06",
+        "titulo": "Packaging and Shipping Code",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SWE06",
+    "nome": "Segurança de sistemas e criptografia",
+    "eixo": "Engenharia e qualidade de software",
+    "unidades": [
+      {
+        "id": "U-SWE06-01",
+        "titulo": "ameaças",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE06-02",
+        "titulo": "controles",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE06-03",
+        "titulo": "autenticação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE06-04",
+        "titulo": "criptografia",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SWE07",
+    "nome": "Desenvolvimento seguro e privacidade",
+    "eixo": "Engenharia e qualidade de software",
+    "unidades": [
+      {
+        "id": "U-SWE07-01",
+        "titulo": "segredos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE07-02",
+        "titulo": "dependências",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE07-03",
+        "titulo": "dados pessoais",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE07-04",
+        "titulo": "revisão",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "SWE08",
+    "nome": "Engenharia de software experimental",
+    "eixo": "Engenharia e qualidade de software",
+    "unidades": [
+      {
+        "id": "U-SWE08-01",
+        "titulo": "desenhos experimentais",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE08-02",
+        "titulo": "validade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-SWE08-03",
+        "titulo": "replicação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "DAT01",
+    "nome": "Bancos de dados e modelagem",
+    "eixo": "Dados e informação",
+    "unidades": [
+      {
+        "id": "U-DAT01-01",
+        "titulo": "modelo relacional",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT01-02",
+        "titulo": "SQL",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT01-03",
+        "titulo": "normalização",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-08",
+        "titulo": "SQL",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "DAT02",
+    "nome": "Implementação de bancos de dados",
+    "eixo": "Dados e informação",
+    "unidades": [
+      {
+        "id": "U-DAT02-01",
+        "titulo": "índices",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT02-02",
+        "titulo": "transações",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT02-03",
+        "titulo": "concorrência",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT02-04",
+        "titulo": "recuperação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-01",
+        "titulo": "Introduction",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-02",
+        "titulo": "SQL I",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-03",
+        "titulo": "SQL II",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-04",
+        "titulo": "Disks, Buffers, Files",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-05",
+        "titulo": "Cost Models and Index",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-06",
+        "titulo": "B+ Trees",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-07",
+        "titulo": "Index Files and their Costs",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-08",
+        "titulo": "Spatial and Vector Indices",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-09",
+        "titulo": "Buffer Management",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-10",
+        "titulo": "Sorting and Hashing",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-11",
+        "titulo": "Joins",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-12",
+        "titulo": "Iterators and Relational Algebra",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-13",
+        "titulo": "Query Optimization: Plan Space",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-14",
+        "titulo": "Query Optimization: Costs and Search",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-15",
+        "titulo": "Transactions & Concurrency I",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-16",
+        "titulo": "Transactions & Concurrency II",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-17",
+        "titulo": "Recovery I",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-18",
+        "titulo": "Recovery II",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-19",
+        "titulo": "Parallel QueryProcessing",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "DAT03",
+    "nome": "Engenharia de dados e integração",
+    "eixo": "Dados e informação",
+    "unidades": [
+      {
+        "id": "U-DAT03-01",
+        "titulo": "pipelines",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT03-02",
+        "titulo": "qualidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT03-03",
+        "titulo": "integração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT03-04",
+        "titulo": "proveniência",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-23",
+        "titulo": "NoSQL I: Data Models",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-24",
+        "titulo": "NoSQL II: MongoDB",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "DAT04",
+    "nome": "Recuperação de informação",
+    "eixo": "Dados e informação",
+    "unidades": [
+      {
+        "id": "U-DAT04-01",
+        "titulo": "indexação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT04-02",
+        "titulo": "ranking",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT04-03",
+        "titulo": "relevância",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "DAT05",
+    "nome": "Análise e visualização de dados",
+    "eixo": "Dados e informação",
+    "unidades": [
+      {
+        "id": "U-DAT05-01",
+        "titulo": "exploração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT05-02",
+        "titulo": "gráficos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT05-03",
+        "titulo": "comunicação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT05-04",
+        "titulo": "incerteza",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "DAT06",
+    "nome": "Mineração de dados e big data",
+    "eixo": "Dados e informação",
+    "unidades": [
+      {
+        "id": "U-DAT06-01",
+        "titulo": "padrões",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT06-02",
+        "titulo": "processamento",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-DAT06-03",
+        "titulo": "escalabilidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C06-25",
+        "titulo": "NoSQL III: MapReduce and Spark",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "IA01",
+    "nome": "Inteligência artificial",
+    "eixo": "Inteligência artificial",
+    "unidades": [
+      {
+        "id": "U-IA01-01",
+        "titulo": "busca",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA01-02",
+        "titulo": "representação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA01-03",
+        "titulo": "raciocínio",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-09",
+        "titulo": "Artificial Intelligence",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "IA02",
+    "nome": "Aprendizado de máquina",
+    "eixo": "Inteligência artificial",
+    "unidades": [
+      {
+        "id": "U-IA02-01",
+        "titulo": "supervisão",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA02-02",
+        "titulo": "validação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA02-03",
+        "titulo": "regularização",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA02-04",
+        "titulo": "métricas",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "IA03",
+    "nome": "Aprendizado profundo",
+    "eixo": "Inteligência artificial",
+    "unidades": [
+      {
+        "id": "U-IA03-01",
+        "titulo": "redes neurais",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA03-02",
+        "titulo": "gradientes",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA03-03",
+        "titulo": "otimização",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "IA04",
+    "nome": "Visão computacional e processamento de imagens",
+    "eixo": "Inteligência artificial",
+    "unidades": [
+      {
+        "id": "U-IA04-01",
+        "titulo": "representação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA04-02",
+        "titulo": "filtros",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA04-03",
+        "titulo": "reconhecimento",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "IA05",
+    "nome": "Processamento de linguagem natural",
+    "eixo": "Inteligência artificial",
+    "unidades": [
+      {
+        "id": "U-IA05-01",
+        "titulo": "representações",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA05-02",
+        "titulo": "modelos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA05-03",
+        "titulo": "avaliação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "IA06",
+    "nome": "Aprendizado por reforço e agentes",
+    "eixo": "Inteligência artificial",
+    "unidades": [
+      {
+        "id": "U-IA06-01",
+        "titulo": "decisão sequencial",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA06-02",
+        "titulo": "exploração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA06-03",
+        "titulo": "recompensa",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "IA07",
+    "nome": "IA responsável e avaliação de modelos generativos",
+    "eixo": "Inteligência artificial",
+    "unidades": [
+      {
+        "id": "U-IA07-01",
+        "titulo": "viés",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA07-02",
+        "titulo": "robustez",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA07-03",
+        "titulo": "rastreabilidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-IA07-04",
+        "titulo": "avaliação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C03-07",
+        "titulo": "Agentic Coding",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HCI01",
+    "nome": "Interação humano-computador",
+    "eixo": "Interação, gráficos e plataformas",
+    "unidades": [
+      {
+        "id": "U-HCI01-01",
+        "titulo": "tarefas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI01-02",
+        "titulo": "interação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI01-03",
+        "titulo": "usabilidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI01-04",
+        "titulo": "avaliação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HCI02",
+    "nome": "Acessibilidade e design inclusivo",
+    "eixo": "Interação, gráficos e plataformas",
+    "unidades": [
+      {
+        "id": "U-HCI02-01",
+        "titulo": "barreiras",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI02-02",
+        "titulo": "tecnologias assistivas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI02-03",
+        "titulo": "critérios",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HCI03",
+    "nome": "Computação gráfica e geometria computacional",
+    "eixo": "Interação, gráficos e plataformas",
+    "unidades": [
+      {
+        "id": "U-HCI03-01",
+        "titulo": "transformações",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI03-02",
+        "titulo": "rasterização",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI03-03",
+        "titulo": "geometria",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HCI04",
+    "nome": "Desenvolvimento web e móvel",
+    "eixo": "Interação, gráficos e plataformas",
+    "unidades": [
+      {
+        "id": "U-HCI04-01",
+        "titulo": "interfaces",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI04-02",
+        "titulo": "estado",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI04-03",
+        "titulo": "APIs",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI04-04",
+        "titulo": "plataformas",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-10",
+        "titulo": "HTML, CSS, JavaScript",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HCI05",
+    "nome": "Jogos, realidade virtual e aumentada",
+    "eixo": "Interação, gráficos e plataformas",
+    "unidades": [
+      {
+        "id": "U-HCI05-01",
+        "titulo": "simulação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI05-02",
+        "titulo": "interação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI05-03",
+        "titulo": "renderização",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "HCI06",
+    "nome": "Computação gráfica avançada e renderização",
+    "eixo": "Interação, gráficos e plataformas",
+    "unidades": [
+      {
+        "id": "U-HCI06-01",
+        "titulo": "transporte de luz",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI06-02",
+        "titulo": "amostragem",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-HCI06-03",
+        "titulo": "renderização",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRO01",
+    "nome": "Ética, sociedade e responsabilidade profissional",
+    "eixo": "Formação profissional e projetos",
+    "unidades": [
+      {
+        "id": "U-PRO01-01",
+        "titulo": "impactos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO01-02",
+        "titulo": "responsabilidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO01-03",
+        "titulo": "decisões",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C03-08",
+        "titulo": "Beyond the Code",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRO02",
+    "nome": "Direito, propriedade intelectual e proteção de dados",
+    "eixo": "Formação profissional e projetos",
+    "unidades": [
+      {
+        "id": "U-PRO02-01",
+        "titulo": "licenças",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO02-02",
+        "titulo": "direitos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO02-03",
+        "titulo": "governança de dados",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRO03",
+    "nome": "Economia, gestão e empreendedorismo",
+    "eixo": "Formação profissional e projetos",
+    "unidades": [
+      {
+        "id": "U-PRO03-01",
+        "titulo": "custos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO03-02",
+        "titulo": "viabilidade",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO03-03",
+        "titulo": "projetos",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO03-04",
+        "titulo": "inovação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRO04",
+    "nome": "Sustentabilidade e impacto ambiental",
+    "eixo": "Formação profissional e projetos",
+    "unidades": [
+      {
+        "id": "U-PRO04-01",
+        "titulo": "energia",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO04-02",
+        "titulo": "ciclo de vida",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO04-03",
+        "titulo": "descarte",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRO05",
+    "nome": "Projeto integrador de software",
+    "eixo": "Formação profissional e projetos",
+    "unidades": [
+      {
+        "id": "U-PRO05-01",
+        "titulo": "integração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO05-02",
+        "titulo": "validação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO05-03",
+        "titulo": "documentação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-C02-12",
+        "titulo": "The End",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRO06",
+    "nome": "Projeto integrador de hardware e software",
+    "eixo": "Formação profissional e projetos",
+    "unidades": [
+      {
+        "id": "U-PRO06-01",
+        "titulo": "codesign",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO06-02",
+        "titulo": "integração",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO06-03",
+        "titulo": "validação",
+        "estado": "ROTEIRO"
+      }
+    ]
+  },
+  {
+    "id": "PRO07",
+    "nome": "Pesquisa, extensão, estágio e trabalho final",
+    "eixo": "Formação profissional e projetos",
+    "unidades": [
+      {
+        "id": "U-PRO07-01",
+        "titulo": "investigação",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO07-02",
+        "titulo": "prática supervisionada",
+        "estado": "ROTEIRO"
+      },
+      {
+        "id": "U-PRO07-03",
+        "titulo": "contribuição",
+        "estado": "ROTEIRO"
+      }
+    ]
+  }
+]
