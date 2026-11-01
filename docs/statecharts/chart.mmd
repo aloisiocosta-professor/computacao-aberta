@@ -1,0 +1,44 @@
+---
+title: "Computador didático: um programa de três instruções"
+---
+stateDiagram-v2
+  state "Legend" as legend {
+    lg0: off
+    lg1: empty
+    lg2: ready
+    lg3: running
+    lg4: done
+  }
+  class lg0 tan
+  class lg1 yellow
+  class lg2 blue
+  class lg3 teal
+  class lg4 teal
+  s0: Desligado
+  s1: Ligado, RAM vazia
+  s2: Programa na RAM
+  s3: Executando: etapa 1, valor 0
+  s4: Executando: etapa 2, valor 2
+  s5: Executando: etapa 3, valor 6
+  s6: Resultado 6 na RAM
+  [*] --> s0
+  s0 --> s1: você liga
+  s1 --> s0: você desliga
+  s1 --> s2: você carrega o programa
+  s2 --> s0: você desliga
+  s2 --> s3: você inicia
+  s3 --> s0: você desliga
+  s3 --> s4: somar 2
+  s4 --> s0: você desliga
+  s4 --> s5: multiplicar por 3
+  s5 --> s0: você desliga
+  s5 --> s6: armazenar resultado
+  s6 --> s0: você desliga
+  s6 --> s2: você reinicia o exercício
+  class s0 tan
+  class s1 yellow
+  class s2 blue
+  class s3 teal
+  class s4 teal
+  class s5 teal
+  class s6 teal

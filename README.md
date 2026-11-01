@@ -1,3 +1,5 @@
+> Atualização 0.3.0: [plataforma de aprendizagem](https://aloisiocosta-professor.github.io/computacao-aberta/) com 447 unidades temáticas, 894 questões, 447 práticas e [computador 3D interativo](https://aloisiocosta-professor.github.io/computacao-aberta/computador-3d.html). Consulte [cobertura e limitações](docs/cobertura-tematica.md) e [skills/ferramentas](docs/skills-instaladas.md). Cobertura editorial de 100%; validação pedagógica ainda não verificada.
+
 # Computação Aberta
 
 **Aprender para conseguir fazer, explicar e decidir.** Um ambiente aberto de aprendizagem prática em Ciência da Computação e Engenharia de Computação, para pessoas e para tarefas verificáveis de agentes de IA.

@@ -1,0 +1,7 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {initial,transition,invariant} from '../../plataforma/maquina-computador.mjs';
+const events=['POWER_ON','LOAD','START','STEP','POWER_OFF','RESET'];
+test('todos os estados alcançáveis preservam regras e rejeitam ações fora de ordem',()=>{const queue=[initial()],seen=new Set();let accepted=0,rejected=0;while(queue.length){const s=queue.shift(),key=JSON.stringify(s);if(seen.has(key))continue;seen.add(key);assert.ok(invariant(s));for(const event of events){const r=transition(s,event);assert.ok(invariant(r.state));if(r.accepted){accepted++;queue.push(r.state);}else{rejected++;assert.deepEqual(r.state,s);}}}assert.equal(seen.size,7);assert.ok(accepted>=12&&rejected>0);});
+test('execução de três instruções produz6; desligar limpa estado volátil',()=>{let s=initial();for(const e of ['POWER_ON','LOAD','START','STEP','STEP','STEP']){const r=transition(s,e);assert.equal(r.accepted,true);s=r.state;}assert.deepEqual(s,{phase:'done',pc:3,value:6});assert.deepEqual(transition(s,'POWER_OFF').state,initial());assert.deepEqual(transition(s,'RESET').state,{phase:'ready',pc:0,value:0});});
+test('estado corrompido não permite continuar execução',()=>{for(const s of [{phase:'running',pc:2,value:0},{phase:'done',pc:0,value:6},{phase:'ready',pc:3,value:6}]){const r=transition(s,'STEP');assert.equal(r.accepted,false);assert.deepEqual(r.state,initial());}});

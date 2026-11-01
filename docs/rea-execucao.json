@@ -1,0 +1,13 @@
+{
+  "ferramenta": "rea-agents",
+  "versao": "6.8.0",
+  "operacao": "analyze_javascript_application",
+  "evidence_id": "ev_70befafc95e030d0543d4469b5d232ae304ae78df0732ca9858fd9aae901478a",
+  "artefato_sha256": "4e9771af01a9e6c7bdc052443b7409c1787a1d31d0dc3ce535d65541130a1f32",
+  "estado": "PARCIAL",
+  "inventario_registrado": true,
+  "analise_semantica_concluida": false,
+  "codigo": "capability_unavailable",
+  "motivo": "Linux process ownership inspection requires a procps-compatible ps on REA's PATH before launching a child: Command failed: ps -axo pid=,ppid=,pgid=,uid=,stat=,command=\nfatal library error, lookup self\n",
+  "limite": "Não repetir a chamada sem resolver o requisito real de inspeção de processos; não simular ps nem reduzir proteções."
+}

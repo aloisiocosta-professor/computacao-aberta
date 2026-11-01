@@ -4,9 +4,23 @@ import argparse
 import json
 import shutil
 import subprocess
+import hashlib
+import copy
 
 ROOT=Path(__file__).resolve().parents[1]
-PUBLIC=('index.html','styles.css','app.mjs','engine.mjs','missions.mjs','simulation.mjs','icon.svg','catalogo.json','laboratorio.html','academia.css','academia.mjs','jornada.mjs','jornada.json')
+CONTENT_FILES=('conteudos-fundamentos.json','conteudos-exatas.json','conteudos-programacao.json','conteudos-sistemas.json','conteudos-engenharia.json','conteudos-dados.json')
+PUBLIC=('index.html','styles.css','app.mjs','engine.mjs','missions.mjs','simulation.mjs','icon.svg','catalogo.json','laboratorio.html','academia.css','academia.mjs','jornada.mjs','jornada.json','atividade.mjs','maquina-computador.mjs','computador-3d.html','computador-3d.mjs','vendor/colorfigures/core.js','vendor/colorfigures/LICENSE')+CONTENT_FILES
+
+
+def permute_options(lessons):
+    lessons=copy.deepcopy(lessons)
+    for lesson in lessons:
+        groups=[(q,'alternativas') for q in lesson['questoes']]+[(q,'opcoes') for q in lesson['pratica'].get('rodadas',[])]
+        for index,(question,key) in enumerate(groups):
+            n=len(question[key]); offset=int(hashlib.sha256(f"{lesson['id']}:{index}".encode()).hexdigest()[:8],16)%n
+            for field in (key,'feedback'):question[field]=question[field][offset:]+question[field][:offset]
+            question['correta']=(question['correta']-offset)%n
+    return lessons
 
 
 def catalog(root=ROOT):
@@ -22,6 +36,15 @@ def catalog(root=ROOT):
     profiles={x['id']:x for x in read('perfis-habilidades')}
     refs={x['id']:x for x in read('referencias')}
     courses={x['id']:x for x in read('cursos')}
+    contents={}
+    for filename in CONTENT_FILES:
+        path=root/'data'/filename
+        if not path.exists():continue
+        lessons=json.loads(path.read_text(encoding='utf-8'))
+        for lesson in lessons:
+            if lesson['id'] in contents:raise ValueError('Conteúdo duplicado: '+lesson['id'])
+            contents[lesson['id']]=filename
+        (root/'plataforma'/filename).write_text(json.dumps(permute_options(lessons),ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8')
     models=read('gamificacao')
     journey=dict(versao=models['versao'],estado_pedagogico=models['status_pedagogico'],eixos=read('eixos'),modelos=models['modelos'],disciplinas=[])
     for d in read('disciplinas'):
@@ -32,7 +55,7 @@ def catalog(root=ROOT):
             resources=[dict(id=r,titulo=refs[r]['titulo'],url=refs[r]['url'],leitura=refs[r]['leitura'],tipo='Livro/referência candidata') for r in h['referencias_candidatas'] if r in refs]
             if h.get('curso') in courses:
                 c=courses[h['curso']];resources.insert(0,dict(id=c['id'],titulo=c['titulo'],url=c['url'],leitura=c['leitura'],tipo='Curso de origem'))
-            units.append(dict(id=h['id'],titulo=items[h['item']],item=h['item'],indice=h['indice'],estado=h['estado_editorial'],objetivo=h['resultado_observavel'],pre_requisitos=h['pre_requisitos'],modelo=d['eixo'],recursos=resources,tarefa=profile['visualizacao']['tarefa'],representacao=profile['visualizacao']['representacao'],criterios=profile['criterios'],evidencias=profile['evidencias_esperadas'],transferencia=profile['transferencia'],julgamento=profile['julgamento_pratico'],aula=h.get('aula_local')))
+            units.append(dict(id=h['id'],titulo=items[h['item']],item=h['item'],indice=h['indice'],estado=h['estado_editorial'],objetivo=h['resultado_observavel'],pre_requisitos=h['pre_requisitos'],modelo=d['eixo'],conteudo_arquivo=contents.get(h['id']),recursos=resources,tarefa=profile['visualizacao']['tarefa'],representacao=profile['visualizacao']['representacao'],criterios=profile['criterios'],evidencias=profile['evidencias_esperadas'],transferencia=profile['transferencia'],julgamento=profile['julgamento_pratico'],aula=h.get('aula_local')))
         journey['disciplinas'].append(dict(id=d['id'],nome=d['nome'],eixo=d['eixo'],etapa=d['etapa'],percursos=d['percursos'],pre_requisitos=d['pre_requisitos'],metodologia=d['metodologia'],unidades=units))
     # Share repeated profiles and references: keep the initial download compact.
     journey['perfis']={}
@@ -53,15 +76,22 @@ def build(destination,root=ROOT):
     if destination==root.resolve() or destination==root/'plataforma' or not destination.is_relative_to(root):
         raise ValueError('Escolha uma pasta de saída dedicada dentro do projeto, como dist.')
     allowed=set(PUBLIC)|{'release.json','.nojekyll'}
-    if destination.exists() and any(p.name not in allowed for p in destination.iterdir()):
+    directories={str(parent) for filename in PUBLIC for parent in Path(filename).parents if str(parent)!='.'}
+    if destination.exists() and any(p.is_symlink() or (str(p.relative_to(destination)) not in (directories if p.is_dir() else allowed)) for p in destination.rglob('*')):
         raise ValueError('A pasta de saída contém arquivos não esperados. Use uma pasta dedicada e vazia.')
-    rows=catalog(root);destination.mkdir(parents=True,exist_ok=True)
-    for filename in PUBLIC:shutil.copyfile(root/'plataforma'/filename,destination/filename)
+    rows=catalog(root)
+    generated=json.loads((root/'plataforma/jornada.json').read_text(encoding='utf-8'))
+    missing=[u['id'] for d in generated['disciplinas'] for u in d['unidades'] if not u.get('conteudo_arquivo')]
+    if missing:raise ValueError(f'Conteúdo temático ausente em {len(missing)} unidades: '+', '.join(missing[:8]))
+    destination.mkdir(parents=True,exist_ok=True)
+    for filename in PUBLIC:
+        (destination/filename).parent.mkdir(parents=True,exist_ok=True)
+        shutil.copyfile(root/'plataforma'/filename,destination/filename)
     try:commit=subprocess.check_output(['git','rev-parse','HEAD'],cwd=root,text=True,stderr=subprocess.DEVNULL).strip()
     except (OSError,subprocess.CalledProcessError):commit='development'
-    (destination/'release.json').write_text(json.dumps(dict(version='0.2.0',commit=commit),indent=2)+'\n',encoding='utf-8')
+    (destination/'release.json').write_text(json.dumps(dict(version='0.3.0',commit=commit),indent=2)+'\n',encoding='utf-8')
     (destination/'.nojekyll').write_text('',encoding='utf-8')
-    return dict(version='0.2.0',commit=commit,files=list(PUBLIC)+['release.json','.nojekyll'],disciplinas=len(rows),desafios=len(json.loads((root/'data/desafios-plataforma.json').read_text(encoding='utf-8'))))
+    return dict(version='0.3.0',commit=commit,files=list(PUBLIC)+['release.json','.nojekyll'],disciplinas=len(rows),desafios=len(json.loads((root/'data/desafios-plataforma.json').read_text(encoding='utf-8'))))
 
 
 if __name__=='__main__':
