@@ -2,9 +2,9 @@ import {interpret} from './engine.mjs';
 export const steps=['estudo','previsao','codigo','evidencia','revisao'];
 export const points={estudo:5,previsao:10,codigo:20,evidencia:5,revisao:10};
 export const labels=['Não iniciada','Em exploração','Em prática','Evidência registrada','Retomada feita'];
-export const empty=()=>({version:2,records:{},drafts:{},last:null});
+export const empty=()=>({version:3,records:{},drafts:{},last:null});
 export function readState(text,ids){
- const state=empty();try{const s=JSON.parse(text);if(s?.version!==2)return state;for(const id of ids){const r=s.records?.[id];if(r&&typeof r==='object'&&!Array.isArray(r)){state.records[id]={};for(const k of steps)if(r[k]===true)state.records[id][k]=true;for(const k of ['note','source','support','date','due'])if(typeof r[k]==='string')state.records[id][k]=r[k].slice(0,12000);if(Number.isInteger(r.reviewVariant)&&r.reviewVariant>=0&&r.reviewVariant<=1000)state.records[id].reviewVariant=r.reviewVariant;}
+ const state=empty();try{const s=JSON.parse(text);if(s?.version!==3)return state;for(const id of ids){const r=s.records?.[id];if(r&&typeof r==='object'&&!Array.isArray(r)){state.records[id]={};for(const k of steps)if(r[k]===true)state.records[id][k]=true;for(const k of ['note','source','support','date','due'])if(typeof r[k]==='string')state.records[id][k]=r[k].slice(0,12000);if(Number.isInteger(r.reviewVariant)&&r.reviewVariant>=0&&r.reviewVariant<=1000)state.records[id].reviewVariant=r.reviewVariant;}
  if(typeof s.drafts?.[id]==='string')state.drafts[id]=s.drafts[id].slice(0,6000);}if(ids.includes(s.last))state.last=s.last;}catch{}return state;
 }
 export function unitPoints(record={}){return steps.reduce((s,k)=>s+(record[k]===true?points[k]:0),0);}

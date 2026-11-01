@@ -1,5 +1,5 @@
 {
-  "versao": "0.2.0",
+  "versao": "0.3.0",
   "estado_pedagogico": "NÃO VERIFICADO",
   "eixos": [
     {
@@ -736,6 +736,7 @@
           "objetivo": "Aplicar abstração em um procedimento documentado, justificando escolhas e fontes.",
           "pre_requisitos": [],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -753,6 +754,7 @@
             "U-FND01-01"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -770,6 +772,7 @@
             "U-FND01-02"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -799,6 +802,7 @@
           "objetivo": "Aplicar planejamento em um procedimento documentado, justificando escolhas e fontes.",
           "pre_requisitos": [],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -816,6 +820,7 @@
             "U-FND02-01"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -833,6 +838,7 @@
             "U-FND02-02"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -862,6 +868,7 @@
           "objetivo": "Aplicar controle de versão em um procedimento documentado, justificando escolhas e fontes.",
           "pre_requisitos": [],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -879,6 +886,7 @@
             "U-FND03-01"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -896,6 +904,7 @@
             "U-FND03-02"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -913,6 +922,7 @@
             "U-FND03-03"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "C03",
             "B01",
@@ -931,6 +941,7 @@
             "U-FND03-03"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "C03",
             "B01",
@@ -949,6 +960,7 @@
             "U-FND03-03"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "C03",
             "B01",
@@ -967,6 +979,7 @@
             "U-FND03-03"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "C03",
             "B01",
@@ -1001,6 +1014,7 @@
             "U-FND02-03"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -1018,6 +1032,7 @@
             "U-FND04-01"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -1035,6 +1050,7 @@
             "U-FND04-02"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -1061,6 +1077,7 @@
           "objetivo": "Aplicar leitura técnica em um procedimento documentado, justificando escolhas e fontes.",
           "pre_requisitos": [],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -1078,6 +1095,7 @@
             "U-FND05-01"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -1095,6 +1113,7 @@
             "U-FND05-02"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -1130,6 +1149,7 @@
             "U-MAT07-03"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -1147,6 +1167,7 @@
             "U-FND06-01"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -1164,6 +1185,7 @@
             "U-FND06-02"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B01",
             "B21"
@@ -1181,6 +1203,7 @@
             "U-FND06-03"
           ],
           "modelo": "FND",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "C06",
             "B01",
@@ -1211,6 +1234,7 @@
           "objetivo": "Resolver um problema de álgebra, explicitando hipóteses e verificando os passos.",
           "pre_requisitos": [],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1229,6 +1253,7 @@
             "U-MAT01-01"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1247,6 +1272,7 @@
             "U-MAT01-02"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1277,6 +1303,7 @@
           "objetivo": "Resolver um problema de proposições, explicitando hipóteses e verificando os passos.",
           "pre_requisitos": [],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1295,6 +1322,7 @@
             "U-MAT02-01"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1313,6 +1341,7 @@
             "U-MAT02-02"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1331,6 +1360,7 @@
             "U-MAT02-03"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1349,6 +1379,7 @@
             "U-MAT02-04"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "C04",
             "B03",
@@ -1368,6 +1399,7 @@
             "U-MAT02-04"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "C04",
             "B03",
@@ -1387,6 +1419,7 @@
             "U-MAT02-04"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "C04",
             "B03",
@@ -1422,6 +1455,7 @@
             "U-MAT01-03"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1440,6 +1474,7 @@
             "U-MAT03-01"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1458,6 +1493,7 @@
             "U-MAT03-02"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1492,6 +1528,7 @@
             "U-MAT01-03"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1510,6 +1547,7 @@
             "U-MAT04-01"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1528,6 +1566,7 @@
             "U-MAT04-02"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1562,6 +1601,7 @@
             "U-MAT04-03"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1580,6 +1620,7 @@
             "U-MAT05-01"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1598,6 +1639,7 @@
             "U-MAT05-02"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1632,6 +1674,7 @@
             "U-MAT03-03"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1650,6 +1693,7 @@
             "U-MAT06-01"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1668,6 +1712,7 @@
             "U-MAT06-02"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1704,6 +1749,7 @@
             "U-MAT02-04"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B28",
             "B09"
@@ -1721,6 +1767,7 @@
             "U-MAT07-01"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B28",
             "B09"
@@ -1738,6 +1785,7 @@
             "U-MAT07-02"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B28",
             "B09"
@@ -1755,6 +1803,7 @@
             "U-MAT07-03"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "C04",
             "B28",
@@ -1790,6 +1839,7 @@
             "U-MAT06-03"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1808,6 +1858,7 @@
             "U-MAT08-01"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1826,6 +1877,7 @@
             "U-MAT08-02"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1864,6 +1916,7 @@
             "U-PRG01-04"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1882,6 +1935,7 @@
             "U-MAT09-01"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1900,6 +1954,7 @@
             "U-MAT09-02"
           ],
           "modelo": "MAT",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B03",
             "B08",
@@ -1930,6 +1985,7 @@
           "objetivo": "Construir e rastrear um programa que utiliza variáveis, explicando seu comportamento.",
           "pre_requisitos": [],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -1948,6 +2004,7 @@
             "U-PRG01-01"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -1966,6 +2023,7 @@
             "U-PRG01-02"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -1984,6 +2042,7 @@
             "U-PRG01-03"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2002,6 +2061,7 @@
             "U-PRG01-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B01",
@@ -2021,6 +2081,7 @@
             "U-PRG01-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B01",
@@ -2040,6 +2101,7 @@
             "U-PRG01-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C02",
             "B01",
@@ -2059,6 +2121,7 @@
             "U-PRG01-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C02",
             "B01",
@@ -2094,6 +2157,7 @@
             "U-PRG01-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2112,6 +2176,7 @@
             "U-PRG02-01"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2130,6 +2195,7 @@
             "U-PRG02-02"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2148,6 +2214,7 @@
             "U-PRG02-03"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2166,6 +2233,7 @@
             "U-PRG02-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B01",
@@ -2185,6 +2253,7 @@
             "U-PRG02-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B01",
@@ -2204,6 +2273,7 @@
             "U-PRG02-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B01",
@@ -2239,6 +2309,7 @@
             "U-PRG02-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2257,6 +2328,7 @@
             "U-PRG03-01"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2275,6 +2347,7 @@
             "U-PRG03-02"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2293,6 +2366,7 @@
             "U-PRG03-03"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2311,6 +2385,7 @@
             "U-PRG03-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B01",
@@ -2330,6 +2405,7 @@
             "U-PRG03-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B01",
@@ -2365,6 +2441,7 @@
             "U-PRG02-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2383,6 +2460,7 @@
             "U-PRG04-01"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2401,6 +2479,7 @@
             "U-PRG04-02"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2419,6 +2498,7 @@
             "U-PRG04-03"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2437,6 +2517,7 @@
             "U-PRG04-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C02",
             "B01",
@@ -2456,6 +2537,7 @@
             "U-PRG04-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C02",
             "B01",
@@ -2492,6 +2574,7 @@
             "U-MAT02-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2510,6 +2593,7 @@
             "U-PRG05-01"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2528,6 +2612,7 @@
             "U-PRG05-02"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2561,6 +2646,7 @@
             "U-PRG02-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2579,6 +2665,7 @@
             "U-PRG06-01"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2597,6 +2684,7 @@
             "U-PRG06-02"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2632,6 +2720,7 @@
             "U-PRG05-03"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2650,6 +2739,7 @@
             "U-PRG07-01"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2668,6 +2758,7 @@
             "U-PRG07-02"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2686,6 +2777,7 @@
             "U-PRG07-03"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2704,6 +2796,7 @@
             "U-PRG07-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C05",
             "B01",
@@ -2741,6 +2834,7 @@
             "U-SYS01-04"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2759,6 +2853,7 @@
             "U-PRG08-01"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2777,6 +2872,7 @@
             "U-PRG08-02"
           ],
           "modelo": "PRG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B01",
             "B02",
@@ -2813,6 +2909,7 @@
             "U-MAT02-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -2830,6 +2927,7 @@
             "U-ALG01-01"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -2847,6 +2945,7 @@
             "U-ALG01-02"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -2864,6 +2963,7 @@
             "U-ALG01-03"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -2881,6 +2981,7 @@
             "U-ALG01-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B05",
@@ -2899,6 +3000,7 @@
             "U-ALG01-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B05",
@@ -2917,6 +3019,7 @@
             "U-ALG01-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C02",
             "B05",
@@ -2935,6 +3038,7 @@
             "U-ALG01-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C02",
             "B05",
@@ -2969,6 +3073,7 @@
             "U-ALG01-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -2986,6 +3091,7 @@
             "U-ALG02-01"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3003,6 +3109,7 @@
             "U-ALG02-02"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3038,6 +3145,7 @@
             "U-MAT02-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3055,6 +3163,7 @@
             "U-ALG03-01"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3072,6 +3181,7 @@
             "U-ALG03-02"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3089,6 +3199,7 @@
             "U-ALG03-03"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3106,6 +3217,7 @@
             "U-ALG03-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B05",
@@ -3124,6 +3236,7 @@
             "U-ALG03-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C01",
             "B05",
@@ -3142,6 +3255,7 @@
             "U-ALG03-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "C02",
             "B05",
@@ -3178,6 +3292,7 @@
             "U-MAT02-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3195,6 +3310,7 @@
             "U-ALG04-01"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3212,6 +3328,7 @@
             "U-ALG04-02"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3229,6 +3346,7 @@
             "U-ALG04-03"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3261,6 +3379,7 @@
             "U-MAT07-03"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3278,6 +3397,7 @@
             "U-ALG05-01"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3295,6 +3415,7 @@
             "U-ALG05-02"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3327,6 +3448,7 @@
             "U-ALG03-04"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3344,6 +3466,7 @@
             "U-ALG06-01"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3361,6 +3484,7 @@
             "U-ALG06-02"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3393,6 +3517,7 @@
             "U-MAT07-03"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3410,6 +3535,7 @@
             "U-ALG07-01"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3427,6 +3553,7 @@
             "U-ALG07-02"
           ],
           "modelo": "ALG",
+          "conteudo_arquivo": "conteudos-programacao.json",
           "recursos": [
             "B05",
             "B06"
@@ -3461,6 +3588,7 @@
             "U-ALG01-04"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3478,6 +3606,7 @@
             "U-TEO01-01"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3495,6 +3624,7 @@
             "U-TEO01-02"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3529,6 +3659,7 @@
             "U-ALG03-04"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3546,6 +3677,7 @@
             "U-TEO02-01"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3563,6 +3695,7 @@
             "U-TEO02-02"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3599,6 +3732,7 @@
             "U-PRG07-04"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3616,6 +3750,7 @@
             "U-TEO03-01"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3633,6 +3768,7 @@
             "U-TEO03-02"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3650,6 +3786,7 @@
             "U-TEO03-03"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B03",
@@ -3668,6 +3805,7 @@
             "U-TEO03-03"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B03",
@@ -3686,6 +3824,7 @@
             "U-TEO03-03"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B03",
@@ -3704,6 +3843,7 @@
             "U-TEO03-03"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B03",
@@ -3722,6 +3862,7 @@
             "U-TEO03-03"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B03",
@@ -3755,6 +3896,7 @@
             "U-PRG07-04"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3772,6 +3914,7 @@
             "U-TEO04-01"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3789,6 +3932,7 @@
             "U-TEO04-02"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3821,6 +3965,7 @@
             "U-MAT02-04"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3838,6 +3983,7 @@
             "U-TEO05-01"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3855,6 +4001,7 @@
             "U-TEO05-02"
           ],
           "modelo": "TEO",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B03",
             "B17"
@@ -3888,6 +4035,7 @@
             "U-MAT02-04"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -3905,6 +4053,7 @@
             "U-HWD01-01"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -3922,6 +4071,7 @@
             "U-HWD01-02"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -3939,6 +4089,7 @@
             "U-HWD01-03"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B07",
@@ -3957,6 +4108,7 @@
             "U-HWD01-03"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B07",
@@ -3991,6 +4143,7 @@
             "U-HWD01-03"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4008,6 +4161,7 @@
             "U-HWD02-01"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4025,6 +4179,7 @@
             "U-HWD02-02"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4042,6 +4197,7 @@
             "U-HWD02-03"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B07",
@@ -4078,6 +4234,7 @@
             "U-PRG04-04"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4095,6 +4252,7 @@
             "U-HWD03-01"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4112,6 +4270,7 @@
             "U-HWD03-02"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4129,6 +4288,7 @@
             "U-HWD03-03"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B07",
@@ -4147,6 +4307,7 @@
             "U-HWD03-03"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B07",
@@ -4181,6 +4342,7 @@
             "U-HWD03-03"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4198,6 +4360,7 @@
             "U-HWD04-01"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4215,6 +4378,7 @@
             "U-HWD04-02"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4247,6 +4411,7 @@
             "U-HWD02-03"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4264,6 +4429,7 @@
             "U-HWD05-01"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4281,6 +4447,7 @@
             "U-HWD05-02"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4298,6 +4465,7 @@
             "U-HWD05-03"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4332,6 +4500,7 @@
             "U-ELE03-04"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4349,6 +4518,7 @@
             "U-HWD06-01"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4366,6 +4536,7 @@
             "U-HWD06-02"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4400,6 +4571,7 @@
             "U-PRG08-03"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4417,6 +4589,7 @@
             "U-HWD07-01"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4434,6 +4607,7 @@
             "U-HWD07-02"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4468,6 +4642,7 @@
             "U-ELE03-04"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4485,6 +4660,7 @@
             "U-HWD08-01"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4502,6 +4678,7 @@
             "U-HWD08-02"
           ],
           "modelo": "HWD",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B07",
             "B18"
@@ -4534,6 +4711,7 @@
             "U-MAT04-03"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4550,6 +4728,7 @@
             "U-FIS01-01"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4566,6 +4745,7 @@
             "U-FIS01-02"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4582,6 +4762,7 @@
             "U-FIS01-03"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4615,6 +4796,7 @@
             "U-MAT05-03"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4631,6 +4813,7 @@
             "U-FIS02-01"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4647,6 +4830,7 @@
             "U-FIS02-02"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4680,6 +4864,7 @@
             "U-MAT05-03"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4696,6 +4881,7 @@
             "U-FIS03-01"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4712,6 +4898,7 @@
             "U-FIS03-02"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4728,6 +4915,7 @@
             "U-FIS03-03"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4757,6 +4945,7 @@
             "U-FIS02-03"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4773,6 +4962,7 @@
             "U-FIS04-01"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4789,6 +4979,7 @@
             "U-FIS04-02"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4818,6 +5009,7 @@
             "U-MAT01-03"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4834,6 +5026,7 @@
             "U-FIS05-01"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4850,6 +5043,7 @@
             "U-FIS05-02"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4883,6 +5077,7 @@
             "U-MAT07-03"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4899,6 +5094,7 @@
             "U-FIS06-01"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4915,6 +5111,7 @@
             "U-FIS06-02"
           ],
           "modelo": "FIS",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B19"
           ],
@@ -4948,6 +5145,7 @@
             "U-MAT06-03"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -4964,6 +5162,7 @@
             "U-ELE01-01"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -4980,6 +5179,7 @@
             "U-ELE01-02"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5013,6 +5213,7 @@
             "U-MAT08-03"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5029,6 +5230,7 @@
             "U-ELE02-01"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5045,6 +5247,7 @@
             "U-ELE02-02"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5078,6 +5281,7 @@
             "U-HWD02-03"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5094,6 +5298,7 @@
             "U-ELE03-01"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5110,6 +5315,7 @@
             "U-ELE03-02"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5126,6 +5332,7 @@
             "U-ELE03-03"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5159,6 +5366,7 @@
             "U-FIS06-03"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5175,6 +5383,7 @@
             "U-ELE04-01"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5191,6 +5400,7 @@
             "U-ELE04-02"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5207,6 +5417,7 @@
             "U-ELE04-03"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5238,6 +5449,7 @@
             "U-ELE03-04"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5254,6 +5466,7 @@
             "U-ELE05-01"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5270,6 +5483,7 @@
             "U-ELE05-02"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5286,6 +5500,7 @@
             "U-ELE05-03"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5317,6 +5532,7 @@
             "U-ELE03-04"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5333,6 +5549,7 @@
             "U-ELE06-01"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5349,6 +5566,7 @@
             "U-ELE06-02"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5380,6 +5598,7 @@
             "U-ELE04-04"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5396,6 +5615,7 @@
             "U-ELE07-01"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5412,6 +5632,7 @@
             "U-ELE07-02"
           ],
           "modelo": "ELE",
+          "conteudo_arquivo": "conteudos-exatas.json",
           "recursos": [
             "B18"
           ],
@@ -5445,6 +5666,7 @@
             "U-ELE01-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5463,6 +5685,7 @@
             "U-SIN01-01"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5481,6 +5704,7 @@
             "U-SIN01-02"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5516,6 +5740,7 @@
             "U-PRG02-04"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5534,6 +5759,7 @@
             "U-SIN02-01"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5552,6 +5778,7 @@
             "U-SIN02-02"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5587,6 +5814,7 @@
             "U-MAT08-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5605,6 +5833,7 @@
             "U-SIN03-01"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5623,6 +5852,7 @@
             "U-SIN03-02"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5658,6 +5888,7 @@
             "U-HWD06-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5676,6 +5907,7 @@
             "U-SIN04-01"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5694,6 +5926,7 @@
             "U-SIN04-02"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5712,6 +5945,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5731,6 +5965,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5750,6 +5985,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5769,6 +6005,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5788,6 +6025,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5807,6 +6045,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5826,6 +6065,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5845,6 +6085,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5864,6 +6105,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5883,6 +6125,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5902,6 +6145,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5921,6 +6165,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5940,6 +6185,7 @@
             "U-SIN04-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C07",
             "B26",
@@ -5974,6 +6220,7 @@
             "U-MAT07-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -5992,6 +6239,7 @@
             "U-SIN05-01"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -6010,6 +6258,7 @@
             "U-SIN05-02"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -6047,6 +6296,7 @@
             "U-SIN03-03"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -6065,6 +6315,7 @@
             "U-SIN06-01"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -6083,6 +6334,7 @@
             "U-SIN06-02"
           ],
           "modelo": "SIN",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B26",
             "B20",
@@ -6119,6 +6371,7 @@
             "U-PRG04-04"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6136,6 +6389,7 @@
             "U-SYS01-01"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6153,6 +6407,7 @@
             "U-SYS01-02"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6170,6 +6425,7 @@
             "U-SYS01-03"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6187,6 +6443,7 @@
             "U-SYS01-04"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C05",
             "B10",
@@ -6225,6 +6482,7 @@
             "U-PRG08-03"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6242,6 +6500,7 @@
             "U-SYS02-01"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6259,6 +6518,7 @@
             "U-SYS02-02"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6276,6 +6536,7 @@
             "U-SYS02-03"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6293,6 +6554,7 @@
             "U-SYS02-04"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C06",
             "B10",
@@ -6311,6 +6573,7 @@
             "U-SYS02-04"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C06",
             "B10",
@@ -6329,6 +6592,7 @@
             "U-SYS02-04"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "C06",
             "B10",
@@ -6365,6 +6629,7 @@
             "U-HWD04-03"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6382,6 +6647,7 @@
             "U-SYS03-01"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6399,6 +6665,7 @@
             "U-SYS03-02"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6431,6 +6698,7 @@
             "U-NET01-04"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6448,6 +6716,7 @@
             "U-SYS04-01"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6465,6 +6734,7 @@
             "U-SYS04-02"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6482,6 +6752,7 @@
             "U-SYS04-03"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6514,6 +6785,7 @@
             "U-NET01-04"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6531,6 +6803,7 @@
             "U-SYS05-01"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6548,6 +6821,7 @@
             "U-SYS05-02"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6565,6 +6839,7 @@
             "U-SYS05-03"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6597,6 +6872,7 @@
             "U-ALG02-03"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6614,6 +6890,7 @@
             "U-SYS06-01"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6631,6 +6908,7 @@
             "U-SYS06-02"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6663,6 +6941,7 @@
             "U-SWE04-04"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6680,6 +6959,7 @@
             "U-SYS07-01"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6697,6 +6977,7 @@
             "U-SYS07-02"
           ],
           "modelo": "SYS",
+          "conteudo_arquivo": "conteudos-sistemas.json",
           "recursos": [
             "B10",
             "B11"
@@ -6732,6 +7013,7 @@
             "U-HWD03-03"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6749,6 +7031,7 @@
             "U-NET01-01"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6766,6 +7049,7 @@
             "U-NET01-02"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6783,6 +7067,7 @@
             "U-NET01-03"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6818,6 +7103,7 @@
             "U-PRG03-04"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6835,6 +7121,7 @@
             "U-NET02-01"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6852,6 +7139,7 @@
             "U-NET02-02"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6869,6 +7157,7 @@
             "U-NET02-03"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6886,6 +7175,7 @@
             "U-NET02-04"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C02",
             "B11",
@@ -6919,6 +7209,7 @@
             "U-MAT07-03"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6936,6 +7227,7 @@
             "U-NET03-01"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6953,6 +7245,7 @@
             "U-NET03-02"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -6987,6 +7280,7 @@
             "U-SIN01-03"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -7004,6 +7298,7 @@
             "U-NET04-01"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -7021,6 +7316,7 @@
             "U-NET04-02"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -7053,6 +7349,7 @@
             "U-SYS04-04"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -7070,6 +7367,7 @@
             "U-NET05-01"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -7087,6 +7385,7 @@
             "U-NET05-02"
           ],
           "modelo": "NET",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B11",
             "B16"
@@ -7120,6 +7419,7 @@
             "U-PRG03-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7138,6 +7438,7 @@
             "U-SWE01-01"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7156,6 +7457,7 @@
             "U-SWE01-02"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7174,6 +7476,7 @@
             "U-SWE01-03"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7210,6 +7513,7 @@
             "U-PRG03-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7228,6 +7532,7 @@
             "U-SWE02-01"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7246,6 +7551,7 @@
             "U-SWE02-02"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7282,6 +7588,7 @@
             "U-SWE01-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B25",
             "B13"
@@ -7299,6 +7606,7 @@
             "U-SWE03-01"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B25",
             "B13"
@@ -7316,6 +7624,7 @@
             "U-SWE03-02"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B25",
             "B13"
@@ -7333,6 +7642,7 @@
             "U-SWE03-03"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B25",
             "B13"
@@ -7350,6 +7660,7 @@
             "U-SWE03-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C01",
             "B25",
@@ -7368,6 +7679,7 @@
             "U-SWE03-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C03",
             "B25",
@@ -7404,6 +7716,7 @@
             "U-SWE03-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7422,6 +7735,7 @@
             "U-SWE04-01"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7440,6 +7754,7 @@
             "U-SWE04-02"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7458,6 +7773,7 @@
             "U-SWE04-03"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7476,6 +7792,7 @@
             "U-SWE04-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C03",
             "B12",
@@ -7513,6 +7830,7 @@
             "U-SWE03-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7531,6 +7849,7 @@
             "U-SWE05-01"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7549,6 +7868,7 @@
             "U-SWE05-02"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7567,6 +7887,7 @@
             "U-SWE05-03"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7585,6 +7906,7 @@
             "U-SWE05-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "C03",
             "B12",
@@ -7622,6 +7944,7 @@
             "U-MAT02-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7640,6 +7963,7 @@
             "U-SWE06-01"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7658,6 +7982,7 @@
             "U-SWE06-02"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7676,6 +8001,7 @@
             "U-SWE06-03"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7712,6 +8038,7 @@
             "U-SWE03-04"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7730,6 +8057,7 @@
             "U-SWE07-01"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7748,6 +8076,7 @@
             "U-SWE07-02"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7766,6 +8095,7 @@
             "U-SWE07-03"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7801,6 +8131,7 @@
             "U-MAT07-03"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7819,6 +8150,7 @@
             "U-SWE08-01"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7837,6 +8169,7 @@
             "U-SWE08-02"
           ],
           "modelo": "SWE",
+          "conteudo_arquivo": "conteudos-engenharia.json",
           "recursos": [
             "B12",
             "B13",
@@ -7871,6 +8204,7 @@
             "U-ALG01-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -7888,6 +8222,7 @@
             "U-DAT01-01"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -7905,6 +8240,7 @@
             "U-DAT01-02"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -7922,6 +8258,7 @@
             "U-DAT01-03"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C02",
             "B14",
@@ -7959,6 +8296,7 @@
             "U-SYS01-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -7976,6 +8314,7 @@
             "U-DAT02-01"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -7993,6 +8332,7 @@
             "U-DAT02-02"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8010,6 +8350,7 @@
             "U-DAT02-03"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8027,6 +8368,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8045,6 +8387,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8063,6 +8406,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8081,6 +8425,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8099,6 +8444,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8117,6 +8463,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8135,6 +8482,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8153,6 +8501,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8171,6 +8520,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8189,6 +8539,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8207,6 +8558,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8225,6 +8577,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8243,6 +8596,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8261,6 +8615,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8279,6 +8634,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8297,6 +8653,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8315,6 +8672,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8333,6 +8691,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8351,6 +8710,7 @@
             "U-DAT02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8384,6 +8744,7 @@
             "U-NET02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8401,6 +8762,7 @@
             "U-DAT03-01"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8418,6 +8780,7 @@
             "U-DAT03-02"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8435,6 +8798,7 @@
             "U-DAT03-03"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8452,6 +8816,7 @@
             "U-DAT03-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8470,6 +8835,7 @@
             "U-DAT03-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8505,6 +8871,7 @@
             "U-MAT07-03"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8522,6 +8889,7 @@
             "U-DAT04-01"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8539,6 +8907,7 @@
             "U-DAT04-02"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8574,6 +8943,7 @@
             "U-MAT07-03"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8591,6 +8961,7 @@
             "U-DAT05-01"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8608,6 +8979,7 @@
             "U-DAT05-02"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8625,6 +8997,7 @@
             "U-DAT05-03"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8657,6 +9030,7 @@
             "U-SYS02-04"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8674,6 +9048,7 @@
             "U-DAT06-01"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8691,6 +9066,7 @@
             "U-DAT06-02"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B14",
             "B09"
@@ -8708,6 +9084,7 @@
             "U-DAT06-03"
           ],
           "modelo": "DAT",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C06",
             "B14",
@@ -8744,6 +9121,7 @@
             "U-MAT07-03"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -8762,6 +9140,7 @@
             "U-IA01-01"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -8780,6 +9159,7 @@
             "U-IA01-02"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -8798,6 +9178,7 @@
             "U-IA01-03"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C02",
             "B08",
@@ -8836,6 +9217,7 @@
             "U-DAT05-04"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -8854,6 +9236,7 @@
             "U-IA02-01"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -8872,6 +9255,7 @@
             "U-IA02-02"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -8890,6 +9274,7 @@
             "U-IA02-03"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -8923,6 +9308,7 @@
             "U-MAT09-03"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B15",
             "B27"
@@ -8940,6 +9326,7 @@
             "U-IA03-01"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B15",
             "B27"
@@ -8957,6 +9344,7 @@
             "U-IA03-02"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B15",
             "B27"
@@ -8989,6 +9377,7 @@
             "U-SIN02-03"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9007,6 +9396,7 @@
             "U-IA04-01"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9025,6 +9415,7 @@
             "U-IA04-02"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9058,6 +9449,7 @@
             "U-DAT04-03"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9076,6 +9468,7 @@
             "U-IA05-01"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9094,6 +9487,7 @@
             "U-IA05-02"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9127,6 +9521,7 @@
             "U-MAT07-03"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9145,6 +9540,7 @@
             "U-IA06-01"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9163,6 +9559,7 @@
             "U-IA06-02"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9196,6 +9593,7 @@
             "U-SWE07-04"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9214,6 +9612,7 @@
             "U-IA07-01"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9232,6 +9631,7 @@
             "U-IA07-02"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9250,6 +9650,7 @@
             "U-IA07-03"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "B08",
             "B09",
@@ -9268,6 +9669,7 @@
             "U-IA07-04"
           ],
           "modelo": "IA",
+          "conteudo_arquivo": "conteudos-dados.json",
           "recursos": [
             "C03",
             "B08",
@@ -9303,6 +9705,7 @@
             "U-SWE01-04"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9319,6 +9722,7 @@
             "U-HCI01-01"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9335,6 +9739,7 @@
             "U-HCI01-02"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9351,6 +9756,7 @@
             "U-HCI01-03"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9383,6 +9789,7 @@
             "U-HCI01-04"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9399,6 +9806,7 @@
             "U-HCI02-01"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9415,6 +9823,7 @@
             "U-HCI02-02"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9448,6 +9857,7 @@
             "U-ALG03-04"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9464,6 +9874,7 @@
             "U-HCI03-01"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9480,6 +9891,7 @@
             "U-HCI03-02"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9513,6 +9925,7 @@
             "U-SWE03-04"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9529,6 +9942,7 @@
             "U-HCI04-01"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9545,6 +9959,7 @@
             "U-HCI04-02"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9561,6 +9976,7 @@
             "U-HCI04-03"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9577,6 +9993,7 @@
             "U-HCI04-04"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "C02",
             "B24"
@@ -9609,6 +10026,7 @@
             "U-PRG03-04"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9625,6 +10043,7 @@
             "U-HCI05-01"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9641,6 +10060,7 @@
             "U-HCI05-02"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B24"
           ],
@@ -9672,6 +10092,7 @@
             "U-MAT07-03"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B23"
           ],
@@ -9688,6 +10109,7 @@
             "U-HCI06-01"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B23"
           ],
@@ -9704,6 +10126,7 @@
             "U-HCI06-02"
           ],
           "modelo": "HCI",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B23"
           ],
@@ -9736,6 +10159,7 @@
             "U-FND01-03"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9753,6 +10177,7 @@
             "U-PRO01-01"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9770,6 +10195,7 @@
             "U-PRO01-02"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9787,6 +10213,7 @@
             "U-PRO01-03"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "C03",
             "B16",
@@ -9821,6 +10248,7 @@
             "U-PRO01-03"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9838,6 +10266,7 @@
             "U-PRO02-01"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9855,6 +10284,7 @@
             "U-PRO02-02"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9888,6 +10318,7 @@
             "U-MAT07-03"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9905,6 +10336,7 @@
             "U-PRO03-01"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9922,6 +10354,7 @@
             "U-PRO03-02"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9939,6 +10372,7 @@
             "U-PRO03-03"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9972,6 +10406,7 @@
             "U-PRO01-03"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -9989,6 +10424,7 @@
             "U-PRO04-01"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -10006,6 +10442,7 @@
             "U-PRO04-02"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -10042,6 +10479,7 @@
             "U-HCI01-04"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -10059,6 +10497,7 @@
             "U-PRO05-01"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -10076,6 +10515,7 @@
             "U-PRO05-02"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -10093,6 +10533,7 @@
             "U-PRO05-03"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "C02",
             "B16",
@@ -10130,6 +10571,7 @@
             "U-SWE03-04"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -10147,6 +10589,7 @@
             "U-PRO06-01"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -10164,6 +10607,7 @@
             "U-PRO06-02"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -10199,6 +10643,7 @@
             "U-SWE04-04"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -10216,6 +10661,7 @@
             "U-PRO07-01"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"
@@ -10233,6 +10679,7 @@
             "U-PRO07-02"
           ],
           "modelo": "PRO",
+          "conteudo_arquivo": "conteudos-fundamentos.json",
           "recursos": [
             "B16",
             "B21"

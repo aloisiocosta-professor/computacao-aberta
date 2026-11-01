@@ -1,3 +1,7 @@
+## Versão0.3.0
+
+447 unidades com conteúdo temático próprio, carregado sob demanda dos seis arquivos conteudos-*.json. Fluxo em cinco etapas com feedback, prática numérica/decisória e autoavaliação de projeto. Registro v3 separado de v2. Laboratório em computador-3d.html usa Colorfigures MIT vendorizado e máquina finita própria. Consulte ../docs/cobertura-tematica.md e ../docs/skills-instaladas.md.
+
 # Plataforma de aprendizagem — versão 0.2.0
 
 Jornada gamificada para todos os 447 itens do currículo, organizada em 108 disciplinas e 16 eixos. A página inicial apresenta caminhos, busca, filtros, progresso, retomadas e conquistas. Cada missão inclui objetivo do tópico, fontes, estudo, previsão com feedback, código testável, evidência e revisão. Os sete jogos da versão anterior permanecem em `laboratorio.html`.

@@ -1,7 +1,7 @@
 name: Validar e empacotar plataforma para Pages
 on:
   push:
-    branches: [main, 'feature/plataforma-visual', 'feature/jornada-gamificada']
+    branches: [main, 'feature/plataforma-visual', 'feature/jornada-gamificada', 'feature/conteudo-especializado']
   pull_request:
   workflow_dispatch:
 permissions:
@@ -17,15 +17,27 @@ jobs:
       - uses: actions/checkout@v7.0.1
         with:
           persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
       - name: Testar interpretador e desafios
         run: node --test tests/web/*.test.mjs
       - name: Verificar estrutura e empacotamento
         run: |
           python3 scripts/gerar.py
           python3 scripts/validar.py
+          python3 scripts/auditar_conteudos.py
           python3 -m unittest discover -s tests -q
           git diff --exit-code
           python3 scripts/construir_plataforma.py
+      - name: Verificar modelo finito com TLC
+        env:
+          TLA2TOOLS: ${{ runner.temp }}/tla2tools.jar
+        run: |
+          curl --fail --location --silent --show-error https://github.com/tlaplus/tlaplus/releases/download/v1.7.4/tla2tools.jar --output "$TLA2TOOLS"
+          echo "936a262061c914694dfd669a543be24573c45d5aa0ff20a8b96b23d01e050e88  $TLA2TOOLS" | sha256sum --check
+          JAVA="$(command -v java)" tools/statechart/scripts/statechart models/Computador.tla --view models/view.mjs --out "${{ runner.temp }}/modelo-verificado"
+          diff docs/statecharts/chart.mmd "${{ runner.temp }}/modelo-verificado/chart.mmd"
       - name: Guardar artefato público para publicação
         uses: actions/upload-pages-artifact@v5.0.0
         with:
